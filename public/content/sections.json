@@ -1,0 +1,9 @@
+[
+  {"url": "/python", "title": "Python", "description": "Учить Python"},
+  {"url": "/java", "title": "Java", "description": "Учить Java"},
+  {"url": "/web", "title": "WEB", "description": "WEBDEV"},
+  {"url": "/php", "title": "PHP", "description": "Учить Python"},
+  {"url": "/kotlin", "title": "Kotlin", "description": "Учить Python"},
+  {"url": "/swift", "title": "Swift", "description": "Учить Python"},
+  {"url": "/devops", "title": "Руководства DevOps", "description": "Учить Python"}
+]
