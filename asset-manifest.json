@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/software-site-with-react/static/css/main.e6c13ad2.css",
+    "main.js": "/software-site-with-react/static/js/main.f9976e38.js",
+    "index.html": "/software-site-with-react/index.html",
+    "main.e6c13ad2.css.map": "/software-site-with-react/static/css/main.e6c13ad2.css.map",
+    "main.f9976e38.js.map": "/software-site-with-react/static/js/main.f9976e38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f9976e38.js"
+  ]
+}
