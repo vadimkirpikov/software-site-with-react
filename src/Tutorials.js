@@ -5,6 +5,7 @@ import {useParams} from "react-router-dom";
 
 const Tutorials = () => {
     const {section} = useParams();
+    console.log(section);
     const [tutorials, setTutorials] = useState([]);
     useEffect(() => {
         fetch(`content/${section}/${section}.json`)
