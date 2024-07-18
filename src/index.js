@@ -12,8 +12,8 @@ root.render(
         <div>Hello World</div>
         <Routes>
             <Route path="/" element={<Sections/>}></Route>
-            <Route path="/:section" element={<Tutorials/>}></Route>
-            <Route path="/:section/:tutorial/:article" element={<Article />}></Route>
+            <Route path="tutorials/:section" element={<Tutorials/>}></Route>
+            <Route path="tutorials/:section/:tutorial/:article" element={<Article />}></Route>
         </Routes>
     </Router>
 );
