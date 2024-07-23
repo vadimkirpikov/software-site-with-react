@@ -1,7 +1,7 @@
-import React from "react";
+import React, {useEffect, useState} from "react";
 import SectionCard from "./SectionCard";
-import {useState, useEffect} from "react";
 import {useParams} from "react-router-dom";
+import "./sections.css"
 
 const Tutorials = () => {
     const {section} = useParams();
@@ -18,11 +18,12 @@ const Tutorials = () => {
             })
     }, [section]);
     return (
-        <div>
+        <section id="tutorials">
             {tutorials.map((tutorial, index) => (
-                <SectionCard key={index} title={tutorial.title} description={tutorial.description} url={tutorial.url}></SectionCard>
+                <SectionCard key={index} title={tutorial.title} description={tutorial.description}
+                             url={tutorial.url}></SectionCard>
             ))}
-        </div>
+        </section>
     )
 }
 export default Tutorials;

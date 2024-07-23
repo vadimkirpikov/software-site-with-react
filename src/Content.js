@@ -1,4 +1,4 @@
-// Sections.js
+
 import React, { useState, useEffect } from "react";
 import SectionCard from "./SectionCard";
 
@@ -17,16 +17,22 @@ const Sections = () => {
     }, []);
 
     return (
-        <div>
-            {sections.map((section, index) => (
-                <SectionCard
-                    key={index}
-                    title={section.title}
+        <><link rel="stylesheet" href="/main.css"/>
+        <section id="hero">
+            <h2>Туториалы по программированию</h2>
+            <p>Изучайте программирование с нашими удобными и информативными туториалами.</p>
+        </section>
+    <section id="tutorials">
+        {sections.map((section, index) => (
+            <SectionCard
+                key={index}
+                title={section.title}
                     description={section.description}
                     url={section.url}
                 />
             ))}
-        </div>
+        </section>
+            </>
     );
 };
 
