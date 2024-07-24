@@ -1,4 +1,4 @@
 [
-  {"url": "/python/general", "title": "Python", "description": "Общее руководство Python"},
-  {"url": "/python/django", "title": "Django", "description": "Общее руководство Django"}
+  {"url": "/python/general/intro", "title": "Python", "description": "Общее руководство Python"},
+  {"url": "/python/django/intro", "title": "Django", "description": "Общее руководство Django"}
 ]
