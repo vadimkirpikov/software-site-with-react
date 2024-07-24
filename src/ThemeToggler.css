@@ -1,0 +1,28 @@
+.toggle-switch {
+    cursor: pointer;
+}
+.toggle-switch .background {
+    fill: orange;
+}
+.toggle-switch.on .background {
+    fill: darkslateblue;
+}
+.toggle-switch .circle {
+    fill: white;
+    transition: transform 0.3s;
+}
+.toggle-switch.on .circle {
+    transform: translateX(30px);
+}
+.toggle-switch .sun, .toggle-switch .moon {
+    transition: opacity 0.3s;
+}
+.toggle-switch .moon {
+    opacity: 0;
+}
+.toggle-switch.on .sun {
+    opacity: 0;
+}
+.toggle-switch.on .moon {
+    opacity: 1;
+}
