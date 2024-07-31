@@ -63,7 +63,7 @@ def login_view(request):
 
 ```html
 <form method="post">
-    {% csrf_token %}
+    <input type="hidden" name="csrfmiddlewaretoken" value="{{ csrf_token }}">
     {{ form.as_p }}
     <button type="submit">Войти</button>
 </form>
