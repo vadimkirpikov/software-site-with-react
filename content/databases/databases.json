@@ -1,0 +1,32 @@
+[
+  {
+    "id": 33,
+    "name": "postgre",
+    "title": "PostgreSQl",
+    "preview": null,
+    "lang_id": 20,
+    "url": "/tutorials/databases/postgre/intro",
+    "description": "Погружайтесь в мир реляционных баз данных с PostgreSQL.\n",
+    "keywords": null
+  },
+  {
+    "id": 34,
+    "name": "mysql",
+    "title": "MySQL",
+    "preview": null,
+    "lang_id": 20,
+    "url": "/tutorials/databases/mysql/intro",
+    "description": "Полное руководство по MySQL для начинающих и профессионалов. \n",
+    "keywords": null
+  },
+  {
+    "id": 35,
+    "name": "sqlite",
+    "title": "SQLite",
+    "preview": null,
+    "lang_id": 20,
+    "url": "/tutorials/databases/sqlite/intro",
+    "description": "Полное руководство по использованию SQLite.\n",
+    "keywords": null
+  }
+]

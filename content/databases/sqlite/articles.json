@@ -1,0 +1,227 @@
+[
+  {
+    "id": 984,
+    "title": "Сортировка данных (ORDER BY) в SQLite",
+    "url": "/tutorials/databases/sqlite/intro",
+    "chapter": 0,
+    "keywords": "",
+    "description": "",
+    "name": "intro"
+  },
+  {
+    "id": 985,
+    "title": "Функции агрегации (SUM, AVG, COUNT, MIN, MAX) в SQLite",
+    "url": "/tutorials/databases/sqlite/aggregate_functions",
+    "chapter": 0,
+    "keywords": "",
+    "description": "",
+    "name": "aggregate_functions"
+  },
+  {
+    "id": 986,
+    "title": "Группировка данных (GROUP BY) в SQLite",
+    "url": "/tutorials/databases/sqlite/grouping_data",
+    "chapter": 0,
+    "keywords": "",
+    "description": "",
+    "name": "grouping_data"
+  },
+  {
+    "id": 987,
+    "title": "Фильтрация групп (HAVING) в SQLite",
+    "url": "/tutorials/databases/sqlite/having_clause",
+    "chapter": 0,
+    "keywords": "",
+    "description": "",
+    "name": "having_clause"
+  },
+  {
+    "id": 988,
+    "title": "Операторы LIKE и IN в SQLite",
+    "url": "/tutorials/databases/sqlite/like_in_operators",
+    "chapter": 0,
+    "keywords": "",
+    "description": "",
+    "name": "like_in_operators"
+  },
+  {
+    "id": 989,
+    "title": "Типы соединений (INNER JOIN, LEFT JOIN, RIGHT JOIN) в SQLite",
+    "url": "/tutorials/databases/sqlite/join_types",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "join_types"
+  },
+  {
+    "id": 990,
+    "title": "Подзапросы (Subqueries) в SQLite",
+    "url": "/tutorials/databases/sqlite/subqueries",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "subqueries"
+  },
+  {
+    "id": 991,
+    "title": "Соединение таблиц по нескольким столбцам в SQLite",
+    "url": "/tutorials/databases/sqlite/multi_column_joins",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "multi_column_joins"
+  },
+  {
+    "id": 992,
+    "title": "Самосоединение таблицы (Self_join) в SQLite",
+    "url": "/tutorials/databases/sqlite/self_join",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "self_join"
+  },
+  {
+    "id": 993,
+    "title": "Вставка данных (INSERT INTO) в SQLite",
+    "url": "/tutorials/databases/sqlite/insert_statement",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "insert_statement"
+  },
+  {
+    "id": 994,
+    "title": "Обновление данных (UPDATE) в SQLite",
+    "url": "/tutorials/databases/sqlite/update_statement",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "update_statement"
+  },
+  {
+    "id": 995,
+    "title": "Удаление данных (DELETE) в SQLite",
+    "url": "/tutorials/databases/sqlite/delete_statement",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "delete_statement"
+  },
+  {
+    "id": 996,
+    "title": "Транзакции в SQLite",
+    "url": "/tutorials/databases/sqlite/transactions",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "transactions"
+  },
+  {
+    "id": 997,
+    "title": "Индексы в SQLite",
+    "url": "/tutorials/databases/sqlite/indexes_in_sqlite",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "indexes_in_sqlite"
+  },
+  {
+    "id": 998,
+    "title": "Использование индексов для оптимизации запросов в SQLite",
+    "url": "/tutorials/databases/sqlite/using_indexes",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "using_indexes"
+  },
+  {
+    "id": 999,
+    "title": "Оптимизация запросов SQL в SQLite",
+    "url": "/tutorials/databases/sqlite/sql_query_optimization",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "sql_query_optimization"
+  },
+  {
+    "id": 1000,
+    "title": "Создание и вызов функций в SQLite",
+    "url": "/tutorials/databases/sqlite/creating_calling_functions",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "creating_calling_functions"
+  },
+  {
+    "id": 1001,
+    "title": "Параметры функций в SQLite",
+    "url": "/tutorials/databases/sqlite/function_parameters",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "function_parameters"
+  },
+  {
+    "id": 1002,
+    "title": "Управление доступом к данным в SQLite (GRANT, REVOKE)",
+    "url": "/tutorials/databases/sqlite/grant_revoke",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "grant_revoke"
+  },
+  {
+    "id": 1003,
+    "title": "Защита от SQL_инъекций в SQLite",
+    "url": "/tutorials/databases/sqlite/sql_injection_prevention",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "sql_injection_prevention"
+  },
+  {
+    "id": 1004,
+    "title": "Работа с JSON в SQLite",
+    "url": "/tutorials/databases/sqlite/json_in_sqlite",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "json_in_sqlite"
+  },
+  {
+    "id": 1005,
+    "title": "Работа с BLOB данными в SQLite",
+    "url": "/tutorials/databases/sqlite/blob_data_in_sqlite",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "blob_data_in_sqlite"
+  },
+  {
+    "id": 1006,
+    "title": "Виртуальные таблицы и FTS в SQLite",
+    "url": "/tutorials/databases/sqlite/virtual_tables_fts",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "virtual_tables_fts"
+  },
+  {
+    "id": 1007,
+    "title": "Интерфейсы для работы с SQLite",
+    "url": "/tutorials/databases/sqlite/sqlite_interfaces",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "sqlite_interfaces"
+  },
+  {
+    "id": 1008,
+    "title": "Популярные инструменты для администрирования SQLite",
+    "url": "/tutorials/databases/sqlite/popular_tools",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "popular_tools"
+  }
+]

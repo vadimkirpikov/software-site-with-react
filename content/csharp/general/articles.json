@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1600,
+    "title": "C# и преимущества его использования",
+    "url": "/tutorials/csharp/general/intro",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "intro"
+  },
+  {
+    "id": 1601,
+    "title": "Установка и настройка окружения",
+    "url": "/tutorials/csharp/general/setup_environment",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "setup_environment"
+  },
+  {
+    "id": 1602,
+    "title": "Установка .NET SDK",
+    "url": "/tutorials/csharp/general/install_sdk",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "install_sdk"
+  },
+  {
+    "id": 1603,
+    "title": "Установка Visual Studio или Visual Studio Code",
+    "url": "/tutorials/csharp/general/install_vs",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "install_vs"
+  },
+  {
+    "id": 1604,
+    "title": "Типы данных, переменные и операторы",
+    "url": "/tutorials/csharp/general/data_types",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "data_types"
+  },
+  {
+    "id": 1605,
+    "title": "Условные операторы и циклы",
+    "url": "/tutorials/csharp/general/conditionals_loops",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "conditionals_loops"
+  },
+  {
+    "id": 1606,
+    "title": "Функции",
+    "url": "/tutorials/csharp/general/functions",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "functions"
+  },
+  {
+    "id": 1607,
+    "title": "Делегаты",
+    "url": "/tutorials/csharp/general/delegates",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "delegates"
+  },
+  {
+    "id": 1608,
+    "title": "Лямбда-выражения",
+    "url": "/tutorials/csharp/general/lambda_expressions",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "lambda_expressions"
+  },
+  {
+    "id": 1609,
+    "title": "Классы и объекты",
+    "url": "/tutorials/csharp/general/classes_objects",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "classes_objects"
+  },
+  {
+    "id": 1610,
+    "title": "Наследование",
+    "url": "/tutorials/csharp/general/inheritance",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "inheritance"
+  },
+  {
+    "id": 1611,
+    "title": "Абстрактные классы",
+    "url": "/tutorials/csharp/general/abstract_classes",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "abstract_classes"
+  },
+  {
+    "id": 1612,
+    "title": "Полиморфизм и интерфейсы",
+    "url": "/tutorials/csharp/general/polymorphism_interfaces",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "polymorphism_interfaces"
+  },
+  {
+    "id": 1613,
+    "title": "Работа со строками",
+    "url": "/tutorials/csharp/general/string_handling",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "string_handling"
+  },
+  {
+    "id": 1614,
+    "title": "Использование регулярных выражений",
+    "url": "/tutorials/csharp/general/regex",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "regex"
+  },
+  {
+    "id": 1615,
+    "title": "Интерполяция строк",
+    "url": "/tutorials/csharp/general/string_interpolation",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "string_interpolation"
+  },
+  {
+    "id": 1616,
+    "title": "Основы работы с коллекциями (List, Dictionary, HashSet)",
+    "url": "/tutorials/csharp/general/collections_basics",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "collections_basics"
+  },
+  {
+    "id": 1617,
+    "title": "Продвинутые коллекции (Queue, Stack, LinkedList)",
+    "url": "/tutorials/csharp/general/advanced_collections",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "advanced_collections"
+  },
+  {
+    "id": 1618,
+    "title": "Использование генераторов (yield return)",
+    "url": "/tutorials/csharp/general/generators",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "generators"
+  },
+  {
+    "id": 1619,
+    "title": "Основы LINQ",
+    "url": "/tutorials/csharp/general/linq_basics",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "linq_basics"
+  },
+  {
+    "id": 1620,
+    "title": "Использование LINQ для работы с коллекциями",
+    "url": "/tutorials/csharp/general/linq_collections",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "linq_collections"
+  },
+  {
+    "id": 1621,
+    "title": "Продвинутые возможности LINQ",
+    "url": "/tutorials/csharp/general/linq_advanced",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "linq_advanced"
+  },
+  {
+    "id": 1622,
+    "title": "Основы многопоточности",
+    "url": "/tutorials/csharp/general/threading_basics",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "threading_basics"
+  },
+  {
+    "id": 1623,
+    "title": "Параллельное программирование с использованием Parallel и PLINQ",
+    "url": "/tutorials/csharp/general/parallel_programming",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "parallel_programming"
+  },
+  {
+    "id": 1624,
+    "title": "Использование Concurrent Collections",
+    "url": "/tutorials/csharp/general/concurrent_collections",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "concurrent_collections"
+  },
+  {
+    "id": 1625,
+    "title": "Асинхронное программирование",
+    "url": "/tutorials/csharp/general/async_programming",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "async_programming"
+  },
+  {
+    "id": 1626,
+    "title": "Чтение и запись файлов",
+    "url": "/tutorials/csharp/general/file_io",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "file_io"
+  },
+  {
+    "id": 1627,
+    "title": "Работа с потоками (Stream, StreamReader, StreamWriter)",
+    "url": "/tutorials/csharp/general/streams",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "streams"
+  },
+  {
+    "id": 1628,
+    "title": "Асинхронный ввод/вывод",
+    "url": "/tutorials/csharp/general/async_io",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "async_io"
+  },
+  {
+    "id": 1629,
+    "title": "Основы тестирования в C#",
+    "url": "/tutorials/csharp/general/testing_basics",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "testing_basics"
+  },
+  {
+    "id": 1630,
+    "title": "Модульное тестирование с использованием xUnit или NUnit",
+    "url": "/tutorials/csharp/general/unit_testing",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "unit_testing"
+  },
+  {
+    "id": 1631,
+    "title": "Тестирование интеграций",
+    "url": "/tutorials/csharp/general/integration_testing",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "integration_testing"
+  }
+]

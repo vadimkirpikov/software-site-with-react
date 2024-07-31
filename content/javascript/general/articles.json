@@ -1,0 +1,911 @@
+[
+  {
+    "id": 379,
+    "title": "Что такое JavaScript. Первая программа",
+    "url": "/tutorials/javascript/general/intro",
+    "chapter": 1,
+    "keywords": "ert, комментарий,  начало обучения, metanit, Что такое JavaScript. Первая программа, динамическая типизация, статьи, веб-страница, скриптовый язык, консоль, обучение,  Hello World, язык программирования,  простой код,  редактор кода, JavaScript, DOM, habr,  привет мир, переменная,  основы, write, интерпретируемый язык, значение, браузер,  первая программа, обучающие статьи по программированию, веб-разработка, обработка событий, хабр, progvibe.ru, прогвайб, CSS, фронтенд,  console.log, HTML,  компилятор, document,  интерпретатор. \n, метанит,  установка,  среда разработки, интерактивность,  IDE, как научиться программировать, progvibe, программирование, оператор, анимация",
+    "description": "",
+    "name": "intro"
+  },
+  {
+    "id": 380,
+    "title": "Подключение внешнего файла JavaScript",
+    "url": "/tutorials/javascript/general/external_js_file",
+    "chapter": 1,
+    "keywords": "c, metanit, рендеринг, defer, фреймворки, статьи, подключение, события, удаленный файл, fetch, async, обучение, AJAX, кэширование, Angular, JavaScript, DOM, CDN, Vue.js\n, habr, модули, браузер, React, обучающие статьи по программированию, внешний файл, блокировка, абсолютный путь, хабр, progvibe.ru, динамическая загрузка, прогвайб, производительность, jQuery, оптимизация, HTML, загрузка, метанит, библиотеки, как научиться программировать, progvibe, относительный путь, script, head, обработчики, Подключение внешнего файла JavaScript, программирование, body, локальный файл, исполнение",
+    "description": "",
+    "name": "external_js_file"
+  },
+  {
+    "id": 381,
+    "title": "Консоль браузера и console.log",
+    "url": "/tutorials/javascript/general/browser_console_log",
+    "chapter": 1,
+    "keywords": "ализ, лог, мониторинг, browser console,  web development tools \n, отладка, число, инструмент, metanit, инструменты, статьи, предупреждение, debugging, информация, объект, массив, обучение, console.log, JavaScript, сценарий, habr, выполнение, inspect element, переменная, строка, ошибка, значение, журнал, дебаг, обучающие статьи по программированию, веб-разработка, хабр, progvibe.ru, прогвайб, Консоль браузера и console.log, Консоль браузера, функциональность, метанит, инструменты разработчика, код, как научиться программировать, inspect, функция, print, progvibe, developer tools, программирование, вывод, logging",
+    "description": "",
+    "name": "browser_console_log"
+  },
+  {
+    "id": 382,
+    "title": "Переменные и константы, типы данных, преобразование данных",
+    "url": "/tutorials/javascript/general/variables_constants_data_types",
+    "chapter": 2,
+    "keywords": "исваивание значений,  условия, словари, Переменные и константы, типы данных, преобразование данных,  статические типы данных, metanit,  классы, булевы значения, статьи, типы данных,  ошибки преобразования,  преобразование с плавающей запятой,  строковое преобразование,  массивы, обучение, Переменные, вещественные числа, строки, неявное преобразование, habr,  программы,  явное преобразование, циклы,  форматирование данных,  библиотеки, языки программирования,  сравнение данных,  функции, обучающие статьи по программированию, константы, символы,  модули, хабр, progvibe.ru, прогвайб,  объекты,  целые числа,  структуры данных, метанит,  математические операции,  объявление переменных, динамические типы данных, как научиться программировать, progvibe, преобразование данных,  логические операции, программирование, списки,  интегральное преобразование,  методы, приложения. \n",
+    "description": "",
+    "name": "variables_constants_data_types"
+  },
+  {
+    "id": 383,
+    "title": "Арифметические и поразрядные операции",
+    "url": "/tutorials/javascript/general/arithmetic_bitwise_operations",
+    "chapter": 2,
+    "keywords": "оичная система счисления, вычитание, metanit, статьи, побитовое XOR, микропроцессоры, информационные технологии, математика, цифровые технологии \n, логический AND, обучение, побитовое NOT, логические операции, логический XOR, сдвиг вправо, биты, компьютерные науки, информатика, habr, побитовое AND, поразрядные операции, сдвиг влево, оперативная память, алгоритмы, умножение, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, память, процессоры, метанит, логический NOT, арифметические операции, регистры, как научиться программировать, побитовое OR, деление, progvibe, Арифметические и поразрядные операции, байты, программирование, десятичная система счисления, булевы операции, логический OR, сложение",
+    "description": "",
+    "name": "arithmetic_bitwise_operations"
+  },
+  {
+    "id": 384,
+    "title": "Условные выражения и конструкции",
+    "url": "/tutorials/javascript/general/conditional_statements",
+    "chapter": 2,
+    "keywords": "ловные выражения, ветка, конструкции, логическая операция, Условные выражения и конструкции, отладка, metanit, операторы сравнения, статьи, логические операторы, структура, читаемость, альтернатива, равенство, ложность, исключение, меньше или равно, debug, обучение, true, не, понятность, сравнение, habr, выполнение, false, неравенство, меньше, контроль потока, алгоритм, больше или равно, блок, ошибка, ассоциативность, программа, истинность, эффективность, обучающие статьи по программированию, хабр, progvibe.ru, и, прогвайб, выбор, else, больше, оператор сравнения, короткое замыкание, оптимизация, ветвление,  \n, обработка ошибок, метанит, отступ, логический оператор, elif, код, блок кода, приоритет, как научиться программировать, progvibe, if, условие, программирование, или, оператор, оператор присваивания, индентация, управление потоком, ясность",
+    "description": "",
+    "name": "conditional_statements"
+  },
+  {
+    "id": 385,
+    "title": "Условные операторы ?: и ??",
+    "url": "/tutorials/javascript/general/ternary_and_nullish_coalescing",
+    "chapter": 2,
+    "keywords": "рнарный оператор,  TypeScript,  условная логика,  Java,  эффективность кода, условный оператор,  null-безопасный код, metanit,  упрощенный синтаксис, статьи,  выбор значения, оператор ?? ,  проверка условия,  повышение читаемости,  присваивание значения, обучение,  PHP, habr, оператор ?: ,  обработка ошибок,  JavaScript,  логическое выражение,  возвращаемое значение,  сокращение строк кода. \n, обучающие статьи по программированию,  оператор слияния, хабр, progvibe.ru, прогвайб, Условные операторы ?: и ??, null coalescing operator,  сравнение значений,  короткое замыкание,  Python, сокращенная запись if-else,  Kotlin, метанит, как научиться программировать, условное присваивание, progvibe,  условное выражение,  C#, программирование,  управление потоком выполнения,  упрощение кода,  предотвращение исключений,  Swift",
+    "description": "",
+    "name": "ternary_and_nullish_coalescing"
+  },
+  {
+    "id": 386,
+    "title": "Введение в массивы",
+    "url": "/tutorials/javascript/general/intro_to_arrays",
+    "chapter": 2,
+    "keywords": "ртировка, изменение, metanit, Java, адрес, статьи, размер, цикл, обучение, элемент, массив, объявление, многомерный массив, поиск, итерация, хранение данных, статический массив, habr, вектор, структурированные данные, строка, доступ, алгоритмы, языки программирования, Python \n, эффективность, обучающие статьи по программированию, C++, Введение в массивы, индекс, список, хабр, progvibe.ru, прогвайб, память, тип данных, метанит, динамический массив, как научиться программировать, progvibe, одномерный массив, обработка данных, структура данных, вывод, программирование, инициализация, указатель, ввод",
+    "description": "",
+    "name": "intro_to_arrays"
+  },
+  {
+    "id": 387,
+    "title": "Циклы",
+    "url": "/tutorials/javascript/general/loops",
+    "chapter": 2,
+    "keywords": "тропия,  общество, прогресс,  психология \n, изменение, гармония,  природа, metanit, дисбаланс, статьи, развитие, цикл, эволюция, обучение,  экономика, habr, модель, хаос,  физика,  космос,  время,  математика, динамика, обучающие статьи по программированию, пространство,  история, цикличность, хабр, progvibe.ru, прогвайб, колебание,  стабильность, период, Циклы, метанит, регресс, как научиться программировать, progvibe, фаза, паттерн, повторяемость, программирование,  жизнь, ритм",
+    "description": "",
+    "name": "loops"
+  },
+  {
+    "id": 388,
+    "title": "Функции",
+    "url": "/tutorials/javascript/general/functions",
+    "chapter": 3,
+    "keywords": "вторное использование кода, абстракция, дизайн функций, стиль кодирования функций. \n, metanit, область видимости, статьи, параметр, возвращаемое значение, рекурсия, императивное программирование, декомпозиция задачи, обучение, отладка функций, чистая функция, habr, разбиение на функции, замыкание, аргумент, анализ производительности, безопасность функций, тестирование функций, обучающие статьи по программированию, документирование функций, побочный эффект, хабр, progvibe.ru, прогвайб, область действия, оптимизация функций, объектно-ориентированное программирование, метанит, lambda-выражение, декларативное программирование, блок кода, модульность, как научиться программировать, функция, progvibe, функциональное программирование, программирование, Функции, анонимная функция, перегрузка функций",
+    "description": "",
+    "name": "functions"
+  },
+  {
+    "id": 389,
+    "title": "Передача параметров по значению и по ссылке",
+    "url": "/tutorials/javascript/general/pass_by_value_reference",
+    "chapter": 3,
+    "keywords": "пия, C#, метод, изменение, отладка, metanit, Java, область видимости, статьи, компилятор, параметр, процедура, Python, Передача параметров, адресация, обучение, язык программирования, модификация, JavaScript, habr, стековая память, переменная, аргумент, stack overflow, ошибка, значение, оригинал, lifetime, обучающие статьи по программированию, эффективность, C++, хабр, progvibe.ru, прогвайб, Передача параметров по значению и по ссылке, производительность, оптимизация,  дебаггинг, ссылочный тип, куча, исключение. \n, метанит, как научиться программировать, по ссылке, ссылка, функция, progvibe, программирование, указатель, по значению",
+    "description": "",
+    "name": "pass_by_value_reference"
+  },
+  {
+    "id": 390,
+    "title": "Рекурсивные функции",
+    "url": "/tutorials/javascript/general/recursive_functions",
+    "chapter": 3,
+    "keywords": "зовый случай, вызов, Рекурсивные функции, tail call optimization, memoization \n, metanit, Java, tail recursion, сама себя, рекурсивные функции, динамическое программирование, статьи, рекурсия, Python, цикл, стек вызовов, стек, дерево, обучение, поиск, оптимизация рекурсии, итерация, JavaScript, habr, алгоритм, рекурсивные отношения, обучающие статьи по программированию, эффективность, C++, хабр, progvibe.ru, прогвайб, память, примеры, факториал, оптимизация, метанит, Фибоначчи, время выполнения, как научиться программировать, progvibe, функция, программирование, сортировка, рекурсивный шаг",
+    "description": "",
+    "name": "recursive_functions"
+  },
+  {
+    "id": 391,
+    "title": "Стрелочные функции",
+    "url": "/tutorials/javascript/general/arrow_functions",
+    "chapter": 3,
+    "keywords": "раметры, вызов,  ES6, асинхронное программирование,  ECMAScript, metanit, контекст выполнения, filter, область видимости, статьи, возвращаемое значение, Promise, обучение, объявление, синтаксис, JavaScript, краткость, лаконичность, this, сравнение, классические функции, habr, reduce, контекст, тело, анонимные функции, обучающие статьи по программированию, Стрелочные функции, недостатки, async/await, хабр, map, progvibe.ru, прогвайб, примеры,  преимущества, лексическое связывание, callback, метанит, как научиться программировать, progvibe, использование, функции высшего порядка, аргументы, программирование,  JavaScript функции. \n, выражения",
+    "description": "",
+    "name": "arrow_functions"
+  },
+  {
+    "id": 392,
+    "title": "Область видимости переменных",
+    "url": "/tutorials/javascript/general/variable_scope",
+    "chapter": 3,
+    "keywords": "раметры, Область видимости переменных, доступные в  функциях, переменные в  классах, функции, metanit,  использование переменных в  разных частях кода, область видимости,  рекомендации  по  работе с  областью видимости, статьи, переменные в  блоках, область видимости переменных в блоках, область видимости переменных в модулях, обучение, переменные в  модулях, глобальные переменные, блоки кода, habr,  работа  с  переменными  в  программах, область видимости переменных в функциях, динамическая область видимости, область определения, модули, обучающие статьи по программированию,  хорошие практики  области видимости. \n, хабр, progvibe.ru, прогвайб, конфликты имен, область действия, доступные в  классах, доступные в  модулях, доступные в  блоках,  переменные в  функциях,  правила  области видимости, метанит,  передача переменных  в  функции, как научиться программировать, progvibe, локальные переменные, аргументы, лексическая область видимости,  переменные, программирование, область видимости переменных в классах,  ошибки  области видимости, переменные",
+    "description": "",
+    "name": "variable_scope"
+  },
+  {
+    "id": 393,
+    "title": "Замыкания",
+    "url": "/tutorials/javascript/general/closures",
+    "chapter": 3,
+    "keywords": "allback functions,  environment, metanit, область видимости, внутренние функции, замыкание в C++,  functional programming, статьи,  code reuse,  partial application, обучение,  efficiency, ссылки, замыкание в JavaScript, замыкание в Python, среда выполнения,  code modularity, habr,  inner functions, лексическая среда, замыкание, доступ, контекст,  data hiding, неявный параметр, значение,  nested functions,  encapsulation,  currying,  closure in C++, обучающие статьи по программированию,  function closure,  closure in Python, хабр, progvibe.ru, внешние переменные, прогвайб, область действия,  memory management,  scope chain, метанит,  closure in JavaScript, как научиться программировать, progvibe, Замыкания, функция,  variable capture,  code clarity, программирование,  anonymous functions, переменные,  lexical scope,  performance impact,  closures,  maintainability \n,  higher-order functions",
+    "description": "",
+    "name": "closures"
+  },
+  {
+    "id": 394,
+    "title": "Функции IIFE",
+    "url": "/tutorials/javascript/general/iife_functions",
+    "chapter": 3,
+    "keywords": "ражения, Эффективность, metanit, Замыкание, Применение IIFE, Область видимости, статьи, Параметры, Функциональное программирование, Тестирование, обучение, Функции IIFE, Создание частных переменных и функций, JavaScript, habr, IIFE, Разработка, Отладка, Производительность. \n, Возвращаемое значение, Создание локальной области видимости, обучающие статьи по программированию, Недостатки IIFE, хабр, progvibe.ru, Программирование, прогвайб, Предотвращение загрязнения глобальной области видимости, Немедленно вызываемые функциональные выражения, Преимущества IIFE, Объявления, метанит, Альтернативы IIFE, как научиться программировать, progvibe, Код, программирование, Примеры IIFE, Модульное программирование, Обеспечение безопасности данных, Анонимные функции, Самовызывающиеся функции",
+    "description": "",
+    "name": "iife_functions"
+  },
+  {
+    "id": 395,
+    "title": "Переопределение функций",
+    "url": "/tutorials/javascript/general/function_overriding",
+    "chapter": 3,
+    "keywords": "ртуальная таблица, повторное использование кода, абстракция, полиморфный код, metanit, простота обслуживания, указатели на функции, проектирование программного обеспечения, статьи, полиморфизм, возвращаемое значение, наследование, интерфейсы, повышение производительности, обучение, Переопределение функций, методы, статические функции, базовое состояние, сигнатура функции, habr, OOP, производное состояние, динамическое выделение памяти, гибкость, абстрактные классы, масштабируемость, классы, обучающие статьи по программированию, переопределение функций, расширяемость, хабр, progvibe.ru, прогвайб, виртуальные функции, объектно-ориентированное программирование, метанит, статическое связывание, модульность, как научиться программировать, progvibe, аргументы, оптимизация кода, динамическое связывание, программирование, шаблон проектирования, декомпозиция кода. \n, перегрузка функций",
+    "description": "",
+    "name": "function_overriding"
+  },
+  {
+    "id": 396,
+    "title": "Hoisting",
+    "url": "/tutorials/javascript/general/hoisting",
+    "chapter": 3,
+    "keywords": "se strict mode,  errors. \n,  interpreting, metanit,  call stack, статьи,  undefined,  function scope,  scope, variable declaration,  lexical environment, обучение,  memory allocation, JavaScript, habr,  local scope,  debugging, hoisting, function declaration,  null,  code readability,  variable hoisting,  compiling,  script execution, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб,  function hoisting, Hoisting,  declaration phase,  best practices,  execution context,  execution phase,  avoid hoisting, метанит, как научиться программировать,  temporal dead zone, progvibe, программирование,  variable initialization, global scope,  reference error",
+    "description": "",
+    "name": "hoisting"
+  },
+  {
+    "id": 397,
+    "title": "Классы",
+    "url": "/tutorials/javascript/general/classes",
+    "chapter": 4,
+    "keywords": "омпозиция, деструктор, обучающие статьи по программированию, абстракция, метод,  UML,  парадигма,  перегрузка, metanit,  кодирование,  модель, статьи,  создание отношений,  динамический член, полиморфизм,  создание объекта,  scope,  переопределение, наследование, атрибут,  разработка, модуль, объект,  visibility, обучение,  уничтожение, habr,  private,  структуризация,  проектирование \n, переменная,  управление, progvibe.ru,  принцип SOLID, конструктор, пакет,  инициализация,  абстрактный класс,  protected,  public,  статический член,  поведение, хабр,  зависимость,  создание,  интерфейс,  OOP,  наследование, класс,  моделирование, прогвайб, инкапсуляция,  объектно-ориентированное программирование, тип данных, реализация, метанит, экземпляр,  ассоциация, как научиться программировать, progvibe, функция,  динамическая диспетчеризация, программирование, интерфейс,  диаграмма классов,  агрегация,  статический метод, Классы",
+    "description": "",
+    "name": "classes"
+  },
+  {
+    "id": 398,
+    "title": "Приватные поля и методы",
+    "url": "/tutorials/javascript/general/private_fields_methods",
+    "chapter": 4,
+    "keywords": "нкапсуляция, Приватные поля,  сокрытие деталей,  Java,  доступ,  C++, metanit,  классы,  программирование, статьи,  защита данных,  ООП, обучение,  реализация,  код, методы,  полиморфизм, habr,  private,  сокрытие реализации,  абстракция,  функции, обучающие статьи по программированию,  protected,  атрибуты,  public,  поведение,  свойства, хабр, progvibe.ru, прогвайб,  интерфейс,  объекты,  наследование,  внутреннее состояние,  объектно-ориентированное программирование, метанит,  модификатор доступа, как научиться программировать, progvibe,  C#, Приватные поля и методы, программирование,  члены класса,  методы,  скрытие информации,  безопасность,  языки программирования,  Python. \n",
+    "description": "",
+    "name": "private_fields_methods"
+  },
+  {
+    "id": 399,
+    "title": "Статические поля и методы",
+    "url": "/tutorials/javascript/general/static_fields_methods",
+    "chapter": 4,
+    "keywords": "структор, надежность, абстракция, отладка, metanit, область видимости, статьи, модификатор доступа, полиморфизм, наследование, документация, модуль, объект, обучение, тестирование, жизненный цикл, protected, habr, this, компонент, рекомендация, static, практический пример, переменная, доступ, значение, конструктор, обучающие статьи по программированию, эффективность, хабр, progvibe.ru, прогвайб, Статическое поле, безопасность, память, ключевое слово, класс, производительность, функциональность, оптимизация,  \n, приложение, инкапсуляция, повторное использование, реализация, метанит, экземпляр, концепция, хранение, public, ссылка, private, код, использование, как научиться программировать, progvibe, Статические поля и методы, программирование, библиотека, инициализация, статический метод, пример",
+    "description": "",
+    "name": "static_fields_methods"
+  },
+  {
+    "id": 400,
+    "title": "Свойства и методы доступа",
+    "url": "/tutorials/javascript/general/accessors_properties_methods",
+    "chapter": 4,
+    "keywords": "П, абстракция, принципы. \n, Свойства и методы доступа, приватные, metanit,  концепции, статьи, структура, поля, полиморфизм, наследование, объекты, обучение, методы, публичные, habr, чтение, доступ, данные, дизайн, классы, обучающие статьи по программированию, хабр, атрибуты, progvibe.ru, прогвайб, защищенные, поведение, encapsulate, инкапсуляция, объектно-ориентированное программирование, повторное использование, Свойства, setter, запись, модификаторы, реализация, getter, код, модульность, метанит, как научиться программировать, progvibe, состояние, программирование, переменные, интерфейс",
+    "description": "",
+    "name": "accessors_properties_methods"
+  },
+  {
+    "id": 401,
+    "title": "Наследование",
+    "url": "/tutorials/javascript/general/inheritance",
+    "chapter": 4,
+    "keywords": "структор, абстракция, Наследование, перегрузка, множественное наследование, наследник, metanit, публичные члены, агрегация, абстрактный класс, Java, композиция, объектно-ориентированный дизайн, статьи, предшественник, защищенные члены, полиморфизм, Python, объект, обучение, дочерний класс, методы, JavaScript, habr, проектирование программного обеспечения \n, суперкласс, наследование состояния, конструктор, обучающие статьи по программированию, C++, хабр, атрибуты, progvibe.ru, прогвайб, класс, виртуальные функции, инкапсуляция, подкласс, объектно-ориентированное программирование, метанит, свойства, экземпляр, как научиться программировать, progvibe, зависимость, наследование поведения, программирование, PHP, интерфейс, родительский класс, приватные члены, переопределение, интерфейсное наследование",
+    "description": "",
+    "name": "inheritance"
+  },
+  {
+    "id": 402,
+    "title": "Объекты",
+    "url": "/tutorials/javascript/general/objects",
+    "chapter": 4,
+    "keywords": "ртуальные объекты, объект в модели, metanit, размер объекта, статьи, объект в теории, взаимодействие объектов, физические объекты, вес объекта, обучение, характеристики объекта, температура объекта, habr, объект в философии, нематериальные объекты, объект в культуре, Объекты, материальные объекты, объект в системе, обучающие статьи по программированию, объект в религии, объект в пространстве-времени, объект во времени, хабр, объект в искусстве, progvibe.ru, прогвайб, форма объекта, текстура объекта, объект в истории \n, объем объекта, объект в пространстве, метанит, положение объекта, как научиться программировать, progvibe, объект в науке, свойства объекта, программирование, объект в практике, движение объекта, объект в контексте, цвет объекта",
+    "description": "",
+    "name": "objects"
+  },
+  {
+    "id": 403,
+    "title": "Ключевое слово this",
+    "url": "/tutorials/javascript/general/this_keyword",
+    "chapter": 4,
+    "keywords": "oduct management, machine learning, cloud native, algorithms, readability, SEM, best practices, статьи, new binding, continuous integration, class, обучение, user research, object literal, polymorphism, shadowing, interaction design, web design, user journeys, expression, inheritance, marketing, economics, data visualization, containerization, programming, обучающие статьи по программированию, operator, conflict resolution, прогвайб, sales, cloud computing, information architecture, extended reality, user personas,, data science, heuristic evaluation, startup, comparison, performance, animation, reusability, maintainability, project management, arrow functions, Industry 4.0, agile design, A/B testing, innovation, data structures, human-computer interaction, abstraction, array, implicit binding, apply, edge computing, prototype chain, graphic design, digital transformation, explicit binding, design thinking, customer service, visual design, reference, finance, JavaScript, data analysis, eye tracking, libraries, Agile, influencer marketing, identifier, problem solving, computer vision, keyword, user experience research, cryptocurrency, robotics, mobile development, leadership, progvibe.ru, deep learning, user research methods, block scope, software quality assurance, usability testing, branding, progvibe, assignment, loop, data mining, bind, global scope, natural language processing, prototype, accessibility, encapsulation, context, smart home, metanit, SEO, entrepreneurship, debugging, user interface design, modularity, usability, Docker, usability heuristics, computer science, negotiation, local scope, Ключевое слово this, closure, email marketing, artificial intelligence, cybersecurity, conditional, security, serverless computing, metaverse, habr, design, accounting, hoisting, game development, lean design, frameworks, business, хабр, decision making, method, 3D graphics, digital marketing, object, function scope, call, метанит, blockchain, Kanban, critical thinking, user feedback, business development, creativity, data storytelling, communication, software development, binding, continuous deployment, continuous delivery, function, user interface, testing, customer experience, microservices, user experience, team management, scope, language, mobile marketing, optimization, Kubernetes, variable, block, declaration, Internet of Things, web development, virtual reality, advertising, smart city, public relations, mobile design, this, augmented reality, DevOps, design patterns, this binding, social media, automation, statement, software engineering, big data, lexical environment, social media marketing, user personas, content marketing, как научиться программировать, collaboration, property, программирование, control flow, value, Scrum",
+    "description": "",
+    "name": "this_keyword"
+  },
+  {
+    "id": 404,
+    "title": "Вложенные объекты и массивы в объектах",
+    "url": "/tutorials/javascript/general/nested_objects_arrays",
+    "chapter": 4,
+    "keywords": "acket notation, nested objects, API, metanit, web development \n, filter, data management, статьи, array methods, data serialization, for loop, manipulate nested data, development, объекты, array of objects, обучение, access nested data, Вложенные объекты и массивы в объектах, JavaScript, habr, for...of, data deserialization, reduce, иерархические данные, Вложенные объекты, nested arrays, programming, dot notation, обучающие статьи по программированию, object methods, хабр, map, progvibe.ru, прогвайб, ключи, for...in, метанит, свойства, как научиться программировать, JSON, recursion, progvibe, программирование, структуры данных, object of arrays, значения, data structures, массивы",
+    "description": "",
+    "name": "nested_objects_arrays"
+  },
+  {
+    "id": 405,
+    "title": "Копирование и сравнение объектов",
+    "url": "/tutorials/javascript/general/copying_comparing_objects",
+    "chapter": 4,
+    "keywords": "пирование по значению, идентичность, metanit, Java, глубокое копирование, статьи, сравнение по значению, deep copy, мутабельность, клонирование, Python, объекты, копирование по ссылке, равенство, рекурсивное копирование, обучение, копирование данных, JavaScript, сравнение, habr, сравнение объектов, алгоритмы, языки программирования, обучающие статьи по программированию, эффективность, C++, оператор ===, хабр, progvibe.ru, прогвайб, C#. \n, безопасность, производительность, оптимизация, поверхностное копирование, метанит, объекты-ссылки, как научиться программировать, иммутабельность, shallow copy, progvibe, Копирование и сравнение объектов, оператор !=, Копирование, структура данных, объекты-значения, программирование, оператор !==, сравнение по ссылке, оператор ==",
+    "description": "",
+    "name": "copying_comparing_objects"
+  },
+  {
+    "id": 406,
+    "title": "Проверка наличия и перебор методов и свойств",
+    "url": "/tutorials/javascript/general/checking_enumerating_properties_methods",
+    "chapter": 4,
+    "keywords": "естирование, перебор,  __dict__, dir,  программное обеспечение,  классы, metanit, Проверка наличия и перебор методов и свойств,  динамический анализ, метаданные, статьи, атрибут, hasattr,  отладка,  разработка, объект,  код, обучение, методы, setattr, habr, рефлексия,  функции, обучающие статьи по программированию,  модули, хабр, атрибуты, progvibe.ru, прогвайб, интроспекция,  декораторы,  библиотеки. \n, getattr, метанит, свойства, как научиться программировать, progvibe, Проверка наличия,  программирование на Python, программирование,  пакеты,  инструменты разработки",
+    "description": "",
+    "name": "checking_enumerating_properties_methods"
+  },
+  {
+    "id": 407,
+    "title": "Расширение объектов. Прототипы",
+    "url": "/tutorials/javascript/general/object_extension_prototypes",
+    "chapter": 4,
+    "keywords": "ain, иерархия, metanit, apply, статьи, функции-конструкторы, prototype chain, полиморфизм, динамический характер, объектная модель, наследование, добавление свойств, объекты, делегирование, constructor, обучение, методы, прототипное наследование, синтаксис, расширение объектов, модификация, JavaScript, habr, this, недостатки. \n, inheritance, связывание, гибкость, контекст, прототипная иерархия, классы, обучающие статьи по программированию, прототипы, __proto__, хабр, progvibe.ru, прогвайб, примеры, объектно-ориентированное программирование, переопределение методов, call, практическое применение, свойства, Object.create(), расширение функциональности, метанит, как научиться программировать, progvibe, Расширение объектов. Прототипы, создание объектов, программирование, new, bind, преимущества, prototype",
+    "description": "",
+    "name": "object_extension_prototypes"
+  },
+  {
+    "id": 408,
+    "title": "Функция как объект. Методы call и apply",
+    "url": "/tutorials/javascript/general/function_as_object_call_apply",
+    "chapter": 4,
+    "keywords": "зов, абстракция, документация. \n, API, metanit, apply, статьи, структура, полиморфизм, наследование, передача, свойство, модуль, объект, обучение, методы, фреймворк, JavaScript, сценарий, this, habr, контекст, типизация, значение, дебаг, обучающие статьи по программированию, Функция как объект. Методы call и apply, хабр, progvibe.ru, прогвайб, производительность, оптимизация, объектно-ориентированное программирование, call, метанит, код, прототип, как научиться программировать, progvibe, аргументы, программирование, библиотека, Функция",
+    "description": "",
+    "name": "function_as_object_call_apply"
+  },
+  {
+    "id": 409,
+    "title": "Функция Object.create. Конфигурация свойств объектов",
+    "url": "/tutorials/javascript/general/object_create_property_configuration",
+    "chapter": 4,
+    "keywords": "S5,  sealed,  ES6,  inheritance, перезаписываемость,  ECMAScript 6 \n, metanit, статьи,  getter,  new,  Object.defineProperty, доступность, наследование, Object.create, объект, делегирование,  hasOwnProperty, обучение, прототипное наследование, создание прототипа,  object literal,  object-oriented programming, JavaScript, habr,  frozen,  prototype, enumerable,  prototypal inheritance,  Object.prototype, обучающие статьи по программированию, хабр, конфигурация, progvibe.ru, прогвайб,  OOP,  ECMAScript 5, производительность,  constructor function, оптимизация, метанит, связывание прототипов, свойства, configurable,  object,  Object.getOwnPropertyDescriptor,  constructor, прототип, как научиться программировать, property, progvibe, Функция Object.create. Конфигурация свойств объектов, создание объектов, ECMAScript,  setter,  __proto__,  extensible, программирование, перечисляемость,  performance,  Object.defineProperties, writable",
+    "description": "",
+    "name": "object_create_property_configuration"
+  },
+  {
+    "id": 410,
+    "title": "Наследование прототипов",
+    "url": "/tutorials/javascript/general/prototype_inheritance",
+    "chapter": 4,
+    "keywords": "ltiple inheritance, chain, JavaScript inheritance, конструкторы, метод, JavaScript fundamentals \n, metanit, статьи, функции-конструкторы, prototype chain, Прототипное наследование, наследование, object-oriented programming, свойство, объект, обучение, JavaScript objects, constructor function, JavaScript, habr, inheritance, Наследование прототипов, delegation, prototypal inheritance, обучающие статьи по программированию, прототипы, __proto__, хабр, progvibe.ru, прогвайб, method, JavaScript prototypes, объектно-ориентированное программирование, метанит, как научиться программировать, progvibe, property, single inheritance, dynamic inheritance, прототипная цепочка, prototype-based programming, ECMAScript, программирование, prototype",
+    "description": "",
+    "name": "prototype_inheritance"
+  },
+  {
+    "id": 411,
+    "title": "Наследование прототипов конструкторов",
+    "url": "/tutorials/javascript/general/constructor_prototype_inheritance",
+    "chapter": 4,
+    "keywords": "зыки программирования.\n, конструкторы,  модульность,  парадигма, функции, metanit,  классы,  прототипное программирование, статьи,  new,  иерархия,  переопределение, наследование,  динамическое типирование,  классическое программирование,  ООП, Object.create, объекты, делегирование, обучение, методы, прототипное наследование,  полиморфизм, JavaScript, habr,  prototype, гибкость,  расширяемость, обучающие статьи по программированию, прототипы, __proto__, хабр, progvibe.ru, прогвайб, метанит, свойства,  constructor, как научиться программировать, progvibe, создание экземпляра, создание объектов, Наследование прототипов конструкторов, программирование, прототипный объект, свойство конструктора, цепочка прототипов",
+    "description": "",
+    "name": "constructor_prototype_inheritance"
+  },
+  {
+    "id": 412,
+    "title": "Инкапсуляция свойств. Геттеры и сеттеры",
+    "url": "/tutorials/javascript/general/encapsulation_getters_setters",
+    "chapter": 4,
+    "keywords": "П, абстракция, encapsulation, Инкапсуляция, metanit, access modifiers, статьи, сеттеры, data control, properties, object-oriented programming, обучение, методы, protected, модификация, habr, защита, чтение, скрытие данных, доступ к данным, контроль, data security, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, безопасность, getter method, модификаторы доступа, геттеры, Инкапсуляция свойств. Геттеры и сеттеры, объектно-ориентированное программирование, капсулирование, setter, свойства, запись, метанит, getter, public, как научиться программировать, progvibe, private, setter method, программирование, энкапсуляция, OOP concepts. \n, data hiding",
+    "description": "",
+    "name": "encapsulation_getters_setters"
+  },
+  {
+    "id": 413,
+    "title": "Деструктуризация",
+    "url": "/tutorials/javascript/general/destructuring",
+    "chapter": 4,
+    "keywords": "збор, функции, многократное, запятая, деструктуризация параметров, metanit, статьи, удобство, структура, Деструктуризация, возвращаемое значение, остаток. \n, читаемость, элементы, объекты, объект, массив, двоеточие, равенство, default, обучение, извлечение, синтаксис, скобки, JavaScript, habr, сокращение, присвоение, поверхностная, обучающие статьи по программированию, эффективность, хабр, progvibe.ru, прогвайб, оптимизация, простота, расширенный синтаксис, метанит, свойства, код, повторное, глубокая, использование, неизменяемость, как научиться программировать, progvibe, аргументы, программирование, переменные, массивы",
+    "description": "",
+    "name": "destructuring"
+  },
+  {
+    "id": 414,
+    "title": "Оператор ?.",
+    "url": "/tutorials/javascript/general/optional_chaining_operator",
+    "chapter": 4,
+    "keywords": "рнарный оператор,  Java,  читаемость,  C++, metanit,  программирование,  сравнение, статьи,  условие,  if-else,  краткая запись,  значение,  условный результат,  синтаксис. \n,  код, обучение,  PHP, habr,  JavaScript,  логическое выражение, обучающие статьи по программированию, Оператор ?.,  истина,  упрощение, хабр,  оператор сравнения, progvibe.ru, прогвайб,  ?:, Условный оператор,  оператор выбора,  Python, метанит,  false,  Kotlin, как научиться программировать, progvibe,  логические операции,  C#, программирование,  выражение,  true,  присваивание,  эффективность,  ложь,  Swift",
+    "description": "",
+    "name": "optional_chaining_operator"
+  },
+  {
+    "id": 415,
+    "title": "Константные объекты. Запрет изменения объекта",
+    "url": "/tutorials/javascript/general/constant_objects_prevent_modification",
+    "chapter": 4,
+    "keywords": "изменяемые данные, отладка, неизменные структуры данных, копирование, Java, metanit, статьи, мутабельность, Python, объекты, обучение, ссылки, тестирование, иммутабельные объекты, кэширование, JavaScript, habr, неизменные коллекции, Константы, принципы проектирования. \n, Константные объекты. Запрет изменения объекта, неизменяемые объекты, языки программирования, обучающие статьи по программированию, запрет изменения, C++, хабр, progvibe.ru, прогвайб, безопасность, производительность, оптимизация, объектно-ориентированное программирование, метанит, рефакторинг, иммутабельность, как научиться программировать, неизменяемость, progvibe, указатели, функциональное программирование, иммутабельные данные, многопоточность, программирование, параллельное программирование",
+    "description": "",
+    "name": "constant_objects_prevent_modification"
+  },
+  {
+    "id": 416,
+    "title": "Создание массива и объект Array",
+    "url": "/tutorials/javascript/general/creating_array_object",
+    "chapter": 5,
+    "keywords": "инамический, Создание массива и объект Array, metanit, создание, filter, статьи,  прототип, элементы, forEach,  отладка, индексы,  конструкция, объект, массив, обучение, методы,  литерал,  неизменяемый, Array, slice, join,  тип, JavaScript, habr, reverse, reduce, splice, значение, длина, обучающие статьи по программированию, хабр,  свойства, map, progvibe.ru, прогвайб,  ошибки \n, push, shift,  статический, метанит,  ключ, как научиться программировать, progvibe, unshift, sort, программирование, инициализация,  данные,  изменяемый, pop",
+    "description": "",
+    "name": "creating_array_object"
+  },
+  {
+    "id": 417,
+    "title": "Массивы и spread-оператор",
+    "url": "/tutorials/javascript/general/arrays_spread_operator",
+    "chapter": 5,
+    "keywords": "ступ к элементам, методы массивов, metanit, filter, добавление элементов, статьи, элементы, forEach, клонирование массива, индексы, обучение, продвинутые техники, spread-оператор, задачи. \n, JavaScript, habr, распаковка, циклы, reduce, разделение массивов, данные, rest parameter, Массивы, длина, обучающие статьи по программированию, Массивы и spread-оператор, хабр, объединение массивов, map, progvibe.ru, прогвайб, деструктуризация, примеры, производительность, оптимизация, работа с массивами, практическое применение, аргументы функций, метанит, изменение элементов, копирование массивов, итерирование по массиву, как научиться программировать, progvibe, программирование, копирование свойств, spread syntax, удаление элементов",
+    "description": "",
+    "name": "arrays_spread_operator"
+  },
+  {
+    "id": 418,
+    "title": "Операции с массивами",
+    "url": "/tutorials/javascript/general/array_operations",
+    "chapter": 5,
+    "keywords": "инамический,  Java,  логический, фильтрация, изменение,  Ruby,  C++, metanit,  структура, статический,  программирование, преобразование, среднее, статьи, размер,  Rust, цикл,  строка,  база данных, добавление, вставка,  минимум, элемент, массив, поиск, обучение,  PHP, итерация,  граф, сравнение, заполнение, habr, чтение, алгоритм,  дерево, доступ,  объект,  JavaScript, сумма,  TypeScript \n, длина, умножение, эффективность,  список, обучающие статьи по программированию, индекс, хабр, progvibe.ru,  число,  сложность, прогвайб, память, оптимизация,  Go,  Python,  язык,  Kotlin, запись, метанит, максимум, как научиться программировать, progvibe, деление, Операции с массивами,  C#, удаление, программирование, инициализация, символ,  словарь, сортировка, время,  множество,  Swift",
+    "description": "",
+    "name": "array_operations"
+  },
+  {
+    "id": 419,
+    "title": "Наследование массивов",
+    "url": "/tutorials/javascript/general/array_inheritance",
+    "chapter": 5,
+    "keywords": "П, Наследование,  глубокое копирование,  перегрузка, metanit, Java,  классы,  копирование, статьи,  создание объекта,  переопределение, Python, обучение,  ошибки,  динамическая типизация,  полиморфизм, JavaScript, habr,  деструктор,  изменение состояния, обучающие статьи по программированию, C++,  атрибуты, хабр, progvibe.ru, прогвайб,  статическая типизация,  объекты,  конструктор,  объектно-ориентированное программирование, метанит, Наследование массивов,  элементы, как научиться программировать, progvibe,  поверхностное копирование, TypeScript,  исключения. \n,  переменные, программирование, PHP,  размер,  методы,  тип данных,  индексы, массивы",
+    "description": "",
+    "name": "array_inheritance"
+  },
+  {
+    "id": 420,
+    "title": "Строки и объект String",
+    "url": "/tutorials/javascript/general/strings_string_object",
+    "chapter": 6,
+    "keywords": "тералы строк, кодировка, lastIndexOf, объект String, toLowerCase,  специальные символы, metanit, trim,  дебаггер, substring,  пустая строка, статьи, charAt, search,  отладка, методы строк, равенство, обучение, slice, join, преобразование типов, Unicode, UTF-8, JavaScript, habr, Строки и объект String, неравенство, indexOf, строка в число,  вывод информации,  ошибки. \n, Строки, экранирование символов, сравнение строк, replace, charCodeAt, length, шаблоны строк, обучающие статьи по программированию, обработка текста, хабр, progvibe.ru, прогвайб, строка пробелов, toUpperCase, escape-последовательности, интерполяция, метанит, split, как научиться программировать, progvibe, свойство length, неизменяемость, сравнение по коду,  консоль, программирование, concat,  буквенно-цифровые символы,  строковые операции, число в строку, match",
+    "description": "",
+    "name": "strings_string_object"
+  },
+  {
+    "id": 421,
+    "title": "Шаблоны строк",
+    "url": "/tutorials/javascript/general/template_strings",
+    "chapter": 6,
+    "keywords": "рматирование строк, форматирование формата, спецификаторы формата, metanit, форматированный вывод, форматирование с плавающей запятой, статьи, Шаблоны строк, динамическое форматирование, обучение, форматирование суффикса, habr, форматирование даты и времени, интерполяция строк, форматирование пользовательское, форматирование дат, форматирование дробных чисел, форматирование полей, форматирование знаков, форматирование префикса, переменные в строках, форматирование значений, форматирование ширины, обучающие статьи по программированию, шаблоны строк, форматирование времени, хабр, progvibe.ru, прогвайб, форматирование валюты, форматирование чисел, заполнение пробелов, форматирование по умолчанию, форматирование экспоненциальной записи, f-строки, метанит, форматирование процентов, как научиться программировать, форматирование групп разрядов, progvibe, программирование, форматирование форматирования, форматирование выравнивания",
+    "description": "",
+    "name": "template_strings"
+  },
+  {
+    "id": 422,
+    "title": "Объект RegExp. Регулярные выражения",
+    "url": "/tutorials/javascript/general/regex_object",
+    "chapter": 6,
+    "keywords": "tanit, создание, чувствительность к регистру, статьи, шаблоны, регулярные выражения, альтернативы \n, документация, обучение, поиск, методы, справочник, строки, квантификаторы, JavaScript, многострочный режим, habr, метасимволы, захват, применение, текст, replace, обучающие статьи по программированию, символы, сопоставление, глобальный поиск, валидации, недостатки, хабр, progvibe.ru, флаги, прогвайб, примеры, test, RegExp, руководство, Объект RegExp. Регулярные выражения, метанит, exec, split, проверки, как научиться программировать, progvibe, использование, группы, программирование, практика, преимущества, match",
+    "description": "",
+    "name": "regex_object"
+  },
+  {
+    "id": 423,
+    "title": "Синтаксис регулярных выражений",
+    "url": "/tutorials/javascript/general/regex_syntax",
+    "chapter": 6,
+    "keywords": "асс символов, metanit, обратная ссылка, Java, обработка строк, замена, инструменты, позитивная опережающая проверка, статьи, группировка, Python, регулярные выражения, альтернатива, обучение, поиск, Regex, синтаксис, строки, квантификаторы, JavaScript, валидация, сравнение, негативная задняя проверка, литералы, паттерны, habr, метасимволы, множество символов, захват, текст, модификатор \"g\", парсинг, интервал, данные, модификатор \"i\", .NET, начало слова, символы, сопоставление, обучающие статьи по программированию, обработка текста, хабр, progvibe.ru, отрицание, флаги, повторение, прогвайб, Синтаксис регулярных выражений, фреймворки \n, RegExp, проверка, анализ данных, метанит, извлечение данных, граница слова, модификаторы, библиотеки, как научиться программировать, progvibe, конец слова, негативная опережающая проверка, обработка, модификатор \"m\", программирование, PHP, разработка, позитивная задняя проверка, языки, конец строки, выражения, начало строки",
+    "description": "",
+    "name": "regex_syntax"
+  },
+  {
+    "id": 424,
+    "title": "Регулярные выражения в методах String",
+    "url": "/tutorials/javascript/general/regex_in_string_methods",
+    "chapter": 6,
+    "keywords": "ализ, metanit, Java, замена, цифры, статьи, группы захвата, Python, обучение, поиск, методы, скобки, синтаксис, строки, квантификаторы, JavaScript, паттерны, валидация, недостатки. \n, habr, метасимволы, текст, парсинг, обратная косая черта, поиск и замена, данные, .NET, обучающие статьи по программированию, символы, сопоставление, хабр, String, пробелы, флаги, progvibe.ru, Регулярные выражения, прогвайб, примеры, Регулярные выражения в методах String, метанит, как научиться программировать, progvibe, использование, обработка, программирование, язык, преимущества",
+    "description": "",
+    "name": "regex_in_string_methods"
+  },
+  {
+    "id": 425,
+    "title": "Конструкция try..catch..finally",
+    "url": "/tutorials/javascript/general/try_catch_finally",
+    "chapter": 7,
+    "keywords": "работка исключений в C++, обработка исключений, metanit, обработка исключений в C#, блок завершения, обработка исключений в JavaScript, статьи, стек вызовов, обучение, Конструкция try..catch..finally, блочная структура, habr, исключительный блок, исключительные ситуации, обработка ошибок в программировании, алгоритм, try, try-catch, управление исключениями, finally, catch, программа, обучающие статьи по программированию, обработка исключений в Java, механизм try..catch..finally, стабильность, хабр, progvibe.ru, прогвайб, блочная обработка, безопасность, надежность. \n, производительность, перехват исключений, приложение, обработка ошибок, метанит, исключения, ошибки, try-catch-finally, код, как научиться программировать, progvibe, блок обработки, обработка данных, обработка исключений в Python, программирование, разработка, управление потоком",
+    "description": "",
+    "name": "try_catch_finally"
+  },
+  {
+    "id": 426,
+    "title": "Генерация ошибок и оператор throw",
+    "url": "/tutorials/javascript/general/error_generation_throw",
+    "chapter": 7,
+    "keywords": "работка исключений в C++,  продолжение выполнения,  программа, генерация ошибок, исключительная ситуация, обработка исключений, throw, metanit,  непредвиденные ситуации,  классы,  функция, обработка исключений в JavaScript, исключения в программировании,  объект \n, статьи, оператор throw, исключение, обучение,  код, Генерация ошибок и оператор throw, habr,  нестандартные ситуации, try, ошибка, try-catch, finally, обучающие статьи по программированию, обработка исключений в Java, хабр, progvibe.ru, прогвайб,  восстановление,  стабильность,  прерывание выполнения, управление ошибками, метанит, исключения, как научиться программировать, progvibe,  обработка ошибок в программах,  метод, обработка, обработка исключений в Python, программирование,  решение проблем,  безопасность, catch",
+    "description": "",
+    "name": "error_generation_throw"
+  },
+  {
+    "id": 427,
+    "title": "Обработка ошибок и стек вызова функций",
+    "url": "/tutorials/javascript/general/error_handling_call_stack",
+    "chapter": 7,
+    "keywords": "тек, Обработка ошибок,  лучшие практики, обработка исключений, стек вызова, metanit,  проброс исключений, статьи,  создание исключений,  отладка, обучение,  ошибки,  управление рисками. \n,  Логирование,  передача исключений,  отладка ошибок, habr,  механизм обработки исключений, try-catch,  реализация обработки ошибок, finally,  исключительные ситуации,  функции, обучающие статьи по программированию, Обработка ошибок и стек вызова функций,  методы обработки ошибок, хабр, progvibe.ru, прогвайб,  дебаггинг, метанит,  перехват исключений, исключения, как научиться программировать, progvibe,  рекурсия,  контекст выполнения,  модель обработки исключений,  иерархия исключений,  управление ошибками, программирование,  обработка  неожиданных исключений,  вызовы функций,  стратегии обработки ошибок",
+    "description": "",
+    "name": "error_handling_call_stack"
+  },
+  {
+    "id": 428,
+    "title": "Объект Date. Работа с датами",
+    "url": "/tutorials/javascript/general/date_object_working_with_dates",
+    "chapter": 8,
+    "keywords": "tSeconds, toDateString, setMilliseconds, setDate,  Вычисления с датами, metanit,  Пример кода, Время,  Примеры использования, setMonth,  Дата и время, статьи, toLocaleString,  Дополнительно. \n, setHours, setTime, Конструктор, обучение, getHours, getMilliseconds, JavaScript, habr, getMinutes, Объект Date,  Период времени, getTime, Часовой пояс, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, Дата, Парсинг, getFullYear, getSeconds, Объект Date. Работа с датами, Свойства, getDate, метанит, Форматирование, toString, как научиться программировать, Разница во времени, setFullYear, progvibe, ISO 8601, getMonth,  Текущее время, Методы,  UTC, программирование, toTimeString, setMinutes",
+    "description": "",
+    "name": "date_object_working_with_dates"
+  },
+  {
+    "id": 429,
+    "title": "Объект Math. Математические операции",
+    "url": "/tutorials/javascript/general/math_object",
+    "chapter": 8,
+    "keywords": "s, sin, логарифмические функции, логарифм по основанию 2, log10, metanit, exp, максимальное и минимальное значение, косинус, pow, статьи, cos, степень, модуль, арктангенс, обучение, методы, floor, JavaScript, математические операции, habr, PI, atan, синус, acos, экспонента, объект Math, корень, tan, округление, ceil, логарифм по основанию 10, sqrt, asin, константы, числовые операции, обучающие статьи по программированию, Объект Math. Математические операции, хабр, progvibe.ru, прогвайб, экспоненциальные функции,  \n, log2, random, метанит, арифметические операции, арккосинус, как научиться программировать, progvibe, Math, min, программирование, тригонометрические функции, случайные числа, round, E, арксинус, тангенс, max",
+    "description": "",
+    "name": "math_object"
+  },
+  {
+    "id": 430,
+    "title": "Объект Number",
+    "url": "/tutorials/javascript/general/number_object",
+    "chapter": 8,
+    "keywords": "шибки,  Number JavaScript,  Проверка типа,  JavaScript Number,  Data Type, Десятичные, metanit, Экспоненциальные, Логические операции, статьи, Целое число, обучение, Объект Number, Математические операции,  Числовые литералы, JavaScript, Октальные, Шестнадцатеричные, Число, Преобразование типов, habr, parseInt,  Object Number, Значение, valueOf, Операции, parseFloat, toPrecision,  Numeric Value, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, Дробное число, Infinity,  Numeric Object. \n, метанит, Тип данных, toFixed,  Арифметические операции, toString,  Number Value,  Numerical Type, как научиться программировать, NaN, progvibe, Сравнение, Math, Объект, Методы, программирование, Битовые операции, Number, Преобразование,  JS Number",
+    "description": "",
+    "name": "number_object"
+  },
+  {
+    "id": 431,
+    "title": "Proxy",
+    "url": "/tutorials/javascript/general/proxy_object",
+    "chapter": 8,
+    "keywords": "итный прокси, сеть, интернет, обход, metanit, статьи, HTTP, маршрутизация, прозрачный прокси,  прокси-пул, обучение, туннелирование, боты, цензура, habr, платный прокси, защита, торрент-клиенты, анонимный прокси, веб-серфинг, доступ, корпоративный прокси, конфиденциальность,  HTTP-прокси, SOCKS-прокси, обучающие статьи по программированию, трафик, блокировка, HTTPS, геолокация, IP-адрес, анонимный сервер, хабр, progvibe.ru,  бесплатный прокси, безопасность, анонимность, VPN, прогвайб, домашний прокси,  прокси-менеджер \n, Proxy, перенаправление,  прокси-ротация, метанит, маскировка, ограничения, как научиться программировать, progvibe, веб-скрапинг, сервер, программирование, SOCKS, прокси-сервер, онлайн-игры, Прокси",
+    "description": "",
+    "name": "proxy_object"
+  },
+  {
+    "id": 432,
+    "title": "Итераторы",
+    "url": "/tutorials/javascript/general/iterators",
+    "chapter": 9,
+    "keywords": "нератор, метод, итерируемый объект, ресурсоемкость, metanit, __iter__, статьи, next, Python, цикл, объект, элемент, обучение, for, Итераторы, последовательность, итерация, JavaScript, habr, порядок, конец, изменяемость, доступ, ленивая вычисление, обучающие статьи по программированию, эффективность, C++, индекс, хабр, Итератор, progvibe.ru, прогвайб, память, производительность, оптимизация, __next__, повторное использование, yield, метанит, Java. \n, хранение, как научиться программировать, progvibe, неизменяемость, состояние, программирование, in, позиция, начало",
+    "description": "",
+    "name": "iterators"
+  },
+  {
+    "id": 433,
+    "title": "Генераторы",
+    "url": "/tutorials/javascript/general/generators",
+    "chapter": 9,
+    "keywords": "аспределение, атомная электростанция, metanit, гидроэлектростанция,  умные сети, двигатель, статьи, геотермальная энергия, напряжение, обучение, генерация,  инновации,  потребление, habr,  возобновляемые источники энергии, биоэнергия, экологичность,  энергетический переход, экономичность, турбина,  сетевой баланс,  производство, эффективность, обучающие статьи по программированию,  энергетический кризис, хабр, progvibe.ru, тепловая электростанция, прогвайб, солнечная электростанция,  углеродный след, частота, Генераторы, ток, метанит, альтернативные источники энергии, как научиться программировать, progvibe,  экологический след, программирование, электроэнергия,  децентрализация, ветровая электростанция,  будущее энергии. \n, мощность,  эмиссия, электричество,  невозобновляемые источники энергии",
+    "description": "",
+    "name": "generators"
+  },
+  {
+    "id": 434,
+    "title": "Set",
+    "url": "/tutorials/javascript/general/set_object",
+    "chapter": 9,
+    "keywords": "щность множества, булева алгебра, компьютерная наука, теория графов, metanit, операции над множествами, статьи, пустое множество, парадокс Рассела, математическая логика, комбинаторика, диаграмма Венна, элементы, применения теории множеств, обучение, теорема о мощности множества, habr, конечное множество, Множество, теория множеств фон Неймана-Бернайса-Гёделя, отношения между множествами, аксиомы Цермело-Френкеля, дополнение, принцип включения-исключения, объединение, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, алгебра множеств, подмножество, пересечение, метанит, вероятность, Set, аксиома выбора, как научиться программировать, математическое моделирование. \n, progvibe, бесконечное множество, программирование, свойства операций над множествами, Кантор, теория множеств",
+    "description": "",
+    "name": "set_object"
+  },
+  {
+    "id": 435,
+    "title": "Map",
+    "url": "/tutorials/javascript/general/map_object",
+    "chapter": 9,
+    "keywords": "пографическая карта, геокодирование, географические координаты, OpenStreetMap, GPS, metanit, векторная карта, Яндекс.Карты, Географическая информационная система, статьи, пространственный анализ, пространственные данные, растровые данные, картографические сервисы. \n, Google Maps, геопозиционирование, Карта, спутниковые снимки, картографирование, обучение, habr, геоданные, масштаб, проекция, координаты, картография, обучающие статьи по программированию, географические объекты, хабр, progvibe.ru, ГИС, прогвайб, картографическое программное обеспечение, геопространственные данные, метанит, Map, как научиться программировать, progvibe, спутниковая навигация, программирование, ArcGIS, навигация, геоинформационные системы, QGIS, ГЛОНАСС",
+    "description": "",
+    "name": "map_object"
+  },
+  {
+    "id": 436,
+    "title": "WeakSet",
+    "url": "/tutorials/javascript/general/weakset_object",
+    "chapter": 9,
+    "keywords": "ечки памяти, metanit, сборка мусора, статьи, WeakSet, добавление, объекты, обучение, ссылки, методы, итерация, JavaScript, Set \n, habr, множество, обучающие статьи по программированию, недостатки, хабр, progvibe.ru, прогвайб, память, примеры, ключи, оптимизация, проверка, слабая ссылка, Map, метанит, свойства, уникальность, хранение, как научиться программировать, progvibe, использование, альтернативы, удаление, программирование, значения, преимущества",
+    "description": "",
+    "name": "weakset_object"
+  },
+  {
+    "id": 437,
+    "title": "WeakMap",
+    "url": "/tutorials/javascript/general/weakmap_object",
+    "chapter": 9,
+    "keywords": "ечки памяти, API, metanit, сборка мусора, значения-объекты, статьи, коллекции, WeakSet, объекты, has, get, ссылки, ключи-объекты, методы, обучение, efficiency, JavaScript, слабое связывание, сравнение, delete, habr, скрытие данных, best practices \n, alternatives, обучающие статьи по программированию, недостатки, хабр, progvibe.ru, прогвайб, безопасность, примеры, ключи, объекты JavaScript, WeakMap, Map, метанит, Set, свойства, как научиться программировать, progvibe, использование, set, хранилище данных, performance, программирование, значения, приватные данные, преимущества",
+    "description": "",
+    "name": "weakmap_object"
+  },
+  {
+    "id": 438,
+    "title": "Введение в DOM",
+    "url": "/tutorials/javascript/general/intro_to_dom",
+    "chapter": 10,
+    "keywords": "менение,  API,  querySelector, манипулирование, рендеринг, metanit, документ, статьи, веб-страница, элементы, дерево, добавление, события, обучение, методы,  createElement, DOM, JavaScript, habr, модель,  appendChild, пользовательский интерфейс, текст, парсинг,  getElementById, браузер, динамика, обучающие статьи по программированию, веб-разработка,  frontend, атрибуты, хабр, progvibe.ru, прогвайб, узлы,  innerText. \n, HTML, метанит, свойства, интерактивность, как научиться программировать, progvibe, Введение в DOM, обработка, удаление, программирование,  removeChild, интерфейс,  innerHTML, взаимодействие",
+    "description": "",
+    "name": "intro_to_dom"
+  },
+  {
+    "id": 439,
+    "title": "Свойства объекта document",
+    "url": "/tutorials/javascript/general/document_properties",
+    "chapter": 10,
+    "keywords": "нипуляция, изменение, metanit, создание, статьи, структура, атрибут, элементы, sibling, дерево, корневой, события, объект, обучение, поиск, методы, стиль, итерация, DOM, JavaScript, habr, фильтрование, текст, доступ, дочерний, значение, Свойства объекта document, родительский, обучающие статьи по программированию, веб-разработка, хабр, progvibe.ru, прогвайб, выбор, узлы, HTML, браузер. \n, document, метанит, свойства, как научиться программировать, progvibe, обработка, удаление, программирование, навигация, интерфейс, взаимодействие",
+    "description": "",
+    "name": "document_properties"
+  },
+  {
+    "id": 440,
+    "title": "Поиск элементов на веб-странице",
+    "url": "/tutorials/javascript/general/element_search",
+    "chapter": 10,
+    "keywords": "ример, фильтрация, API, metanit,  структура,  функция, статьи, web scraping library, атрибут, Python, автоматизация, proxy,  результат. \n, обучение, элемент, поиск,  код, JavaScript, DOM, habr, scraping, Поиск элементов на веб-странице,  скрипт, текст, парсинг, браузер, Selenium, обучающие статьи по программированию, идентификатор, XPath,  модуль, хабр, progvibe.ru, прогвайб, requests, CSS, класс, HTML,  библиотека, метанит, извлечение данных,  использование, как научиться программировать, progvibe, Beautiful Soup, выборка, headless browser,  метод, Веб-скрейпинг, Selectors API, программирование",
+    "description": "",
+    "name": "element_search"
+  },
+  {
+    "id": 441,
+    "title": "Объект Node. Навигация по DOM",
+    "url": "/tutorials/javascript/general/node_object_dom_navigation",
+    "chapter": 10,
+    "keywords": "ойства узла,  создание узлов, metanit, Node.firstChild, дочерние узлы, удаление узлов, статьи, замена узлов, узел-предок, Node.ownerDocument, рекурсия, Node.nodeType,  структура документа.\n, Объект Node. Навигация по DOM, дерево DOM, обучение, Node.nodeValue, родительский узел, итерация, DOM, Node.nextSibling, JavaScript, habr, пользовательский интерфейс, обход дерева DOM, браузер,  модель документа, обучающие статьи по программированию, Node.parentNode, веб-разработка, хабр, progvibe.ru, прогвайб, CSS, манипулирование DOM, HTML, метанит, корневой узел, узел-потомок, интерактивность, как научиться программировать, progvibe, Node.lastChild, Node.childNodes, программирование, Объект Node, Node.nodeName, вставка узлов, Node.previousSibling, динамический контент, методы узла",
+    "description": "",
+    "name": "node_object_dom_navigation"
+  },
+  {
+    "id": 442,
+    "title": "Создание, добавление и удаление элементов",
+    "url": "/tutorials/javascript/general/element_creation_deletion",
+    "chapter": 10,
+    "keywords": "тод, изменение, отладка, metanit, создание, Java, учебник \n, статьи, Python, элементы, коллекция, добавление, вставка, объект, массив, элемент, тестирование, документация, обучение, язык программирования, JavaScript, habr, сложность, алгоритм, обучающие статьи по программированию, эффективность, C++, список, индекс, хабр, progvibe.ru, прогвайб, память, примеры, класс, оптимизация, Создание, добавление и удаление элементов, метанит, время выполнения, код, как научиться программировать, progvibe, функция, операция, удаление, структура данных, программирование, позиция",
+    "description": "",
+    "name": "element_creation_deletion"
+  },
+  {
+    "id": 443,
+    "title": "Управление атрибутами, стилем и классами элементов",
+    "url": "/tutorials/javascript/general/attribute_style_class_management",
+    "chapter": 10,
+    "keywords": "аскадная таблица стилей,  querySelector, metanit, статьи,  внешние таблицы стилей,  переопределение, атрибут, свойство,  manipulation,  toggleClass,  динамическое изменение, обучение, элемент,  специфичность,  inline-стили,  JavaScript манипуляции,  классификация, стиль,  организация кода. \n, JavaScript, DOM,  querySelectorAll, habr,  removeAttribute,  getAttribute, значение, обучающие статьи по программированию,  removeClass, хабр, progvibe.ru, прогвайб,  dataset, CSS,  наследование, класс, Управление атрибутами, стилем и классами элементов, HTML,  управление стилями,  встроенные стили, метанит, как научиться программировать, селектор, progvibe,  setAttribute, программирование,  addClass,  эффективность",
+    "description": "",
+    "name": "attribute_style_class_management"
+  },
+  {
+    "id": 444,
+    "title": "Введение в обработку событий. Обработчики событий",
+    "url": "/tutorials/javascript/general/event_handling_intro",
+    "chapter": 11,
+    "keywords": "инхронные события, слушатели событий, обработка исключений,  .NET, программирование на Java, metanit,  событийная очередь \n, статьи,  event queue,  observer,  Vue.js,  event loop, события, обучение, реагирование на события, триггеры, habr,  Angular, событийное программирование,  delegate, синхронные события, программирование на Python, пользовательский интерфейс,  JavaScript, событийная модель,  React, обучающие статьи по программированию, веб-разработка, обработка событий, хабр, progvibe.ru, прогвайб,  listener, обработка ввода, обработка ошибок,  callback, метанит, обработчик событий, программирование на C++,  событийный цикл, как научиться программировать, progvibe, мобильная разработка, программирование, Введение в обработку событий. Обработчики событий",
+    "description": "",
+    "name": "event_handling_intro"
+  },
+  {
+    "id": 445,
+    "title": "Передача данных в обработчик события. Объект Event",
+    "url": "/tutorials/javascript/general/event_object_data_passing",
+    "chapter": 11,
+    "keywords": "раметры, вызов, обработчик, передача данных, metanit, статьи, eventPhase, обработка события, data, обучение, методы, JavaScript, DOM, habr, Web-разработка, timestamp, UI \n, пользовательский интерфейс, контекст, bubbles, preventDefault, currentTarget, обучающие статьи по программированию, target, хабр, progvibe.ru, прогвайб, слушатель, type, HTML, Передача данных в обработчик события. Объект Event, cancelable, метанит, свойства, как научиться программировать, progvibe, объект Event, функция, обработка, аргументы, событие, программирование, stopPropagation, взаимодействие",
+    "description": "",
+    "name": "event_object_data_passing"
+  },
+  {
+    "id": 446,
+    "title": "Распространение событий",
+    "url": "/tutorials/javascript/general/event_propagation",
+    "chapter": 11,
+    "keywords": "формационная война, общественный диалог, социальные сети, тенденции, интернет, медиа, metanit, влияние, статьи, глобализация \n, события, информация, мифы, обучение, вирусный контент, новостной цикл, скорость распространения, алгоритмы социальных сетей, цензура, habr, общественное мнение, цифровые технологии, управление репутацией, контент-маркетинг, алгоритмы, Распространение событий, дезинформация, обучающие статьи по программированию, контроль над информацией, хабр, информационный поток, progvibe.ru, прогвайб, свобода слова, метанит, контент, тренды, как научиться программировать, progvibe, распространение информации, медиа-платформы, программирование, фейковые новости, новости, распространение",
+    "description": "",
+    "name": "event_propagation"
+  },
+  {
+    "id": 447,
+    "title": "События мыши и клавиатуры",
+    "url": "/tutorials/javascript/general/mouse_keyboard_events",
+    "chapter": 11,
+    "keywords": "авиатуры, пользовательский, обработчик, действие. \n, metanit, меню, статьи, клик, клавиша, обучение, элемент, мыши, JavaScript, DOM, habr, отпускание, кнопка, движение, координаты, контекст, данные, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, слушатель, CSS, События мыши и клавиатуры, фокус, HTML, нажатие, метанит, событий, код, отслеживание, функция, реагирование, как научиться программировать, обработка, События, progvibe, событие, программирование, позиция, интерфейс, ввод, модификатор",
+    "description": "",
+    "name": "mouse_keyboard_events"
+  },
+  {
+    "id": 448,
+    "title": "Программный вызов событий",
+    "url": "/tutorials/javascript/general/event_triggering",
+    "chapter": 11,
+    "keywords": "тод, обработка исключений, обработчик, отладка, metanit, юзабилити, Java, статьи, асинхронный вызов, Программный вызов событий, рекурсия, программный вызов, документация, объект, обучение, тестирование, очередь событий, язык программирования, habr, делегат, .NET, отмена подписки, синхронный вызов, таймер, обучающие статьи по программированию, цикл событий, C++, обработка событий, хабр, progvibe.ru, прогвайб, слушатель, поток, производительность, Python. \n, потокобезопасность, оптимизация, подписка, проектирование, метанит, как научиться программировать, progvibe, функция, программирование, архитектура, многопоточность, разработка, интерфейс, Событие",
+    "description": "",
+    "name": "event_triggering"
+  },
+  {
+    "id": 449,
+    "title": "Определение своих событий",
+    "url": "/tutorials/javascript/general/custom_events",
+    "chapter": 11,
+    "keywords": "илеи, организация, metanit, статьи, обучение, календарь событий, праздники, встречи, интересы, определение событий, конференции, habr, свидания, презентации, цели, задачи, поездки, дни рождения, управление временем, обучающие статьи по программированию, личные события, хабр, progvibe.ru, прогвайб, годовщины, деловые переговоры, путешествия, продуктивность \n, Определение своих событий, планирование, спорт, памятные даты, важные даты, метанит, мотивация, как научиться программировать, приоритеты, хобби, progvibe, семинары, отпуск, программирование, время",
+    "description": "",
+    "name": "custom_events"
+  },
+  {
+    "id": 450,
+    "title": "Кнопки",
+    "url": "/tutorials/javascript/general/buttons",
+    "chapter": 12,
+    "keywords": "йдлайн, юзабилити, брендинг, статьи, клик, впечатление, обучение, hover, тап, будущее, кнопка подтверждения, мобильный дизайн, лучшие практики, дизайн, обучающие статьи по программированию, метрики, прогвайб, приложение, нажатие, Кнопки, программное обеспечение, пользовательское поведение, UX, кнопка включения, кнопка меню, иконка кнопки, тестирование, кнопка редактирования, кнопка сохранения, обратная связь, кнопка помощи, конвенция, кнопка, отпускание, пользовательский интерфейс, progvibe.ru, функциональность, кнопка информации, оптимизация, progvibe, текст кнопки, кнопка перехода, стандарты, кнопка удаления, эмоциональная связь, размер кнопки, гармония, metanit, фокус кнопки, восприятие, доступность, кнопка настройки, стиль, кнопка обновления, habr, цвет кнопки, инновации, эффективность, кнопка отправки, веб-дизайн, кнопка настроек, хабр, стиль кнопки, UI, технологии. \n, метанит, реакция, кнопка добавления, кнопка выключения, кнопка открытия, форма кнопки, анимация кнопки, кнопка вызова, кнопка поиска, физическая кнопка, дизайн-система, кнопка загрузки, конверсия, кнопка закрытия, кнопка печати, аналитика, сенсорная кнопка, цифровая кнопка, кнопка действия, кнопка отмены, тренды, как научиться программировать, кнопка скачивания, кнопка обратной связи, программирование, опыт, интерфейс, взаимодействие",
+    "description": "",
+    "name": "buttons"
+  },
+  {
+    "id": 451,
+    "title": "Текстовые поля",
+    "url": "/tutorials/javascript/general/text_fields",
+    "chapter": 12,
+    "keywords": "дсказка, фреймворк. \n, успешное завершение, backend, форма, защита данных, прогресс, число, автозаполнение, metanit, статьи, email, опциональное поле, доступность, сообщение об ошибке, обучение, клавиатура, JavaScript, валидация, метка, компонент, habr, label, пользовательский интерфейс, текст, ошибка, конфиденциальность, сенсорный экран, дизайн, обучающие статьи по программированию, веб-разработка, placeholder, хабр, progvibe.ru, прогвайб, безопасность, CSS, дата, автокоррекция, пользовательский опыт, пароль, ввод данных, HTML, фокус, база данных, тип данных, удобство использования, UI, обязательное поле, ограничения, вызов API, многострочный текст, метанит, хранение, Текстовое поле, как научиться программировать, progvibe, дизайн-паттерн, мобильная разработка, обработка, событие, сервер, GDPR, UX, визуальная обратная связь, анимация, библиотека, программирование, Текстовые поля, взаимодействие",
+    "description": "",
+    "name": "text_fields"
+  },
+  {
+    "id": 452,
+    "title": "Флажки и радиокнопки",
+    "url": "/tutorials/javascript/general/checkboxes_radio_buttons",
+    "chapter": 12,
+    "keywords": "активный, metanit, Флажки и радиокнопки, статьи, доступность, обучение, элементы управления, JavaScript, habr, обратная связь, активный, адаптивный дизайн, выбор по умолчанию, дизайн, обучающие статьи по программированию, визуализация, веб-дизайн, хабр, progvibe.ru, прогвайб, выбор, CSS, удобство использования, пользовательский опыт, UI, HTML, опция, радиокнопки, Флажки, оптимизация, метанит, как научиться программировать, progvibe, мобильная разработка, интерфейс пользователя, состояние, графика, программирование, UX, разработка, выбор множественного, выбор единственного, отзывчивость. \n, взаимодействие",
+    "description": "",
+    "name": "checkboxes_radio_buttons"
+  },
+  {
+    "id": 453,
+    "title": "Список select",
+    "url": "/tutorials/javascript/general/select_list",
+    "chapter": 12,
+    "keywords": "тправка формы, форма,  API, metanit, меню,  AJAX, статьи,  value,  база данных, обучение, элемент, JavaScript, habr, select,  валидация, Список select, пользовательский интерфейс, Список, multiple, значение, обучающие статьи по программированию,  onchange,  фронтенд, веб-разработка, обработка событий, атрибуты, хабр, dropdown, выбор,  бекенд, progvibe.ru, прогвайб,  CSS, HTML,  data, метанит,  динамический список,  стилизация. \n, как научиться программировать, progvibe,  selected, программирование, size, опции",
+    "description": "",
+    "name": "select_list"
+  },
+  {
+    "id": 454,
+    "title": "Validation API. Валидация элементов формы",
+    "url": "/tutorials/javascript/general/validation_api",
+    "chapter": 12,
+    "keywords": "иент-серверное взаимодействие, защита от злонамеренных атак, UI. \n, форма обратной связи, metanit, юзабилити, Валидация API, валидация форм, PUT, HTTP, статьи, ограничения на данные, REST API, фронтенд разработка, обучение, бэкенд разработка, AJAX, DELETE, JavaScript, habr, сообщения об ошибках, GET, повышение качества данных, пользовательский интерфейс, валидация полей, ошибки валидации, валидация данных, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, Validation API. Валидация элементов формы, CSS, безопасность данных, удобство использования, HTML, метанит, проверка данных, как научиться программировать, JSON, progvibe, правила валидации, POST, UX, валидация ввода, программирование, методы HTTP",
+    "description": "",
+    "name": "validation_api"
+  },
+  {
+    "id": 455,
+    "title": "Browser Object Model и объект window",
+    "url": "/tutorials/javascript/general/bom_window_object",
+    "chapter": 13,
+    "keywords": "ont-end development. \n, accessibility, user interface, Browser Object Model и объект window, events, web standards, window object, metanit, screen, W3C, статьи, properties, web development, methods, web programming, обучение, security, DOM, JavaScript, habr, manipulation, document object, Browser Object Model, location, web page, обучающие статьи по программированию, standards, navigation, client-side scripting, web technologies, хабр, progvibe.ru, прогвайб, CSS, browser API, object hierarchy, cross-browser compatibility, HTML, метанит, как научиться программировать, progvibe, web browser, performance, ECMAScript, программирование, history, event handling",
+    "description": "",
+    "name": "bom_window_object"
+  },
+  {
+    "id": 456,
+    "title": "Диалоговые окна и поиск на странице",
+    "url": "/tutorials/javascript/general/dialog_boxes_page_search",
+    "chapter": 13,
+    "keywords": "ывод,  API,  элемент, metanit, юзабилити, модальные окна, статьи, удобство,  адаптация. \n, Диалоговые окна и поиск на странице,  кнопка, обучение, поиск, стиль,  интеграция,  переход, JavaScript, habr,  результаты, поисковая строка,  сортировка, всплывающие окна, дизайн, обучающие статьи по программированию, хабр, progvibe.ru, отзывчивость, прогвайб, CSS, оптимизация, HTML, Диалоговые окна, поиск на странице, метанит,  платформа,  мобильные устройства, интерактивность, как научиться программировать, progvibe,  фильтрация, UX,  ввод, анимация, программирование, интерфейс",
+    "description": "",
+    "name": "dialog_boxes_page_search"
+  },
+  {
+    "id": 457,
+    "title": "История браузера. History API",
+    "url": "/tutorials/javascript/general/browser_history_api",
+    "chapter": 13,
+    "keywords": "I, История, Сохранение данных, metanit, статьи, Кнопка \"Вперед\", История просмотров. \n, URL-адрес, Браузер, обучение, Кэширование, Веб-страница, JavaScript, Запись, habr, Отмена, Просмотр, Интерфейс, История API, История браузера, обучающие статьи по программированию, Хранение данных, Временная шкала, История просмотров, Кнопка \"Назад\", хабр, Навигация, Доступ к истории, Доступ, progvibe.ru, Веб-разработка, прогвайб, Переход, Пользователь, Журнал, метанит, Страницы, как научиться программировать, Вкладки, Записи, progvibe, Состояние, программирование, История браузера. History API, URL",
+    "description": "",
+    "name": "browser_history_api"
+  },
+  {
+    "id": 458,
+    "title": "Объект location",
+    "url": "/tutorials/javascript/general/location_object",
+    "chapter": 13,
+    "keywords": "раметры, метод, путь, metanit, protocol, адрес, hostname, статьи, порт,  параметры запроса, hash, свойство, search,  URLSearchParams, query, объект, port,  домен, обучение, протокол,  ресурс, JavaScript, habr, href, хэштег, location,  навигация, браузер, Объект location, replace, обучающие статьи по программированию,  переадресация, хабр, progvibe.ru, прогвайб, pathname, reload, история, хост, метанит, assign, toString, как научиться программировать, progvibe, программирование, страница,  URL API \n, URL",
+    "description": "",
+    "name": "location_object"
+  },
+  {
+    "id": 459,
+    "title": "Объект navigator. Получение информации о браузере",
+    "url": "/tutorials/javascript/general/navigator_object_browser_info",
+    "chapter": 13,
+    "keywords": "vigator, API, функции, получить информацию, metanit, сетевое состояние, операционная система, платформа, отладка. \n, статьи, подключение, видео, язык, распознать, Web API, информация, объект, обучение, методы, аудио, тестирование, определить, JavaScript, DOM, habr, оптимизировать, доступ, сенсорный экран, браузер, анализировать, пользовательский агент, обучающие статьи по программированию, геолокация, веб-разработка, хабр, progvibe.ru, прогвайб, Объект navigator. Получение информации о браузере, метанит, свойства, разрешение экрана, методы объекта, как научиться программировать, версия, progvibe, местоположение, свойства объекта, идентифицировать, программирование, разработка, совместимость, мультимедиа, поддержка, часовой пояс",
+    "description": "",
+    "name": "navigator_object_browser_info"
+  },
+  {
+    "id": 460,
+    "title": "Таймеры",
+    "url": "/tutorials/javascript/general/timers",
+    "chapter": 13,
+    "keywords": "пользование таймеров, таймер для сна, таймер с функцией календаря, таймер с функцией будильника, metanit, таймер для спорта, таймер с функцией сохранения настроек, статьи, аналоговый таймер, таймер с подсветкой, Таймеры, электронный таймер, таймер с функцией повтора, таймер для событий, обучение, таймер с кнопкой включения/выключения, механический таймер, habr, таймер обратного отсчета, автоматический таймер, таймер с вибрацией, сравнение таймеров, выбор таймера, таймер с функцией отложенного запуска, таймер для кухни, обучающие статьи по программированию, таймер, таймер для работы, таймер с магнитной подставкой, хабр, программируемый таймер, progvibe.ru, таймер с функцией записи времени, прогвайб, таймер с оповещением, таймер для игр, метанит, таймер с функцией остановки, цифровой таймер, история таймеров, будущее таймеров \n, как научиться программировать, progvibe, таймер с функцией паузы, таймер с интервалом, виды таймеров, программирование, преимущества таймеров, таймер для учебы",
+    "description": "",
+    "name": "timers"
+  },
+  {
+    "id": 461,
+    "title": "Работа с JSON",
+    "url": "/tutorials/javascript/general/working_with_json",
+    "chapter": 14,
+    "keywords": "лево значение, API, REST, число, metanit,  программирование, HTTP, преобразование, структура, статьи,  сериализация, объект, массив, обучение, формат, AJAX, Работа с JSON, синтаксис,  интеграция, JavaScript, валидация, habr, запрос, строка, парсинг, данные, значение, клиент, обучающие статьи по программированию, ключ, хабр, progvibe.ru, прогвайб, ответ,  язык, метанит, как научиться программировать, JSON, progvibe, десериализация, обработка, сервер,  веб-разработка. \n, программирование, библиотека",
+    "description": "",
+    "name": "working_with_json"
+  },
+  {
+    "id": 462,
+    "title": "Работа с XML",
+    "url": "/tutorials/javascript/general/working_with_xml",
+    "chapter": 14,
+    "keywords": "D, манипуляция, обмен данными, иерархия, фильтрация, metanit, сериализация, Java, инструменты, статьи, преобразование, структура, объектная модель документа, Python, элементы, дерево, схемы,  структурированные данные, обучение, DOM, валидация, JavaScript, habr, чтение, теги, парсинг, данные, XML, обучающие статьи по программированию, XPath, C++, хабр, атрибуты, веб-сервисы, progvibe.ru, прогвайб, узлы, XSLT, API. \n,  язык разметки, DTD, метанит, запись, библиотеки, как научиться программировать, progvibe, потоковый анализ, десериализация, запросы, обработка, программирование, Работа с XML, PHP, SAX",
+    "description": "",
+    "name": "working_with_xml"
+  },
+  {
+    "id": 463,
+    "title": "Куки",
+    "url": "/tutorials/javascript/general/cookies",
+    "chapter": 15,
+    "keywords": "адости, сладкое, аромат, metanit, хрустящее, хрустящая корочка, статьи, выпечка в духовке, текстура, мука, обучение, выпечка, мягкое, кулинарные советы. \n, habr, специи, современные рецепты, домашнее печенье, нежная начинка, масло, фрукты, виды печенья, рецепт, обучающие статьи по программированию, орехи, печенье, вкус, хабр, progvibe.ru, прогвайб, десерт, ингредиенты, метанит, шоколад, магазинное печенье, как научиться программировать, progvibe, сахар, программирование, яйца, соленое, Куки, классические рецепты, тесто",
+    "description": "",
+    "name": "cookies"
+  },
+  {
+    "id": 464,
+    "title": "Web Storage",
+    "url": "/tutorials/javascript/general/web_storage",
+    "chapter": 15,
+    "keywords": "езопасность, Хранение логина и пароля, Доступ к данным, Хранение корзины покупок,  User Experience, Хранилище, Авторизация, Браузерное хранилище, Сохранение данных,  Доступность данных, Local Storage,  API, metanit, Данные, статьи, Хранение настроек,  HTML5,  Политика безопасности, Браузер, Хранение пользовательских данных, обучение, Кэширование, Приватность,  Server-side Storage,  Load Time, habr,  LocalStorage API,  JavaScript, обучающие статьи по программированию, Использование Session Storage,  Размер хранилища,  Кросс-браузерная совместимость,  Performance,  Alternatives,  Преимущества Web Storage, Cookies, хабр, progvibe.ru, прогвайб,  Использование Web Storage на мобильных устройствах, Недостатки Web Storage, метанит, Session Storage, как научиться программировать, progvibe,  Использование Local Storage,  Сохранение состояния, SessionStorage API, Web Storage, программирование,  Database,  Аутентификация,  Доступ к данным из других ресурсов,  Best Practices. \n",
+    "description": "",
+    "name": "web_storage"
+  },
+  {
+    "id": 465,
+    "title": "Асинхронные функции и коллбеки",
+    "url": "/tutorials/javascript/general/async_functions_callbacks",
+    "chapter": 16,
+    "keywords": "llback hell, metanit, управление состоянием, Асинхронное программирование, best practices, статьи, практические советы. \n, Promise, асинхронные функции, Асинхронные функции и коллбеки, блокирующий код, Node.js, обучение, таймеры, очередь событий, дизайн приложений, сетевые запросы, JavaScript, habr, коллбеки, parallelism, concurrency, примеры кода, обучающие статьи по программированию, цикл событий, обработка событий, async/await, хабр, progvibe.ru, прогвайб, производительность, неблокирующий код, оптимизация, обработка ошибок, потоки выполнения, метанит, как научиться программировать, progvibe, программирование, таймауты, многопоточность, ввод-вывод",
+    "description": "",
+    "name": "async_functions_callbacks"
+  },
+  {
+    "id": 466,
+    "title": "Введение в промисы",
+    "url": "/tutorials/javascript/general/promises_intro",
+    "chapter": 16,
+    "keywords": "инхронное программирование,  состояния промиса,  pending,  обработчик, metanit,  цепь промисов, статьи,  результат операции, обучение,  callback hell,  Promise.all, JavaScript,  thenable, habr,  обработка ошибок,  улучшение читаемости, finally,  async/await,  синтаксический сахар, обучающие статьи по программированию, Промисы, хабр, progvibe.ru, прогвайб,  отложенное выполнение, Введение в промисы,  fulfilled, метанит,  reject,  rejected, как научиться программировать, progvibe,  resolve,  Promise.race,  синхронный код,  ошибка, программирование, then,  асинхронный код,  решение коллбэков,  упрощение кода, catch,  улучшение  отладки. \n",
+    "description": "",
+    "name": "promises_intro"
+  },
+  {
+    "id": 467,
+    "title": "Получение результата операции в Promise",
+    "url": "/tutorials/javascript/general/promise_result",
+    "chapter": 16,
+    "keywords": "лучение результата операции в Promise, вызов функции, асинхронное программирование, обработка ответа,  задержка, обработка результата, metanit, колбэки, композиция, статьи, reject, resolve, асинхронные операции,  асинхронный результат, Promise,  синхронные операции, обучение, таймеры,  callback hell, получение результата, сетевые запросы, JavaScript,  управление состоянием, habr, успешное выполнение, отмена Promise, finally, catch, обучающие статьи по программированию, async/await, обработка событий, хабр, progvibe.ru, удобочитаемость,  отложенное выполнение, прогвайб, цепочки Promise, обработка ошибок, метанит, как научиться программировать, progvibe,  преобразование данных. \n, обработка данных, оптимизация кода, программирование, then, управление потоком",
+    "description": "",
+    "name": "promise_result"
+  },
+  {
+    "id": 468,
+    "title": "Обработка ошибок в Promise",
+    "url": "/tutorials/javascript/general/promise_error_handling",
+    "chapter": 16,
+    "keywords": "ain, исключительная ситуация, промис, обработка исключений, error handling, асинхронное программирование, .finally(), metanit, статьи, reject, Обработка ошибок в Promise, resolve, Promise, обработка ошибок JavaScript, исключение, отлов ошибок, thrown error, обучение, try catch block,  метод catch \n, habr, try/catch, error object, обработка исключений JavaScript, ошибка, .then(), обучающие статьи по программированию, async/await, хабр, progvibe.ru, прогвайб, .catch(), callback, обработка ошибок, метанит, как научиться программировать, async await, progvibe, обработка, программирование, then,  асинхронный код, uncaught exception, catch, try...catch",
+    "description": "",
+    "name": "promise_error_handling"
+  },
+  {
+    "id": 469,
+    "title": "Создание цепочек промисов",
+    "url": "/tutorials/javascript/general/promise_chaining",
+    "chapter": 16,
+    "keywords": "адержка выполнения, асинхронное программирование,  получение данных,  API, metanit, параллельное выполнение, статьи, асинхронные операции,  база данных. \n,  сетевые операции, обучение,  обработка данных, JavaScript, habr, читаемость кода,  отправка запросов, выполнение задач, finally, catch, обучающие статьи по программированию, Промисы, хабр, progvibe.ru, прогвайб,  отложенное выполнение,  файловые операции, обратный вызов, Создание цепочек промисов, неблокирующий код, обработка результатов, обработка ошибок, цепочки промисов, метанит, синхронный код, как научиться программировать, progvibe, оптимизация кода, последовательность операций, программирование, then, многопоточность,  асинхронные запросы, управление потоком,  неблокирующий I/O",
+    "description": "",
+    "name": "promise_chaining"
+  },
+  {
+    "id": 470,
+    "title": "Функции Promise.all, Promise.allSettled, Promise.any и Promise.race",
+    "url": "/tutorials/javascript/general/promise_functions",
+    "chapter": 16,
+    "keywords": "нкции Promise.all, Promise.allSettled, Promise.any и Promise.race, асинхронное программирование, API, metanit, параллельное выполнение, Promise.allSettled, статьи, конкурентность, отмена, завершение, асинхронные операции, Promise, Node.js, обучение, отслеживание прогресса, сетевые запросы, JavaScript, habr, выполнение задач, parallel processing, асинхронность. \n, Promise.all, concurrency, finally, обучающие статьи по программированию, веб-разработка, async/await, обработка событий, хабр, progvibe.ru, прогвайб, конвейеры, производительность, Promise.resolve, оптимизация, обработка ошибок, обработка результатов, метанит, как научиться программировать, progvibe, параллелизм, обработка данных, Promise.race, управление потоками, программирование, таймауты, Promise.any, then, catch, Promise.reject",
+    "description": "",
+    "name": "promise_functions"
+  },
+  {
+    "id": 471,
+    "title": "Async и await",
+    "url": "/tutorials/javascript/general/async_await",
+    "chapter": 16,
+    "keywords": "еблокирующий код,  блокирующий код,  производительность,  таймеры, metanit,  async generator,  исключение,  call stack,  logging, Асинхронное программирование,  стек вызовов,  try-catch, статьи,  отзывчивость,  async/await patterns,  event loop,  многопоточность,  Callbacks,  HTTP-запросы,  отладка,  сетевые операции, обучение, async,  синхронное выполнение,  потоки выполнения,  Promise.all,  реальные сценарии. \n, JavaScript, habr,  обработка исключений,  finally,  дебаг,  awaitable objects,  параллельное выполнение,  отслеживание ошибок,  улучшение производительности, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб,  отложенное выполнение,  асинхронная итерация,  best practices,  многозадачность, Async и await, промисы, метанит,  повышение скорости, как научиться программировать,  responsiveness, progvibe,  примеры кода,  промисификация,  Promise.race,  ошибка, программирование, await,  Promise.reject,  выполнение,  Promise.resolve,  события,  real-world scenarios,  user experience,  ожидание,  неблокирующий I/O",
+    "description": "",
+    "name": "async_await"
+  },
+  {
+    "id": 472,
+    "title": "Асинхронные итераторы",
+    "url": "/tutorials/javascript/general/async_iterators",
+    "chapter": 16,
+    "keywords": "еблокирующий код,  производительность,  блокирующий код,  неблокирующий ввод-вывод,  отклик,  генератор, асинхронное программирование, metanit,  долгое ожидание, статьи, итератор, Асинхронные итераторы,  процессы,  многопоточность, обучение,  iterable,  coroutine, habr,  параллельное программирование,  конкурентное программирование,  итерирование,  async/await,  asyncio, обучающие статьи по программированию,  await,  многопроцессность,  состояние, хабр, progvibe.ru, прогвайб,  async for,  yield,  потоки,  генератор выражения, метанит,  javascript, как научиться программировать, progvibe,  next(), Асинхронный итератор,  iter,  потоковая обработка, async iterator,  python, программирование,  эффективность,  итерация \n",
+    "description": "",
+    "name": "async_iterators"
+  },
+  {
+    "id": 473,
+    "title": "Асинхронные генераторы",
+    "url": "/tutorials/javascript/general/async_generators",
+    "chapter": 16,
+    "keywords": "нератор, переменный ток, солнечная энергия, электродвигатель, сеть, асинхронный генератор, metanit, преобразователь частоты, статьи, система управления. \n, напряжение, синхронная скорость, обучение, фактор мощности, пуск, регулирование, habr, защита, скольжение, газотурбинный генератор, применение, дизель-генератор, обучающие статьи по программированию, эффективность, ветроэнергетика, хабр, гидроэнергетика, progvibe.ru, ротор, прогвайб, частота, индукция, магнитное поле, вращение, метанит, реактивная мощность, как научиться программировать, progvibe, статор, электростанция, программирование, мощность, автономное электроснабжение, Асинхронные генераторы",
+    "description": "",
+    "name": "async_generators"
+  },
+  {
+    "id": 474,
+    "title": "XMLHttpRequest и отправка ajax-запросов",
+    "url": "/tutorials/javascript/general/xmlhttprequest_sending_ajax_requests",
+    "chapter": 17,
+    "keywords": "MLHttpRequestEventTarget, заголовок запроса, FormData, кроссдоменные запросы, статус ответа,  onloadend,  onreadystatechange, ответ сервера, безопасности,  onabort, metanit, XMLHttpRequest,  responseXML, PUT, статьи, тело запроса, CORS, синхронные запросы,  ontimeout. \n, Promise, обучение,  status,  timeout, AJAX, кэширование, DELETE, DOM,  getAllResponseHeaders, habr, асинхронный JavaScript,  abort,  onload,  overrideMimeType, GET,  ontimeout,  responseText, XML, обучающие статьи по программированию,  setRequestHeader, async/await, хабр, progvibe.ru, прогвайб,  readyState, progress event,  onerror, загрузка файлов,  onprogress, обработка ошибок, XHR2,  onloadstart,  statusText, метанит, как научиться программировать, JSON, progvibe, POST,  send, обработка данных,  getResponseHeader, XMLHttpRequest и отправка ajax-запросов,  open,  fetch API, программирование, HTTP-запросы",
+    "description": "",
+    "name": "xmlhttprequest_sending_ajax_requests"
+  },
+  {
+    "id": 475,
+    "title": "Загрузка HTML с помощью XMLHttpRequest",
+    "url": "/tutorials/javascript/general/xmlhttprequest_loading_html",
+    "chapter": 17,
+    "keywords": "тод, metanit, рендеринг, веб-приложения, readyState, XMLHttpRequest, статьи, HTTP, динамическое содержимое, обучение, AJAX, JavaScript, DOM, habr, запрос, успешное выполнение, Загрузка HTML с помощью XMLHttpRequest, GET, парсинг, ошибка, данные, браузер, XML, обучающие статьи по программированию, веб-разработка, хабр, progvibe.ru, прогвайб, взаимодействие. \n, onreadystatechange, ответ, HTML, загрузка, onload, метанит, асинхронный, как научиться программировать, JSON, progvibe, POST, обработка, сервер, событие, программирование, status code, headers, URL",
+    "description": "",
+    "name": "xmlhttprequest_loading_html"
+  },
+  {
+    "id": 476,
+    "title": "Загрузка XML с помощью XMLHttpRequest",
+    "url": "/tutorials/javascript/general/xmlhttprequest_loading_xml",
+    "chapter": 17,
+    "keywords": "тод, tutorial. \n, metanit, DOMParser, XMLHttpRequest, onerror, статьи, HTTP, преобразование, open, CORS, исключение, обучение, выгрузка, Загрузка XML с помощью XMLHttpRequest, статус, кэширование, JavaScript, habr, Content-Type, GET, урок, парсинг, данные, браузер, клиент, XML, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, безопасность, ответ, HTML, статус-код, загрузка, обработка ошибок, кросс-доменный, onload, синхронный, MIME-тип, метанит, асинхронный, код, JSON, как научиться программировать, файл, progvibe, POST, обработка, обработка данных, событие, сервер, программирование, send, заголовок, совместимость, пример",
+    "description": "",
+    "name": "xmlhttprequest_loading_xml"
+  },
+  {
+    "id": 477,
+    "title": "Загрузка JSON с помощью XMLHttpRequest",
+    "url": "/tutorials/javascript/general/xmlhttprequest_loading_json",
+    "chapter": 17,
+    "keywords": "тод, прогресс, API, metanit, XMLHttpRequest, статьи, свойство, события, документация, объект, обучение, статус, JavaScript, habr, GET, парсинг, ошибка, данные, значение, браузер, обучающие статьи по программированию, веб-разработка, обработка событий, хабр, progvibe.ru, прогвайб, совместимость \n, ответ, загрузка, обработка ошибок, метанит, асинхронный, код, JSON, как научиться программировать, progvibe, POST, обработка, программирование, Загрузка JSON с помощью XMLHttpRequest, сетевой запрос, пример, URL",
+    "description": "",
+    "name": "xmlhttprequest_loading_json"
+  },
+  {
+    "id": 478,
+    "title": "Отправка данных в ajax-запросе",
+    "url": "/tutorials/javascript/general/sending_data_ajax_requests",
+    "chapter": 17,
+    "keywords": "тимизация производительности, HTTP-запрос, заголовок запроса, обработка ответа, асинхронное программирование, передача данных, статус ответа, оптимизация взаимодействия, metanit, ответ сервера, веб-приложения, XMLHttpRequest, статьи, тело запроса, взаимодействие с сервером, клиент-серверное взаимодействие. \n, улучшение пользовательского интерфейса, обучение, AJAX, JavaScript, habr, без перезагрузки страницы, GET, данные, взаимодействие с серверной частью, клиент, асинхронная обработка, XML, обучающие статьи по программированию, веб-разработка, хабр, progvibe.ru, прогвайб, Отправка данных в ajax-запросе, jQuery, обработка ошибок, метанит, динамическое обновление, как научиться программировать, JSON, progvibe, POST, сервер, программирование, метод запроса",
+    "description": "",
+    "name": "sending_data_ajax_requests"
+  },
+  {
+    "id": 479,
+    "title": "Отправка форм в ajax-запросе",
+    "url": "/tutorials/javascript/general/sending_forms_ajax_requests",
+    "chapter": 17,
+    "keywords": "тод, успешный ответ, взаимодействие с пользователем. \n, форма, FormData, metanit, рендеринг, validate, XMLHttpRequest, статьи, обновление, fetch, обучение, статус, AJAX, JavaScript, валидация, habr, запрос, GET, пользовательский интерфейс, ошибка, response, данные, preventDefault, клиент, обучающие статьи по программированию, Отправка форм в ajax-запросе, хабр, progvibe.ru, прогвайб, асинхронность, CSS, UI, HTML, submit, метанит, обработчик событий, динамическое обновление, как научиться программировать, JSON, progvibe, POST, обработка, сервер, программирование, отправка, взаимодействие",
+    "description": "",
+    "name": "sending_forms_ajax_requests"
+  }
+]

@@ -65,31 +65,31 @@ a {
     color: lightblue;
 }
 .card {
-    background-color: #e6f7ff; /* Светло-голубой фон карточки */
-    color: #333; /* Темный текст */
+    background-color: #e6f7ff;
+    color: #333;
 }
 
 .card:hover {
-    box-shadow: 0 8px 16px rgb(255, 255, 255); /* Более сильная тень */
+    box-shadow: 0 8px 16px rgb(255, 255, 255);
 }
 
 .card-title {
-    color: #003366; /* Темно-синий цвет заголовка */
+    color: #003366;
 }
 
 .card-description {
-    color: #666; /* Серый цвет описания */
+    color: #666;
 }
 
 .card-button {
-    background-color: gray; /* Насыщенный синий фон кнопки */
-    color: #fff; /* Белый текст */
+    background-color: gray;
+    color: #fff;
     padding: 10px 20px;
 }
 
 .card-button:hover {
-    background-color: #0d1117; /* Темно-синий фон при наведении */
-    transform: scale(1.05); /* Увеличение кнопки при наведении */
+    background-color: #0d1117;
+    transform: scale(1.05);
 }
 .navigation-panel a, .sub-navigation-panel a {
     background-color: white;

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 20,
+    "name": "general",
+    "title": "JavaScript",
+    "preview": null,
+    "lang_id": 17,
+    "url": "/tutorials/javascript/general/intro",
+    "description": "Изучите JavaScript: создавайте интерактивные веб-сайты. \n",
+    "keywords": null
+  },
+  {
+    "id": 21,
+    "name": "jquery",
+    "title": "JQuery",
+    "preview": null,
+    "lang_id": 17,
+    "url": "/tutorials/javascript/jquery/intro",
+    "description": "Упростите разработку JavaScript с помощью jQuery. \n",
+    "keywords": null
+  },
+  {
+    "id": 22,
+    "name": "react",
+    "title": "React",
+    "preview": null,
+    "lang_id": 17,
+    "url": "/tutorials/javascript/react/intro",
+    "description": "Изучите React: создавайте интерактивные веб-приложения. \n",
+    "keywords": null
+  },
+  {
+    "id": 23,
+    "name": "vue",
+    "title": "Vue.js",
+    "preview": null,
+    "lang_id": 17,
+    "url": "/tutorials/javascript/vue/intro",
+    "description": "Создавайте динамические веб-приложения с Vue.js. \n",
+    "keywords": null
+  },
+  {
+    "id": 24,
+    "name": "node",
+    "title": "Node.js",
+    "preview": null,
+    "lang_id": 17,
+    "url": "/tutorials/javascript/node/intro",
+    "description": "Полное руководство по Node.js для начинающих и опытных разработчиков. \n",
+    "keywords": null
+  },
+  {
+    "id": 46,
+    "name": "next",
+    "title": "Next.js",
+    "preview": null,
+    "lang_id": 17,
+    "url": "/tutorials/javascript/next/intro",
+    "description": "Ускорьте разработку React-приложений с Next.js.\n",
+    "keywords": null
+  },
+  {
+    "id": 47,
+    "name": "angular",
+    "title": "Angular.js",
+    "preview": null,
+    "lang_id": 17,
+    "url": "/tutorials/javascript/angular/intro",
+    "description": "Учебник по Angular.js для начинающих и опытных разработчиков.\n",
+    "keywords": null
+  }
+]

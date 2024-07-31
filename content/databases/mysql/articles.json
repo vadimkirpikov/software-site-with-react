@@ -1,0 +1,407 @@
+[
+  {
+    "id": 939,
+    "title": "Что такое MySQL и зачем он нужен",
+    "url": "/tutorials/databases/mysql/intro",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "intro"
+  },
+  {
+    "id": 940,
+    "title": "Основные преимущества MySQL",
+    "url": "/tutorials/databases/mysql/advantages-of-mysql",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "advantages-of-mysql"
+  },
+  {
+    "id": 941,
+    "title": "История MySQL",
+    "url": "/tutorials/databases/mysql/history-of-mysql",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "history-of-mysql"
+  },
+  {
+    "id": 942,
+    "title": "Установка MySQL на различных операционных системах",
+    "url": "/tutorials/databases/mysql/installing-mysql",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "installing-mysql"
+  },
+  {
+    "id": 943,
+    "title": "Настройка MySQL после установки",
+    "url": "/tutorials/databases/mysql/configuring-mysql",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "configuring-mysql"
+  },
+  {
+    "id": 944,
+    "title": "Создание базы данных и пользователей в MySQL",
+    "url": "/tutorials/databases/mysql/creating-database-users",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "creating-database-users"
+  },
+  {
+    "id": 945,
+    "title": "Настройка параметров сервера MySQL",
+    "url": "/tutorials/databases/mysql/configuring-server-parameters",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "configuring-server-parameters"
+  },
+  {
+    "id": 946,
+    "title": "Консоль mysql и управление базами данных",
+    "url": "/tutorials/databases/mysql/mysql-console-management",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "mysql-console-management"
+  },
+  {
+    "id": 947,
+    "title": "Создание и удаление баз данных в MySQL",
+    "url": "/tutorials/databases/mysql/creating-dropping-databases",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "creating-dropping-databases"
+  },
+  {
+    "id": 948,
+    "title": "Создание и удаление таблиц в MySQL",
+    "url": "/tutorials/databases/mysql/creating-dropping-tables",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "creating-dropping-tables"
+  },
+  {
+    "id": 949,
+    "title": "Основные операторы SQL в MySQL",
+    "url": "/tutorials/databases/mysql/basic-sql-operators",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "basic-sql-operators"
+  },
+  {
+    "id": 950,
+    "title": "Типы данных в MySQL",
+    "url": "/tutorials/databases/mysql/data-types",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "data-types"
+  },
+  {
+    "id": 951,
+    "title": "SELECT statement в MySQL",
+    "url": "/tutorials/databases/mysql/select-statement",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "select-statement"
+  },
+  {
+    "id": 952,
+    "title": "Условные операторы (WHERE, AND, OR, NOT) в MySQL",
+    "url": "/tutorials/databases/mysql/conditional-operators",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "conditional-operators"
+  },
+  {
+    "id": 953,
+    "title": "Сортировка данных (ORDER BY) в MySQL",
+    "url": "/tutorials/databases/mysql/sorting-data",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "sorting-data"
+  },
+  {
+    "id": 954,
+    "title": "Функции агрегации (SUM, AVG, COUNT, MIN, MAX) в MySQL",
+    "url": "/tutorials/databases/mysql/aggregate-functions",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "aggregate-functions"
+  },
+  {
+    "id": 955,
+    "title": "Группировка данных (GROUP BY) в MySQL",
+    "url": "/tutorials/databases/mysql/grouping-data",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "grouping-data"
+  },
+  {
+    "id": 956,
+    "title": "Фильтрация групп (HAVING) в MySQL",
+    "url": "/tutorials/databases/mysql/having-clause",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "having-clause"
+  },
+  {
+    "id": 957,
+    "title": "Операторы LIKE и IN в MySQL",
+    "url": "/tutorials/databases/mysql/like-in-operators",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "like-in-operators"
+  },
+  {
+    "id": 958,
+    "title": "Типы соединений (INNER JOIN, LEFT JOIN, RIGHT JOIN) в MySQL",
+    "url": "/tutorials/databases/mysql/join-types",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "join-types"
+  },
+  {
+    "id": 959,
+    "title": "Подзапросы (Subqueries) в MySQL",
+    "url": "/tutorials/databases/mysql/subqueries",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "subqueries"
+  },
+  {
+    "id": 960,
+    "title": "Соединение таблиц по нескольким столбцам в MySQL",
+    "url": "/tutorials/databases/mysql/multi-column-joins",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "multi-column-joins"
+  },
+  {
+    "id": 961,
+    "title": "Самосоединение таблицы (Self-join) в MySQL",
+    "url": "/tutorials/databases/mysql/self-join",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "self-join"
+  },
+  {
+    "id": 962,
+    "title": "Вставка данных (INSERT INTO) в MySQL",
+    "url": "/tutorials/databases/mysql/insert-statement",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "insert-statement"
+  },
+  {
+    "id": 963,
+    "title": "Обновление данных (UPDATE) в MySQL",
+    "url": "/tutorials/databases/mysql/update-statement",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "update-statement"
+  },
+  {
+    "id": 964,
+    "title": "Удаление данных (DELETE) в MySQL",
+    "url": "/tutorials/databases/mysql/delete-statement",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "delete-statement"
+  },
+  {
+    "id": 965,
+    "title": "Транзакции (BEGIN TRANSACTION, COMMIT, ROLLBACK) в MySQL",
+    "url": "/tutorials/databases/mysql/transactions",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "transactions"
+  },
+  {
+    "id": 966,
+    "title": "Индексы в MySQL",
+    "url": "/tutorials/databases/mysql/indexes-in-mysql",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "indexes-in-mysql"
+  },
+  {
+    "id": 967,
+    "title": "Использование индексов для оптимизации запросов в MySQL",
+    "url": "/tutorials/databases/mysql/using-indexes",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "using-indexes"
+  },
+  {
+    "id": 968,
+    "title": "Оптимизация запросов SQL в MySQL",
+    "url": "/tutorials/databases/mysql/sql-query-optimization",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "sql-query-optimization"
+  },
+  {
+    "id": 969,
+    "title": "Создание и вызов функций в MySQL",
+    "url": "/tutorials/databases/mysql/creating-calling-functions",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "creating-calling-functions"
+  },
+  {
+    "id": 970,
+    "title": "Создание и вызов хранимых процедур в MySQL",
+    "url": "/tutorials/databases/mysql/creating-calling-procedures",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "creating-calling-procedures"
+  },
+  {
+    "id": 971,
+    "title": "Параметры функций и процедур в MySQL",
+    "url": "/tutorials/databases/mysql/function-procedure-parameters",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "function-procedure-parameters"
+  },
+  {
+    "id": 972,
+    "title": "Рекурсия в функциях MySQL",
+    "url": "/tutorials/databases/mysql/recursion-in-mysql",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "recursion-in-mysql"
+  },
+  {
+    "id": 973,
+    "title": "Управление доступом к данным (GRANT, REVOKE) в MySQL",
+    "url": "/tutorials/databases/mysql/grant-revoke",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "grant-revoke"
+  },
+  {
+    "id": 974,
+    "title": "Роли и привилегии в MySQL",
+    "url": "/tutorials/databases/mysql/roles-privileges",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "roles-privileges"
+  },
+  {
+    "id": 975,
+    "title": "Защита от SQL-инъекций в MySQL",
+    "url": "/tutorials/databases/mysql/sql-injection-prevention",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "sql-injection-prevention"
+  },
+  {
+    "id": 976,
+    "title": "JSON в MySQL",
+    "url": "/tutorials/databases/mysql/json-in-mysql",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "json-in-mysql"
+  },
+  {
+    "id": 977,
+    "title": "XML в MySQL",
+    "url": "/tutorials/databases/mysql/xml-in-mysql",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "xml-in-mysql"
+  },
+  {
+    "id": 978,
+    "title": "Работа с массивами в MySQL",
+    "url": "/tutorials/databases/mysql/arrays-in-mysql",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "arrays-in-mysql"
+  },
+  {
+    "id": 979,
+    "title": "Оконные функции (Window functions) в MySQL",
+    "url": "/tutorials/databases/mysql/window-functions",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "window-functions"
+  },
+  {
+    "id": 980,
+    "title": "Временные таблицы в MySQL",
+    "url": "/tutorials/databases/mysql/temporary-tables",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "temporary-tables"
+  },
+  {
+    "id": 981,
+    "title": "Установка и использование расширений в MySQL",
+    "url": "/tutorials/databases/mysql/installing-using-extensions",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "installing-using-extensions"
+  },
+  {
+    "id": 982,
+    "title": "Популярные расширения MySQL",
+    "url": "/tutorials/databases/mysql/popular-extensions",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "popular-extensions"
+  },
+  {
+    "id": 983,
+    "title": "Основные проблемы и их решения в MySQL",
+    "url": "/tutorials/databases/mysql/common-issues-solutions",
+    "chapter": 12,
+    "keywords": "",
+    "description": "",
+    "name": "common-issues-solutions"
+  }
+]

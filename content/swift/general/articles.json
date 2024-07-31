@@ -1,0 +1,335 @@
+[
+  {
+    "id": 1188,
+    "title": "Что такое Swift?",
+    "url": "/tutorials/swift/general/intro",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "intro"
+  },
+  {
+    "id": 1189,
+    "title": "Установка Swift на различных операционных системах (macOS, Linux).",
+    "url": "/tutorials/swift/general/swift_installation",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "swift_installation"
+  },
+  {
+    "id": 1190,
+    "title": "Настройка среды разработки Visual Studio Code.",
+    "url": "/tutorials/swift/general/vs_code_setup",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "vs_code_setup"
+  },
+  {
+    "id": 1191,
+    "title": "Типы данных, переменные и константы.",
+    "url": "/tutorials/swift/general/data_types_variables_constants",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "data_types_variables_constants"
+  },
+  {
+    "id": 1192,
+    "title": "Арифметические и логические операторы.",
+    "url": "/tutorials/swift/general/operators",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "operators"
+  },
+  {
+    "id": 1193,
+    "title": "Условные выражения и конструкции.",
+    "url": "/tutorials/swift/general/conditional_statements_constructions",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "conditional_statements_constructions"
+  },
+  {
+    "id": 1194,
+    "title": "Циклы.",
+    "url": "/tutorials/swift/general/loops",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "loops"
+  },
+  {
+    "id": 1195,
+    "title": "Операторы контроля выполнения (break, continue, guard).",
+    "url": "/tutorials/swift/general/control_flow_operators",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "control_flow_operators"
+  },
+  {
+    "id": 1196,
+    "title": "Коллекции (массивы, словари, множества).",
+    "url": "/tutorials/swift/general/collections",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "collections"
+  },
+  {
+    "id": 1197,
+    "title": "Определение и вызов функций.",
+    "url": "/tutorials/swift/general/function_definition_invocation",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "function_definition_invocation"
+  },
+  {
+    "id": 1198,
+    "title": "Вложенные функции и замыкания.",
+    "url": "/tutorials/swift/general/nested_functions_closures",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "nested_functions_closures"
+  },
+  {
+    "id": 1199,
+    "title": "Классы и структуры.",
+    "url": "/tutorials/swift/general/classes_structs",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "classes_structs"
+  },
+  {
+    "id": 1200,
+    "title": "Наследование и полиморфизм.",
+    "url": "/tutorials/swift/general/inheritance_polymorphism",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "inheritance_polymorphism"
+  },
+  {
+    "id": 1201,
+    "title": "Протоколы и расширения.",
+    "url": "/tutorials/swift/general/protocols_extensions",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "protocols_extensions"
+  },
+  {
+    "id": 1202,
+    "title": "Функциональные типы данных и операции.",
+    "url": "/tutorials/swift/general/functional_data_types_operations",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "functional_data_types_operations"
+  },
+  {
+    "id": 1203,
+    "title": "Замыкания в функциональном стиле.",
+    "url": "/tutorials/swift/general/closures_functional_style",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "closures_functional_style"
+  },
+  {
+    "id": 1204,
+    "title": "Высокоуровневые функции и композиция функций.",
+    "url": "/tutorials/swift/general/higher_order_functions_function_composition",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "higher_order_functions_function_composition"
+  },
+  {
+    "id": 1205,
+    "title": "Обработка ошибок в Swift.",
+    "url": "/tutorials/swift/general/error_handling_swift",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "error_handling_swift"
+  },
+  {
+    "id": 1206,
+    "title": "Использование оператора try, catch, throw.",
+    "url": "/tutorials/swift/general/try_catch_throw",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "try_catch_throw"
+  },
+  {
+    "id": 1207,
+    "title": "Опциональные значения и принудительное извлечение.",
+    "url": "/tutorials/swift/general/optionals_forced_unwrapping",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "optionals_forced_unwrapping"
+  },
+  {
+    "id": 1208,
+    "title": "Создание пользовательских интерфейсов с помощью UIKit или SwiftUI.",
+    "url": "/tutorials/swift/general/creating_uis_uikit_swiftui",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "creating_uis_uikit_swiftui"
+  },
+  {
+    "id": 1209,
+    "title": "Интерактивные элементы (кнопки, текстовые поля, таблицы и т.д.).",
+    "url": "/tutorials/swift/general/interactive_elements",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "interactive_elements"
+  },
+  {
+    "id": 1210,
+    "title": "Обработка событий и взаимодействие с пользователем.",
+    "url": "/tutorials/swift/general/event_handling_user_interaction",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "event_handling_user_interaction"
+  },
+  {
+    "id": 1211,
+    "title": "Взаимодействие с сетевыми API.",
+    "url": "/tutorials/swift/general/networking_apis",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "networking_apis"
+  },
+  {
+    "id": 1212,
+    "title": "Работа с базами данных.",
+    "url": "/tutorials/swift/general/working_with_databases",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "working_with_databases"
+  },
+  {
+    "id": 1213,
+    "title": "Использование UserDefaults для хранения настроек.",
+    "url": "/tutorials/swift/general/userdefaults",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "userdefaults"
+  },
+  {
+    "id": 1214,
+    "title": "Основы GCD (Grand Central Dispatch).",
+    "url": "/tutorials/swift/general/gcd_basics",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "gcd_basics"
+  },
+  {
+    "id": 1215,
+    "title": "Работа с параллельными задачами и очередями.",
+    "url": "/tutorials/swift/general/concurrent_tasks_queues",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "concurrent_tasks_queues"
+  },
+  {
+    "id": 1216,
+    "title": "Инструменты для тестирования в Swift.",
+    "url": "/tutorials/swift/general/testing_tools_swift",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "testing_tools_swift"
+  },
+  {
+    "id": 1217,
+    "title": "Отладка приложений на iOS и macOS.",
+    "url": "/tutorials/swift/general/debugging_ios_macos_apps",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "debugging_ios_macos_apps"
+  },
+  {
+    "id": 1218,
+    "title": "Использование юнит-тестов и UI-тестов.",
+    "url": "/tutorials/swift/general/unit_testing_ui_testing",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "unit_testing_ui_testing"
+  },
+  {
+    "id": 1219,
+    "title": "Подготовка приложения к публикации в App Store.",
+    "url": "/tutorials/swift/general/preparing_app_app_store",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "preparing_app_app_store"
+  },
+  {
+    "id": 1220,
+    "title": "Сборка и архивация проекта.",
+    "url": "/tutorials/swift/general/building_archiving_project",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "building_archiving_project"
+  },
+  {
+    "id": 1221,
+    "title": "Подпись и отправка приложения на тестирование и релиз.",
+    "url": "/tutorials/swift/general/signing_submitting_app_testing_release",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "signing_submitting_app_testing_release"
+  },
+  {
+    "id": 1222,
+    "title": "Работа с асинхронным программированием в Swift.",
+    "url": "/tutorials/swift/general/asynchronous_programming_swift",
+    "chapter": 12,
+    "keywords": "",
+    "description": "",
+    "name": "asynchronous_programming_swift"
+  },
+  {
+    "id": 1223,
+    "title": "Использование SwiftUI для создания декларативных пользовательских интерфейсов.",
+    "url": "/tutorials/swift/general/swiftui_declarative_uis",
+    "chapter": 12,
+    "keywords": "",
+    "description": "",
+    "name": "swiftui_declarative_uis"
+  },
+  {
+    "id": 1224,
+    "title": "Интеграция с фреймворками и сторонними библиотеками.",
+    "url": "/tutorials/swift/general/frameworks_third_party_libraries",
+    "chapter": 12,
+    "keywords": "",
+    "description": "",
+    "name": "frameworks_third_party_libraries"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 25,
+    "name": "general",
+    "title": "Go",
+    "preview": null,
+    "lang_id": 18,
+    "url": "/tutorials/go/general/intro",
+    "description": "Погружайтесь в мир Go и пишите код с удовольствием.\n",
+    "keywords": null
+  },
+  {
+    "id": 26,
+    "name": "echo",
+    "title": "Echo",
+    "preview": null,
+    "lang_id": 18,
+    "url": "/tutorials/go/echo/intro",
+    "description": "Узнайте, как Echo может облегчить вашу жизнь. \n",
+    "keywords": null
+  }
+]

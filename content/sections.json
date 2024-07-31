@@ -1,9 +1,110 @@
 [
-  {"url": "/python", "title": "Python", "description": "Учить Python"},
-  {"url": "/java", "title": "Java", "description": "Учить Java"},
-  {"url": "/web", "title": "WEB", "description": "WEBDEV"},
-  {"url": "/php", "title": "PHP", "description": "Учить Python"},
-  {"url": "/kotlin", "title": "Kotlin", "description": "Учить Python"},
-  {"url": "/swift", "title": "Swift", "description": "Учить Python"},
-  {"url": "/devops", "title": "Руководства DevOps", "description": "Учить Python"}
+  {
+    "id": 14,
+    "name": "php",
+    "title": "PHP",
+    "preview": "Освойте веб-разработку с PHP.\n",
+    "url": "/tutorials/php",
+    "keywords": null,
+    "description": "Освойте веб-разработку с PHP.\n"
+  },
+  {
+    "id": 15,
+    "name": "java",
+    "title": "Java",
+    "preview": "Изучите Java: мощный язык для создания приложений. \n",
+    "url": "/tutorials/java",
+    "keywords": null,
+    "description": "Изучите Java: мощный язык для создания приложений. \n"
+  },
+  {
+    "id": 16,
+    "name": "kotlin",
+    "title": "Kotlin",
+    "preview": "Изучите Kotlin: мощный и лаконичный язык для Android и не только. \n",
+    "url": "/tutorials/kotlin",
+    "keywords": null,
+    "description": "Изучите Kotlin: мощный и лаконичный язык для Android и не только. \n"
+  },
+  {
+    "id": 17,
+    "name": "javascript",
+    "title": "Javascript",
+    "preview": "Изучите JavaScript и создайте интерактивные веб-приложения.\n",
+    "url": "/tutorials/javascript",
+    "keywords": null,
+    "description": "Изучите JavaScript и создайте интерактивные веб-приложения.\n"
+  },
+  {
+    "id": 18,
+    "name": "go",
+    "title": "Go",
+    "preview": "Полное руководство по языку программирования Go для новичков и опытных разработчиков. \n",
+    "url": "/tutorials/go",
+    "keywords": null,
+    "description": "Полное руководство по языку программирования Go для новичков и опытных разработчиков. \n"
+  },
+  {
+    "id": 19,
+    "name": "devops",
+    "title": "DevOps",
+    "preview": "Ускорьте разработку и развертывание программного обеспечения. \n",
+    "url": "/tutorials/devops",
+    "keywords": null,
+    "description": "Ускорьте разработку и развертывание программного обеспечения. \n"
+  },
+  {
+    "id": 20,
+    "name": "databases",
+    "title": "SQL базы данных",
+    "preview": "Изучите SQL и управляйте мощными базами данных. \n",
+    "url": "/tutorials/databases",
+    "keywords": null,
+    "description": "Изучите SQL и управляйте мощными базами данных. \n"
+  },
+  {
+    "id": 21,
+    "name": "python",
+    "title": "Python",
+    "preview": "Изучите Python: мощный, универсальный язык программирования. \n",
+    "url": "/tutorials/python",
+    "keywords": null,
+    "description": "Изучите Python: мощный, универсальный язык программирования. \n"
+  },
+  {
+    "id": 22,
+    "name": "swift",
+    "title": "Swift",
+    "preview": "Изучите Swift – мощный язык программирования для iOS, macOS и других платформ. \n",
+    "url": "/tutorials/swift",
+    "keywords": null,
+    "description": "Изучите Swift – мощный язык программирования для iOS, macOS и других платформ. \n"
+  },
+  {
+    "id": 23,
+    "name": "nosql",
+    "title": "Кеш-системы и NOSQL базы данных",
+    "preview": "Ускорьте приложения с помощью кеширования и NOSQL. \n",
+    "url": "/tutorials/nosql",
+    "keywords": null,
+    "description": "Ускорьте приложения с помощью кеширования и NOSQL. \n"
+  },
+  {
+    "id": 24,
+    "name": "cpp",
+    "title": "C++",
+    "preview": "Изучите C++ - мощный язык для создания программ.\n",
+    "url": "/tutorials/cpp",
+    "keywords": null,
+    "description": "Изучите C++ - мощный язык для создания программ.\n"
+  },
+  {
+    "id": 25,
+    "name": "csharp",
+    "title": "C#",
+    "preview": "Изучите C# - мощный язык для создания современных приложений.\n",
+    "url": "/tutorials/csharp",
+    "keywords": null,
+    "description": "Изучите C# - мощный язык для создания современных приложений.\n"
+  }
 ]

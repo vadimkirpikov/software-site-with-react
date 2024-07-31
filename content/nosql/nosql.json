@@ -1,0 +1,52 @@
+[
+  {
+    "id": 41,
+    "name": "mongodb",
+    "title": "MongoDB",
+    "preview": null,
+    "lang_id": 23,
+    "url": "/tutorials/nosql/mongodb/intro",
+    "description": "Освой MongoDB: мощное решение для управления данными. \n",
+    "keywords": null
+  },
+  {
+    "id": 42,
+    "name": "neo4j",
+    "title": "Neo4j",
+    "preview": null,
+    "lang_id": 23,
+    "url": "/tutorials/nosql/neo4j/intro",
+    "description": "Изучите мощь графовых баз данных с Neo4j.\n",
+    "keywords": null
+  },
+  {
+    "id": 43,
+    "name": "timescaledb",
+    "title": "TimeScaleDB",
+    "preview": null,
+    "lang_id": 23,
+    "url": "/tutorials/nosql/timescaledb/intro",
+    "description": "Масштабируемое хранилище временных рядов для PostgreSQL.\n",
+    "keywords": null
+  },
+  {
+    "id": 44,
+    "name": "redis",
+    "title": "Redis",
+    "preview": null,
+    "lang_id": 23,
+    "url": "/tutorials/nosql/redis/intro",
+    "description": "Ускорьте приложения с помощью Redis - мощного кэширующего решения. \n",
+    "keywords": null
+  },
+  {
+    "id": 45,
+    "name": "memcached",
+    "title": "Memcached",
+    "preview": null,
+    "lang_id": 23,
+    "url": "/tutorials/nosql/memcached/intro",
+    "description": "Ускорьте свои приложения с помощью Memcached. \n",
+    "keywords": null
+  }
+]

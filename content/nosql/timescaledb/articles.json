@@ -1,0 +1,263 @@
+[
+  {
+    "id": 1302,
+    "title": "Введение в TimeScaleDB",
+    "url": "/tutorials/nosql/timescaledb/intro",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "intro"
+  },
+  {
+    "id": 1303,
+    "title": "Установка на разлчиные ОС",
+    "url": "/tutorials/nosql/timescaledb/installing",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "installing"
+  },
+  {
+    "id": 1304,
+    "title": "Первоначальная настройка и конфигурация",
+    "url": "/tutorials/nosql/timescaledb/setup",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "setup"
+  },
+  {
+    "id": 1305,
+    "title": "Обзор TimeScaleDB и его особенности",
+    "url": "/tutorials/nosql/timescaledb/overview",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "overview"
+  },
+  {
+    "id": 1306,
+    "title": "Основные концепции и архитектура",
+    "url": "/tutorials/nosql/timescaledb/architecture",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "architecture"
+  },
+  {
+    "id": 1307,
+    "title": "Основные типы данных и схемы",
+    "url": "/tutorials/nosql/timescaledb/datatypes",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "datatypes"
+  },
+  {
+    "id": 1308,
+    "title": "Работа с временными рядами",
+    "url": "/tutorials/nosql/timescaledb/timeseries",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "timeseries"
+  },
+  {
+    "id": 1309,
+    "title": "Основные SQL запросы",
+    "url": "/tutorials/nosql/timescaledb/sqlbasics",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "sqlbasics"
+  },
+  {
+    "id": 1310,
+    "title": "Создание гипертаблицы",
+    "url": "/tutorials/nosql/timescaledb/hypertables",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "hypertables"
+  },
+  {
+    "id": 1311,
+    "title": "Управление гипертаблицами",
+    "url": "/tutorials/nosql/timescaledb/hypertablemanagement",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "hypertablemanagement"
+  },
+  {
+    "id": 1312,
+    "title": "Индексы и оптимизация",
+    "url": "/tutorials/nosql/timescaledb/indexing",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "indexing"
+  },
+  {
+    "id": 1313,
+    "title": "Встроенные функции и расширения",
+    "url": "/tutorials/nosql/timescaledb/functions",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "functions"
+  },
+  {
+    "id": 1314,
+    "title": "Использование политики автоматической агрегации",
+    "url": "/tutorials/nosql/timescaledb/policies",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "policies"
+  },
+  {
+    "id": 1315,
+    "title": "Взаимодействие с данными через API",
+    "url": "/tutorials/nosql/timescaledb/api",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "api"
+  },
+  {
+    "id": 1316,
+    "title": "Мониторинг и производительность",
+    "url": "/tutorials/nosql/timescaledb/monitoring",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "monitoring"
+  },
+  {
+    "id": 1317,
+    "title": "Запись и обновление данных",
+    "url": "/tutorials/nosql/timescaledb/datawriting",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "datawriting"
+  },
+  {
+    "id": 1318,
+    "title": "Чтение и запрос данных",
+    "url": "/tutorials/nosql/timescaledb/dataquerying",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "dataquerying"
+  },
+  {
+    "id": 1319,
+    "title": "Агрегации и аналитика",
+    "url": "/tutorials/nosql/timescaledb/analytics",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "analytics"
+  },
+  {
+    "id": 1320,
+    "title": "Резервное копирование данных",
+    "url": "/tutorials/nosql/timescaledb/backup",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "backup"
+  },
+  {
+    "id": 1321,
+    "title": "Восстановление данных",
+    "url": "/tutorials/nosql/timescaledb/restore",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "restore"
+  },
+  {
+    "id": 1322,
+    "title": "Управление хранилищем",
+    "url": "/tutorials/nosql/timescaledb/storage",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "storage"
+  },
+  {
+    "id": 1323,
+    "title": "Интеграция с другими системами",
+    "url": "/tutorials/nosql/timescaledb/integration",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "integration"
+  },
+  {
+    "id": 1324,
+    "title": "Развертывание в облаке",
+    "url": "/tutorials/nosql/timescaledb/clouddeployment",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "clouddeployment"
+  },
+  {
+    "id": 1325,
+    "title": "Развертывание в контейнерах",
+    "url": "/tutorials/nosql/timescaledb/containerization",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "containerization"
+  },
+  {
+    "id": 1326,
+    "title": "Управление доступом и привилегиями",
+    "url": "/tutorials/nosql/timescaledb/accesscontrol",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "accesscontrol"
+  },
+  {
+    "id": 1327,
+    "title": "Безопасность данных и защита",
+    "url": "/tutorials/nosql/timescaledb/security",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "security"
+  },
+  {
+    "id": 1328,
+    "title": "Аудит и журналы",
+    "url": "/tutorials/nosql/timescaledb/auditing",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "auditing"
+  },
+  {
+    "id": 1329,
+    "title": "Примеры использования TimeScaleDB в реальных проектах",
+    "url": "/tutorials/nosql/timescaledb/usecases",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "usecases"
+  },
+  {
+    "id": 1330,
+    "title": "Часто задаваемые вопросы и решения",
+    "url": "/tutorials/nosql/timescaledb/faq",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "faq"
+  }
+]

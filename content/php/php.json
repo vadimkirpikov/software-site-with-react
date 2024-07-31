@@ -1,0 +1,22 @@
+[
+  {
+    "id": 14,
+    "name": "general",
+    "title": "PHP",
+    "preview": "",
+    "lang_id": 14,
+    "url": "/tutorials/php/general/intro",
+    "description": "Учитесь создавать мощные веб-приложения на PHP. \n",
+    "keywords": null
+  },
+  {
+    "id": 15,
+    "name": "laravel",
+    "title": "Laravel",
+    "preview": "",
+    "lang_id": 14,
+    "url": "/tutorials/php/laravel/intro",
+    "description": "Ускорьте разработку веб-приложений с Laravel. \n",
+    "keywords": null
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 18,
+    "name": "general",
+    "title": "Kotlin",
+    "preview": null,
+    "lang_id": 16,
+    "url": "/tutorials/kotlin/general/intro",
+    "description": "Узнайте Kotlin: мощный язык для Android и многого другого.\n",
+    "keywords": null
+  },
+  {
+    "id": 19,
+    "name": "ktor",
+    "title": "Ktor",
+    "preview": null,
+    "lang_id": 16,
+    "url": "/tutorials/kotlin/ktor/intro",
+    "description": "Создавайте мощные приложения с Ktor! \n",
+    "keywords": null
+  }
+]

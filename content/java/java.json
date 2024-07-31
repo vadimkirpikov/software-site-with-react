@@ -1,0 +1,32 @@
+[
+  {
+    "id": 16,
+    "name": "general",
+    "title": "Java",
+    "preview": "",
+    "lang_id": 15,
+    "url": "/tutorials/java/general/intro",
+    "description": "Освой Java: мощный язык для разработки программ. \n",
+    "keywords": null
+  },
+  {
+    "id": 17,
+    "name": "spring",
+    "title": "Spring Framework",
+    "preview": null,
+    "lang_id": 15,
+    "url": "/tutorials/java/spring/intro",
+    "description": "Изучите Spring Framework для эффективной разработки на Java.\n",
+    "keywords": null
+  },
+  {
+    "id": 51,
+    "name": "hibernate",
+    "title": "Hibernate",
+    "preview": null,
+    "lang_id": 15,
+    "url": "/tutorials/java/hibernate/intro",
+    "description": "Освой Hibernate - легкость работы с базами данных. \n",
+    "keywords": null
+  }
+]

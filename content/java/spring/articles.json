@@ -1,0 +1,281 @@
+[
+  {
+    "id": 270,
+    "title": "Что такое Spring Framework",
+    "url": "/tutorials/java/spring/intro",
+    "chapter": 1,
+    "keywords": "Spring Security OAuth, Spring Web, Reactive Programming, progvibe, JEE, Microservices, хабр, Testing, Spring MVC, Annotation, Spring Cloud Gateway, Spring Boot, AOP, metanit, Что такое Spring Framework, Spring Data, Spring JDBC, Spring Data JPA, Spring Cloud Kubernetes, Framework, Configuration, IoC, Spring Core, Spring Framework 5, Integration, программирование, Spring Boot Starter, как научиться программировать, Spring Cloud OpenFeign, Spring Security, Java, Spring Boot CLI \n, метанит, статьи, Spring Context, Spring Cloud, Bean, Spring Cloud Config, Dependency Injection, прогвайб, Lightweight, Spring Boot Actuator, Dependency Management, Spring WebSockets, progvibe.ru, habr, XML, обучение, Web Development, Aspect-Oriented Programming, Spring Cloud Netflix, Spring Cloud Consul, обучающие статьи по программированию, Spring, Enterprise JavaBeans, Transaction Management, Inversion of Control, REST",
+    "description": "",
+    "name": "intro"
+  },
+  {
+    "id": 271,
+    "title": "Основные концепции и принципы Spring",
+    "url": "/tutorials/java/spring/core_concepts_of_spring",
+    "chapter": 1,
+    "keywords": " ViewResolvers, Spring AOP, progvibe,  Event Handling,  Microservices, хабр, Spring MVC, Spring Boot,  Configuration,  Spring Data JPA, metanit,  RESTful Web Services, Spring Data,  Hibernate,  Beans, Основные концепции и принципы Spring,  Model-View-Controller,  Mockito. \n,  Annotations,  Context,  IoC Container,  Transaction Management,  Autowiring, программирование, как научиться программировать, Spring Security, метанит, статьи,  Spring Batch,  ApplicationContext, Dependency Injection,  MVC Architecture,  JDBC, Spring Framework,  Testing with Spring, progvibe.ru, прогвайб, habr,  Controllers,  Message Queues,  Spring Integration, обучение, Aspect-Oriented Programming, обучающие статьи по программированию,  Data Access Object (DAO), Inversion of Control,  Spring Cloud",
+    "description": "",
+    "name": "core_concepts_of_spring"
+  },
+  {
+    "id": 272,
+    "title": "Введение в IoC и DI",
+    "url": "/tutorials/java/spring/ioc_and_di",
+    "chapter": 2,
+    "keywords": " JavaScript, progvibe,  Абстракция,  Развязка, хабр,  ASP.NET Core, metanit, Принципы SOLID,  React. \n,  Loose Coupling, Децентрализация,  Spring, Шаблон проектирования, IoC,  Декомпозиция,  Расширяемость, Сборка объектов,  Dependency Injection Framework,  Интерфейс,  Переиспользование,  Модульность, DI, программирование, Метод,  Зависимости, как научиться программировать, Инверсия управления, метанит, статьи,  Angular, Контейнер зависимостей, Свойство,  .NET Core, Сборка зависимостей, progvibe.ru, прогвайб, habr,  Dagger 2, Введение в IoC и DI,  Guice, обучение, обучающие статьи по программированию,  Поддерживаемость, Инъекция зависимостей,  TypeScript, Конструктор,  Тестирование,  Гибкость",
+    "description": "",
+    "name": "ioc_and_di"
+  },
+  {
+    "id": 273,
+    "title": "Контейнеры IoC в Spring",
+    "url": "/tutorials/java/spring/ioc_containers",
+    "chapter": 2,
+    "keywords": "Автоматическое внедрение зависимостей, Репозиторий, progvibe, Конфигурирование зависимостей, Микросервисы. \n, Веб-приложение, Жизненный цикл бина, хабр, DAO, Лучшие практики, Scope, Контейнеры IoC в Spring, Spring Boot, AOP, metanit, Constructor Injection, XML-конфигурация, Контроллер, Aspect-ориентированное программирование, Тестирование, Сервис, Расширяемость, Prototype, программирование, как научиться программировать, Field Injection, Инверсия управления, Java Annotation, Разделение ответственности, Модульность, метанит, Spring Context, статьи, Паттерн проектирования, Bean, Абстракция, Dependency Injection, прогвайб, progvibe.ru, Spring Framework, Интерфейсы, Настройка, Прокси-объекты, habr, IoC-контейнер, обучение, Производительность, Singleton, обучающие статьи по программированию, Setter Injection",
+    "description": "",
+    "name": "ioc_containers"
+  },
+  {
+    "id": 274,
+    "title": "ApplicationContext vs BeanFactory",
+    "url": "/tutorials/java/spring/applicationcontext_vs_beanfactory",
+    "chapter": 2,
+    "keywords": "progvibe, ApplicationContext vs BeanFactory, Autowiring, Abstract Class, Microservices, хабр, DevOps, BeanPostProcessor, Child Context, Java Configuration, Spring Boot, metanit, Interface, InitializingBean, Singleton Scope, Resource Loading, Aspect-Oriented Programming (AOP), Spring Data, Bean Life Cycle, Bean Definition, Cloud Native, программирование, как научиться программировать, Spring Security, метанит, статьи, DisposableBean, Docker, Context Hierarchy, Spring Cloud, XML Configuration, Kubernetes, Configuration Class, прогвайб, progvibe.ru, Spring Framework, habr, Inversion of Control (IoC), Parent Context, обучение, ApplicationContext, Continuous Integration and Continuous Delivery (CI/CD). \n, обучающие статьи по программированию, Dependency Injection (DI), Event Publishing, BeanFactory, Prototype Scope, Annotation-based Configuration",
+    "description": "",
+    "name": "applicationcontext_vs_beanfactory"
+  },
+  {
+    "id": 275,
+    "title": "XML-конфигурация бинов",
+    "url": "/tutorials/java/spring/xml_beans",
+    "chapter": 3,
+    "keywords": "XML Configuration Advantages, Performance Tuning. \n, progvibe, XML Schema, Autowiring, Свойства бина, Dependency Injection Patterns, хабр, Scope, Java Configuration, metanit, Constructor Injection, Annotation Configuration, Troubleshooting, Lifecycle, BeanDefinition, IoC, Namespace, XML-конфигурация бинов, Debugging, программирование, как научиться программировать, метанит, бины, статьи, Best Practices, Dependency Injection, конфигурация, progvibe.ru, прогвайб, habr, XML, обучение, ApplicationContext, обучающие статьи по программированию, XML Configuration Disadvantages, BeanFactory, Spring, Setter Injection",
+    "description": "",
+    "name": "xml_beans"
+  },
+  {
+    "id": 276,
+    "title": "Аннотации для конфигурации бинов",
+    "url": "/tutorials/java/spring/annotations_for_beans",
+    "chapter": 3,
+    "keywords": "зависимость от контекста, @Autowired, progvibe, управление транзакциями, хабр, файл конфигурации, автоконфигурирование, тестирование, зависимость от других бинов, Spring Boot, AOP, metanit, Аннотации для конфигурации бинов, Spring Data, XML-конфигурация, метаданные, внедрение зависимостей, bean-определение, производительность, best practices, IoC, инициализация, AspectJ, программная конфигурация, фабрика бинов, конфигурация приложения, @Lazy, @Scope, DI, программирование, как научиться программировать, динамическая конфигурация. \n, @Qualifier, Spring Security, метанит, статьи, конфигурирование бинов, управление жизненным циклом, progvibe.ru, Spring Framework, прогвайб, habr, аспект-ориентированное программирование, IoC-контейнер, настройка свойств, обучение, обучающие статьи по программированию, @Configuration, аннотация, @Bean, настройка безопасности, зависимости, Java-конфигурация",
+    "description": "",
+    "name": "annotations_for_beans"
+  },
+  {
+    "id": 277,
+    "title": "Java-based конфигурация",
+    "url": "/tutorials/java/spring/java_configuration",
+    "chapter": 3,
+    "keywords": "профили конфигурации, микросервисы, CI/CD, тестирование конфигурации, progvibe, хабр, файл конфигурации, лучшие практики, YAML, конфигурационные серверы, централизованная конфигурация, Git, Spring Boot, metanit, свойства, PropertySource, управление конфигурацией, конфигурационные интерфейсы, среда выполнения, Java Properties, HashiCorp, рекомендации, конфигурация в облаке, настройки, перезагрузка конфигурации, программирование, как научиться программировать, Java, метанит, статьи, Java-based конфигурация, Docker, JSON, примеры кода. \n, Kubernetes, конфигурация, progvibe.ru, прогвайб, habr, Vault, конфигурационные классы, Spring Cloud Config Server, обучение, ApplicationContext, обучающие статьи по программированию, Environment, Spring, аннотации, безопасность конфигурации, конфигурационный менеджмент, конфигурация по умолчанию",
+    "description": "",
+    "name": "java_configuration"
+  },
+  {
+    "id": 278,
+    "title": "Жизненный цикл бинов и обработка зависимостей",
+    "url": "/tutorials/java/spring/bean_lifecycle",
+    "chapter": 3,
+    "keywords": "singleton, session, инверсия управления, @Autowired, бин-дефиниция, CDI. \n, progvibe, scope, @PreDestroy, Жизненный цикл, @Repository, хабр, многопоточность, управление состоянием, бин, @Component, @Service, @Controller, контекст, Jakarta EE, фабрика, metanit, менеджер, отражение, метаданные, Жизненный цикл бинов и обработка зависимостей, prototype, инъекция зависимостей, IoC, DI-контейнер, управление зависимостями, инициализация, аннотация, жизненный цикл, аспект, DI, модульность, программирование, как научиться программировать, интерфейс, уничтожение, @Qualifier, метанит, динамическая загрузка,  зависимость, @PostConstruct, статьи, перехватчик, конфигурация, progvibe.ru, Spring Framework, @Value, прогвайб, создание, habr, зависимость, обучение, обучающие статьи по программированию, реализация, сборка, рефлексия, Spring, application, автопроксирование, request",
+    "description": "",
+    "name": "bean_lifecycle"
+  },
+  {
+    "id": 279,
+    "title": "Внедрение зависимостей через конструктор",
+    "url": "/tutorials/java/spring/constructor_injection",
+    "chapter": 4,
+    "keywords": "метод, progvibe, React, Vue.js. \n, хабр, контейнер зависимостей, тестирование, высокая сцепленность, TypeScript, конкретная реализация, metanit, конструктор, внедрение зависимостей, класс, Dagger, Angular, SOLID принципы, IoC, Внедрение зависимостей через конструктор, принцип открытости/закрытости, шаблон проектирования, абстракция, Python, как научиться программировать, DI, модульность, JavaScript, программирование, повторное использование кода, интерфейс, Guice, Java, метанит, статьи, слабое связывание, инъекция, PHP, объект, Dependency Injection, конфигурация, progvibe.ru, прогвайб, habr, зависимость, обучение, обучающие статьи по программированию, .NET, Spring, Inversion of Control",
+    "description": "",
+    "name": "constructor_injection"
+  },
+  {
+    "id": 280,
+    "title": "Внедрение зависимостей через методы",
+    "url": "/tutorials/java/spring/method_injection",
+    "chapter": 4,
+    "keywords": "метод, гибкость, progvibe, зависимость от абстракций, фабричный метод, повторное использование, масштабируемость, хабр, тестирование, модуль, metanit,  Spring, компонент, внедрение зависимостей, DI Framework, Внедрение зависимостей через методы, конструтор, Гугл, loose coupling, IoC, абстракция, Python, DI, модульность, программирование, как научиться программировать, интерфейс,  зависимости в конструкторе, зависимость в сеттере, Java, метанит, статьи, инъекция, не зависимость от конкретных реализаций, C#, конфигурация, progvibe.ru, прогвайб, habr, резолвер, инверсия зависимостей, зависимость, контейнер, .NET.\n, обучение, сеттер, обучающие статьи по программированию, автоматическое внедрение зависимостей",
+    "description": "",
+    "name": "method_injection"
+  },
+  {
+    "id": 281,
+    "title": "Внедрение примитивных значений и коллекций",
+    "url": "/tutorials/java/spring/injecting_primitives",
+    "chapter": 4,
+    "keywords": "добавление элементов, progvibe, алгоритм, примитивные типы данных, типы данных, LinkedList, Set, значение, доступ к элементам, Map, неизменяемые коллекции, переменная,  разработка, хабр, коллекции, metanit,  разработка программного обеспечения.\n, удаление элементов, структура данных, производительность, оптимизация, итерация, методы коллекций, ArrayList, изменяемые коллекции, HashMap, Python, JavaScript, программирование, как научиться программировать, Queue, Java, метанит, статьи, индексация, Внедрение примитивных значений и коллекций, скорость, C#,  код, объект, модификация элементов, прогвайб, progvibe.ru, habr, эффективность, List, обучение, обучающие статьи по программированию, C++, Stack",
+    "description": "",
+    "name": "injecting_primitives"
+  },
+  {
+    "id": 282,
+    "title": "Введение в AOP и его применение в Spring",
+    "url": "/tutorials/java/spring/introduction_to_aop",
+    "chapter": 5,
+    "keywords": "Spring AOP, AOP with Spring, progvibe, Aspect-Oriented Development, AOP Tutorial, @Aspect, хабр, Введение в AOP и его применение в Spring, AOP Concepts, AOP for Beginners, Aspect-Oriented Design, metanit, AOP, @Pointcut, Real-World AOP Applications, Aspect, Best Practices for AOP, Cross-Cutting Concerns, Compile-Time Weaving, @After, Pointcut, Advice, AspectJ, Runtime Weaving, Aspect-Oriented Programming in Spring, Introduction, Logging, программирование, AOP Fundamentals, AOP Introduction, как научиться программировать, AOP Examples, Benefits of AOP, Understanding AOP, Proxy, метанит, статьи, Security, Best Practices, Load-Time Weaving, @AfterReturning, AOP in Action. \n, Dependency Injection, прогвайб, progvibe.ru, Spring Framework, habr, Error Handling, @Before, AOP for Developers, обучение, Aspect-Oriented Programming, @AfterThrowing, обучающие статьи по программированию, Join Point, Weaving, Spring, @Around, Dynamic Proxy, Transaction Management, Inversion of Control, AOP Explained",
+    "description": "",
+    "name": "introduction_to_aop"
+  },
+  {
+    "id": 283,
+    "title": "Аспекты, советы и точки среза",
+    "url": "/tutorials/java/spring/aspects_advices_pointcuts",
+    "chapter": 5,
+    "keywords": "progvibe, образование в IT, сети, венчурный капитал, стартапы, карьере в IT. \n, хабр, DevOps, блокчейн, технологии, тестирование, разработка программного обеспечения, этика в IT, metanit, мобильная разработка, управление проектами, инновации, будущее технологий, инфраструктура, Аспекты, советы и точки среза, Интернет вещей, веб-разработка, облачные технологии, цифровое общество, программирование, как научиться программировать, машинное обучение, цифровизация, базы данных, цифровые навыки, метанит, алгоритмы, аналитика данных, статьи, кибербезопасность, прогвайб, UX/UI, progvibe.ru, habr, обучение, обучающие статьи по программированию, большие данные, Agile, IT-сфера, искусственный интеллект",
+    "description": "",
+    "name": "aspects_advices_pointcuts"
+  },
+  {
+    "id": 284,
+    "title": "Использование аннотаций для AOP",
+    "url": "/tutorials/java/spring/annotations_for_aop",
+    "chapter": 5,
+    "keywords": "Spring AOP, progvibe, Agile-разработка. \n, аудит, Использование аннотаций для AOP, объектно-ориентированное программирование, хабр, JVM, тестирование, отладка, metanit, AOP, расширяемость, аспекты безопасности, отражение, шаблоны проектирования, Aspect-ориентированное проектирование, производительность, оптимизация, советы, кросс-концерны, AspectJ, bytecode, снижение сложности, модульность, программирование, как научиться программировать, повторное использование кода, метанит, статьи, динамическое программирование, перехватчики, проектирование программного обеспечения, аспекты, журналирование, progvibe.ru, управление ресурсами, прогвайб, habr, внедрение зависимости, транзакции, Aspect-Oriented Programming, SOLID-принципы, обучение, метапрограммирование, обучающие статьи по программированию, аннотации",
+    "description": "",
+    "name": "annotations_for_aop"
+  },
+  {
+    "id": 285,
+    "title": "XML-конфигурация для AOP",
+    "url": "/tutorials/java/spring/xml_aop",
+    "chapter": 5,
+    "keywords": "progvibe, совет, управление транзакциями, хабр, XML-схема, metanit, AOP, XML-конфигурация для AOP, обработка исключений, метаданные, внедрение зависимостей, производительность, оптимизация, разрыв зависимостей, XML-файл, IoC, Aspect-ориентированное программирование, AspectJ, синтаксис, конфигурация приложения, разделение задач, модульность, тестирование. \n, программирование, повторное использование кода, логирование, как научиться программировать, метанит, статьи, перехватчик, Spring, безопасность, конфигурация, аспекты, progvibe.ru, прогвайб, habr, XML, обучение, обучающие статьи по программированию, рефлексия, инверсия управления, точка соединения, аннотации",
+    "description": "",
+    "name": "xml_aop"
+  },
+  {
+    "id": 286,
+    "title": "Работа с файлами, URL, классами и другими ресурсами",
+    "url": "/tutorials/java/spring/handling_files_urls_classes",
+    "chapter": 6,
+    "keywords": "Десериализация, progvibe, Сериализация,  Интерфейсы,  Абстрактные классы, API, хабр, Полиморфизм,  Инкапсуляция, Базы данных, metanit, Запись, Работа с файлами, URL, классами и другими ресурсами, Обработка, Путь, URL, Файлы, HTTP-запросы, Скачивание, Имя файла, ORM, Модификация, Сохранение, Ресурсы, SQL, Объектно-ориентированное программирование, Классы,  Модульность, Дата модификации, программирование, как научиться программировать,  Библиотеки, метанит, статьи, Удаление, JSON, Парсинг, Наследование,  Фреймворки, прогвайб, progvibe.ru, habr, Загрузка, Директория, MIME-тип, XML, обучение, обучающие статьи по программированию, Создание, Расширение файла,  Пакеты \n, Размер файла,  Стандарты, Чтение",
+    "description": "",
+    "name": "handling_files_urls_classes"
+  },
+  {
+    "id": 287,
+    "title": "Работа с ресурсами в Spring",
+    "url": "/tutorials/java/spring/resource_handling",
+    "chapter": 6,
+    "keywords": "ClassPathResource, URLResource, @Autowired, progvibe, InputStream, ресурсные файлы, tutorial, хабр, контекст, чтение, metanit, запись, свойства, Resource, работа с файлами, URL, Работа с ресурсами в Spring, производительность, примеры, оптимизация, guide \n, FileSystemResource, best practices, управление, программирование, как научиться программировать, файлы, метанит, injection, автонастройка, статьи, Bean, Spring, безопасность, конфигурация, progvibe.ru, обработка, управление ресурсами, прогвайб, habr, ResourceLoader, обучение, ApplicationContext, обучающие статьи по программированию, Environment, ресурсы, аннотации, зависимости",
+    "description": "",
+    "name": "resource_handling"
+  },
+  {
+    "id": 288,
+    "title": "Публикация и обработка событий в Spring приложениях",
+    "url": "/tutorials/java/spring/publishing_handling_events",
+    "chapter": 7,
+    "keywords": "обработчик событий, гибкость, progvibe, @EventListener, публикация, масштабируемость, хабр, тестирование, отладка, Spring Boot, metanit, ApplicationEvent, синхронная обработка, EventPublisher, производительность, IoC, best practices. \n, контекст приложения, DI, программирование, как научиться программировать, Java, метанит, статьи, обработка ошибок, безопасность, конфигурация, progvibe.ru, обработка, Spring Framework, прогвайб, habr, асинхронная обработка, обучение, слушатель событий, обучающие статьи по программированию, BeanFactory, Spring, аннотации, события, Публикация и обработка событий в Spring приложениях, EventListener, зависимости",
+    "description": "",
+    "name": "publishing_handling_events"
+  },
+  {
+    "id": 289,
+    "title": "Использование встроенных и создание пользовательских событий",
+    "url": "/tutorials/java/spring/builtin_custom_events",
+    "chapter": 7,
+    "keywords": "исключения. \n, progvibe, обработка событий, события в Python,  синхронные операции, события в C++, синхронность, хабр, addEventListener, наблюдатель, встроенные события, metanit, trigger, событие, издатель, off, как научиться программировать, асинхронность, асинхронные операции, custom events, программирование, события в JavaScript, события в Java, removeEventListener, event loop, EventEmitter, callback функции, метанит, статьи, обработка ошибок, таймеры, dispatchEvent, События, прогвайб, progvibe.ru, обработчик, обработка, habr, пользовательские события, подписчик, обучение, on, обучающие статьи по программированию, Использование встроенных и создание пользовательских событий, trigger events, событийная модель",
+    "description": "",
+    "name": "builtin_custom_events"
+  },
+  {
+    "id": 290,
+    "title": "Юнит-тестирование с использованием SpringJUnit4ClassRunner",
+    "url": "/tutorials/java/spring/unit_testing_springjunit4classrunner",
+    "chapter": 8,
+    "keywords": "progvibe, Юнит-тестирование, конфигурирование,  реализация тестов, хабр,  ожидаемые результаты,  сравнение,  JUnit 4, мокирование,  красно-зеленое тестирование, metanit,  рефакторинг, assert,  методы тестирования, тестовая среда,  отладка,  ассерты, JUnit,  отчеты о тестировании. \n, @RunWith,  тестовые данные, программирование,  тестовый класс, как научиться программировать,  зависимости Spring, SpringJUnit4ClassRunner,  автоматизация тестирования, метанит, статьи,  контекст приложения, Юнит-тестирование с использованием SpringJUnit4ClassRunner, прогвайб, progvibe.ru,  Spring Framework, habr, @ContextConfiguration,  автоматическое внедрение зависимостей, обучение, обучающие статьи по программированию,  модульное тестирование, Spring, @Test, зависимости,  интеграционное тестирование",
+    "description": "",
+    "name": "unit_testing_springjunit4classrunner"
+  },
+  {
+    "id": 291,
+    "title": "Тестирование с мок-объектами и внедрением зависимостей",
+    "url": "/tutorials/java/spring/mock_objects_testing",
+    "chapter": 8,
+    "keywords": "Test-Driven Development, Модульное тестирование, progvibe,  Качество, Юнит-тестирование, Фейковые объекты,  Code Coverage \n, хабр, Дебаг, metanit, Моки,  Отладка, Изоляция,  Покрытие кода, Framework, Тестирование, Тестирование кода, Внедрение зависимостей, Python, Mocking, JavaScript, Unit Testing, программирование, как научиться программировать, Java, метанит, статьи, Разработка, Тестирование с мок-объектами и внедрением зависимостей, TDD, Программное обеспечение, C#, Dependency Injection, прогвайб, progvibe.ru, habr, Интеграционное тестирование, Зависимости, обучение, Mock Objects, обучающие статьи по программированию, Мок-объекты, Agile, Stubbing, Test Doubles, Мокирование",
+    "description": "",
+    "name": "mock_objects_testing"
+  },
+  {
+    "id": 292,
+    "title": "Интеграционное тестирование с использованием Spring Test Framework",
+    "url": "/tutorials/java/spring/integration_testing_framework",
+    "chapter": 8,
+    "keywords": "@DataJpaTest, Spring AOP, CI/CD, progvibe, Тестирование производительности, API, @WebFluxTest, хабр, Database, DevOps, Spring Boot, metanit, @AutoConfigureMockMvc, MockMvc, Spring Data JPA, Rollback, @TestPropertySource, Mockito, AspectJ, Transaction, Автоматизация тестирования, Repository, Интеграционное тестирование с использованием Spring Test Framework, @MockBean, Интеграция компонентов, Unit Testing, программирование, как научиться программировать, Spring Security, Тестирование взаимодействия, WebMvcTest, Test Automation, метанит, статьи, @DirtiesContext, Service, Spring Test Framework, Тестовые данные, Dependency Injection, @Transactional, progvibe.ru, Spring Framework, прогвайб, HTTP, habr, Интеграционное тестирование, обучение, Тестирование безопасности, RestController, Integration Testing, Mock Objects, @SpringBootTest, обучающие статьи по программированию, JUnit, @RestClientTest",
+    "description": "",
+    "name": "integration_testing_framework"
+  },
+  {
+    "id": 293,
+    "title": "Управление транзакциями с помощью аннотаций",
+    "url": "/tutorials/java/spring/managing_transactions",
+    "chapter": 9,
+    "keywords": "progvibe, Persistence, Consistency, Ошибки транзакции, Мультипоточность, хабр, Транзакционная целостность, Базы данных, Логирование транзакций, Spring Boot, AOP, metanit, Управление транзакциями с помощью аннотаций, Мониторинг транзакций, Решение проблем с транзакциями. \n, Управление транзакциями, Параллелизм, Hibernate, Аннотации, Atomicity, программирование, как научиться программировать, Java, метанит, Транзакции, статьи, Разработка, Откат транзакции, Состояние транзакции, Программное обеспечение, JDBC, Программирование, @Transactional, прогвайб, progvibe.ru, habr, Durability, Isolation, обучение, Aspect-Oriented Programming, обучающие статьи по программированию, JPA, ACID, Spring",
+    "description": "",
+    "name": "managing_transactions"
+  },
+  {
+    "id": 294,
+    "title": "Настройка поведения транзакций через XML и Java",
+    "url": "/tutorials/java/spring/transaction_configuration",
+    "chapter": 9,
+    "keywords": "progvibe, атомарность, соединение, JTA, хабр, файл конфигурации,  транзакционный менеджер,  примеры кода, XSD, metanit, ресурс,  база данных, настройка, поведение,  API, Hibernate,  документация, schema, rollback, commit,  интерфейс, программирование, как научиться программировать, Настройка поведения транзакций через XML и Java, Java, метанит,  ORM, обработка ошибок, статьи, изоляция, конфигурация,  JDBC, Spring Framework,  программирование, долговечность, progvibe.ru, прогвайб, habr, согласованность, XML, транзакции,  практическое руководство. \n, обучение, обучающие статьи по программированию, DTD",
+    "description": "",
+    "name": "transaction_configuration"
+  },
+  {
+    "id": 295,
+    "title": "Поддержка транзакций в различных типах хранилищ данных",
+    "url": "/tutorials/java/spring/transaction_support",
+    "chapter": 9,
+    "keywords": "progvibe, Контрольные точки, Oracle, SQLite, Конфликты транзакций, хабр, Транзакционная целостность, Внутренние транзакции, Базы данных, Откат, metanit, MongoDB, Репликация, NoSQL, Изоляция, PostgreSQL, Мультиверсионное управление, Масштабируемость. \n, Восстановление после сбоя, Неблокируемые транзакции, Параллельная обработка, Повышенная доступность, Внешние транзакции, Состоятельность данных, SQL, Распределенные транзакции, Реляционные базы данных, Графовые базы данных, Устойчивость, Безопасность данных, Ключевое значение, программирование, как научиться программировать, Документоориентированные базы данных, метанит, Транзакции, статьи, Cassandra, Поддержка транзакций в различных типах хранилищ данных, Транзакционные операции, MySQL, прогвайб, Изоляция транзакций, progvibe.ru, habr, Управление блокировками, Атомарность, Redis, Интеграция данных, обучение, обучающие статьи по программированию, ACID, Журналирование, Двухфазная фиксация, Согласованность",
+    "description": "",
+    "name": "transaction_support"
+  },
+  {
+    "id": 296,
+    "title": "Интеграция с другими модулями Spring",
+    "url": "/tutorials/java/spring/integration_other_modules",
+    "chapter": 10,
+    "keywords": "progvibe, Microservices, хабр, Testing, Transactions, Spring MVC, Spring Boot, AOP, metanit, Spring Data, Monitoring, Configuration, IoC, SOAP, Hibernate, REST API, Logging, Unit Tests, DI, программирование, как научиться программировать, Web Services, Spring Security, метанит, статьи, интеграция, JSON, Spring Batch, Spring Cloud, Dependency Injection, прогвайб, progvibe.ru, Spring Framework, habr, XML, обучение, Aspect-Oriented Programming, Integration Tests \n, обучающие статьи по программированию, JPA, модули, Deployment, Интеграция с другими модулями Spring, Spring, Inversion of Control",
+    "description": "",
+    "name": "integration_other_modules"
+  },
+  {
+    "id": 297,
+    "title": "Использование фабричных методов и BeanPostProcessor",
+    "url": "/tutorials/java/spring/factory_methods_beanpostprocessor",
+    "chapter": 10,
+    "keywords": "progvibe,  Декоратор, Interceptors, Использование фабричных методов и BeanPostProcessor,  Реализация шаблона проектирования, хабр, Scope, BeanPostProcessor, metanit, AOP, Создание объектов, Post-processing, Перехватчики, Aspect Oriented Programming,  BeanFactory, IoC, Фабричный метод,  Прокси-объект, Настройка объектов, DI, Создание прототипов, программирование, как научиться программировать, метанит, статьи, Контейнер зависимостей, Жизненный цикл объекта, Обработка после создания,  ApplicationContext, Dependency Injection, прогвайб, progvibe.ru, Spring Framework, habr,  Управление зависимостями, обучение, Singleton, обучающие статьи по программированию, Инициализация объектов,  Объектно-ориентированное программирование,  ConfigurableBeanFactory, Inversion of Control,  Реализация AOP. \n",
+    "description": "",
+    "name": "factory_methods_beanpostprocessor"
+  },
+  {
+    "id": 298,
+    "title": "Оптимизация конфигурации Spring",
+    "url": "/tutorials/java/spring/optimizing_configuration",
+    "chapter": 11,
+    "keywords": "микросервисы, CI/CD, progvibe, память, хабр, JVM, DevOps, тестирование, конфигурационный файл, автоматизация, ресурсы, Spring Boot, AOP, metanit, Spring Data, нагрузка, производительность, оптимизация, масштабирование. \n, AspectJ, Оптимизация конфигурации Spring, метрики, профилирование, программирование, пул соединений, логирование, как научиться программировать, Spring Security, Java, метанит, статьи, Docker, Bean, мониторинг, Kubernetes, Dependency Injection, конфигурация, progvibe.ru, прогвайб, habr, Garbage Collector, XML, транзакции, обучение, обучающие статьи по программированию, кэш, Spring, аннотации",
+    "description": "",
+    "name": "optimizing_configuration"
+  },
+  {
+    "id": 299,
+    "title": "Избегание утечек памяти и других проблем",
+    "url": "/tutorials/java/spring/avoiding_issues",
+    "chapter": 11,
+    "keywords": "инструменты профилирования, progvibe, документация, утечки ресурсов, Избегание утечек памяти и других проблем, хабр, приложения, лучшие практики, тестирование, отладка, дефрагментация, metanit, операционная система, указатели, ПО, Управление памятью, выделение памяти, примеры, язык программирования, профилирование памяти, сборщик мусора, советы, код, рекомендации, рефакторинг, программы, языки программирования. \n, проверка ошибок, утечки памяти, инструменты отладки, дебаг, программирование, оптимизация производительности, ссылки, управление исключениями, как научиться программировать, метанит, статьи, обработка ошибок, тестирование производительности, операционные системы, оптимизация памяти, нагрузочное тестирование, прогвайб, progvibe.ru, сборка мусора, habr, деструкторы, обучение, освобождение памяти, обучающие статьи по программированию, анализ утечек памяти, функциональное тестирование, ресурсы, сценарии, диагностика, динамическое выделение",
+    "description": "",
+    "name": "avoiding_issues"
+  },
+  {
+    "id": 300,
+    "title": "Советы по структурированию проекта и использованию аннотаций",
+    "url": "/tutorials/java/spring/project_structuring_annotation_tips",
+    "chapter": 11,
+    "keywords": "Декомпозиция,  Рефакторинг, progvibe,  Clean Code,  Разработка программного обеспечения, Структура проекта,  Абстракция, хабр,  Шаблоны проектирования,  Инкапсуляция, Сцепление, metanit, Модули,  Покрытие кода,  Полиморфизм,  Dependency Injection,  Интеграционные тесты,  Разработка,  Юнит-тесты, SOLID, Аннотации,  Диаграммы,  Наследование, Классы,  Архитектура,  UML, программирование, Принцип единственной ответственности, как научиться программировать, Модульность, Код,  Design Patterns, метанит, статьи,  Управление проектами. \n, Комментарии,  Проектирование, Функции,  Best Practices, Документация, прогвайб, progvibe.ru, Ответственность, Интерфейсы, habr, Советы по структурированию проекта и использованию аннотаций, обучение, обучающие статьи по программированию,  Refactoring,  Тестирование, Согласованность",
+    "description": "",
+    "name": "project_structuring_annotation_tips"
+  }
+]

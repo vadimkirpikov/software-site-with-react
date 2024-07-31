@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1691,
+    "title": "Почему Hibernate: преимущества и основные особенности",
+    "url": "/tutorials/java/hibernate/intro",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "intro"
+  },
+  {
+    "id": 1692,
+    "title": "Установка Hibernate",
+    "url": "/tutorials/java/hibernate/installation",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "installation"
+  },
+  {
+    "id": 1693,
+    "title": "Настройка конфигурации",
+    "url": "/tutorials/java/hibernate/configuration",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "configuration"
+  },
+  {
+    "id": 1694,
+    "title": "Настройка подключения к базе данных",
+    "url": "/tutorials/java/hibernate/database_setup",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "database_setup"
+  },
+  {
+    "id": 1695,
+    "title": "Обзор ORM и Hibernate",
+    "url": "/tutorials/java/hibernate/orm_overview",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "orm_overview"
+  },
+  {
+    "id": 1696,
+    "title": "Модели и аннотации",
+    "url": "/tutorials/java/hibernate/models_annotations",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "models_annotations"
+  },
+  {
+    "id": 1697,
+    "title": "Определение сущностей и таблиц",
+    "url": "/tutorials/java/hibernate/entities_tables",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "entities_tables"
+  },
+  {
+    "id": 1698,
+    "title": "Основные операции CRUD Create,Read,Update,DeleteCreate, Read, Update, DeleteCreate,Read,Update,Delete",
+    "url": "/tutorials/java/hibernate/crud_operations",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "crud_operations"
+  },
+  {
+    "id": 1699,
+    "title": "Работа с сессиями и транзакциями",
+    "url": "/tutorials/java/hibernate/sessions_transactions",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "sessions_transactions"
+  },
+  {
+    "id": 1700,
+    "title": "Управление сессиями",
+    "url": "/tutorials/java/hibernate/session_management",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "session_management"
+  },
+  {
+    "id": 1701,
+    "title": "Управление транзакциями",
+    "url": "/tutorials/java/hibernate/transaction_management",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "transaction_management"
+  },
+  {
+    "id": 1702,
+    "title": "Основы HQL HibernateQueryLanguageHibernate Query LanguageHibernateQueryLanguage",
+    "url": "/tutorials/java/hibernate/hql_basics",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "hql_basics"
+  },
+  {
+    "id": 1703,
+    "title": "Запросы с использованием HQL",
+    "url": "/tutorials/java/hibernate/hql_queries",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "hql_queries"
+  },
+  {
+    "id": 1704,
+    "title": "Критерии и спецификации",
+    "url": "/tutorials/java/hibernate/criteria_specifications",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "criteria_specifications"
+  },
+  {
+    "id": 1705,
+    "title": "Работа с критериями",
+    "url": "/tutorials/java/hibernate/criteria_queries",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "criteria_queries"
+  },
+  {
+    "id": 1706,
+    "title": "Использование спецификаций",
+    "url": "/tutorials/java/hibernate/specifications",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "specifications"
+  },
+  {
+    "id": 1707,
+    "title": "Оптимизация запросов и кэширование",
+    "url": "/tutorials/java/hibernate/query_optimization_caching",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "query_optimization_caching"
+  },
+  {
+    "id": 1708,
+    "title": "Использование вторичного кэша",
+    "url": "/tutorials/java/hibernate/second_level_cache",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "second_level_cache"
+  },
+  {
+    "id": 1709,
+    "title": "Индексы и оптимизация базы данных",
+    "url": "/tutorials/java/hibernate/indexes_database_optimization",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "indexes_database_optimization"
+  },
+  {
+    "id": 1710,
+    "title": "Основы маппинга",
+    "url": "/tutorials/java/hibernate/mapping_basics",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "mapping_basics"
+  },
+  {
+    "id": 1711,
+    "title": "Связи между сущностями One−to−One,One−to−Many,Many−to−One,Many−to−ManyOne-to-One, One-to-Many, Many-to-One, Many-to-ManyOne−to−One,One−to−Many,Many−to−One,Many−to−Many",
+    "url": "/tutorials/java/hibernate/entity_relationships",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "entity_relationships"
+  },
+  {
+    "id": 1712,
+    "title": "Обработка отношений и каскадирования",
+    "url": "/tutorials/java/hibernate/cascading_relationships",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "cascading_relationships"
+  },
+  {
+    "id": 1713,
+    "title": "Работа с наследованием",
+    "url": "/tutorials/java/hibernate/inheritance_mapping",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "inheritance_mapping"
+  },
+  {
+    "id": 1714,
+    "title": "Работа с сложными запросами",
+    "url": "/tutorials/java/hibernate/complex_queries",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "complex_queries"
+  },
+  {
+    "id": 1715,
+    "title": "Фильтрация данных и оптимизация запросов",
+    "url": "/tutorials/java/hibernate/data_filtering_optimization",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "data_filtering_optimization"
+  },
+  {
+    "id": 1716,
+    "title": "Создание сидеров данных",
+    "url": "/tutorials/java/hibernate/data_seeders",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "data_seeders"
+  },
+  {
+    "id": 1717,
+    "title": "Генерация тестовых данных",
+    "url": "/tutorials/java/hibernate/test_data_generation",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "test_data_generation"
+  },
+  {
+    "id": 1718,
+    "title": "Интеграция Hibernate с Spring",
+    "url": "/tutorials/java/hibernate/hibernate_spring_integration",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "hibernate_spring_integration"
+  },
+  {
+    "id": 1719,
+    "title": "Использование Hibernate с JPA",
+    "url": "/tutorials/java/hibernate/hibernate_jpa_integration",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "hibernate_jpa_integration"
+  },
+  {
+    "id": 1720,
+    "title": "Подготовка приложения к развертыванию",
+    "url": "/tutorials/java/hibernate/deployment_prep",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "deployment_prep"
+  },
+  {
+    "id": 1721,
+    "title": "Развертывание на различных платформах",
+    "url": "/tutorials/java/hibernate/deployment_platforms",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "deployment_platforms"
+  },
+  {
+    "id": 1722,
+    "title": "Основы тестирования в Hibernate",
+    "url": "/tutorials/java/hibernate/testing_basics",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "testing_basics"
+  },
+  {
+    "id": 1723,
+    "title": "Модульное тестирование сущностей и запросов",
+    "url": "/tutorials/java/hibernate/unit_testing",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "unit_testing"
+  },
+  {
+    "id": 1724,
+    "title": "Интеграционное тестирование",
+    "url": "/tutorials/java/hibernate/integration_testing",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "integration_testing"
+  },
+  {
+    "id": 1725,
+    "title": "Лучшие практики разработки с Hibernate",
+    "url": "/tutorials/java/hibernate/best_practices",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "best_practices"
+  },
+  {
+    "id": 1726,
+    "title": "Советы по отладке и улучшению производительности",
+    "url": "/tutorials/java/hibernate/debugging_performance",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "debugging_performance"
+  }
+]

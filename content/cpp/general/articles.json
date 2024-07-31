@@ -1,0 +1,920 @@
+[
+  {
+    "id": 1498,
+    "title": "С++, его использование и преимущества",
+    "url": "/tutorials/cpp/general/intro",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "intro"
+  },
+  {
+    "id": 1499,
+    "title": "Установка среды разработки на различные ОС",
+    "url": "/tutorials/cpp/general/installing",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "installing"
+  },
+  {
+    "id": 1500,
+    "title": "Переменные и типы данных",
+    "url": "/tutorials/cpp/general/variables_data_types",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "variables_data_types"
+  },
+  {
+    "id": 1501,
+    "title": "Ввод и вывод в консоли",
+    "url": "/tutorials/cpp/general/console_input_output",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "console_input_output"
+  },
+  {
+    "id": 1502,
+    "title": "using. Подключение пространств имен и определение псевдонимов",
+    "url": "/tutorials/cpp/general/using_namespace_aliases",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "using_namespace_aliases"
+  },
+  {
+    "id": 1503,
+    "title": "Арифметические и поразрядные операции",
+    "url": "/tutorials/cpp/general/arithmetic_bitwise_operations",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "arithmetic_bitwise_operations"
+  },
+  {
+    "id": 1504,
+    "title": "Статическая типизация и преобразования типов",
+    "url": "/tutorials/cpp/general/static_typing_type_conversions",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "static_typing_type_conversions"
+  },
+  {
+    "id": 1505,
+    "title": "Конструкция if_else и тернарный оператор",
+    "url": "/tutorials/cpp/general/if_else_ternary_operator",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "if_else_ternary_operator"
+  },
+  {
+    "id": 1506,
+    "title": "Конструкция switch_case",
+    "url": "/tutorials/cpp/general/switch_case",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "switch_case"
+  },
+  {
+    "id": 1507,
+    "title": "Циклы",
+    "url": "/tutorials/cpp/general/loops",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "loops"
+  },
+  {
+    "id": 1508,
+    "title": "Массивы",
+    "url": "/tutorials/cpp/general/arrays",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "arrays"
+  },
+  {
+    "id": 1509,
+    "title": "Что такое указатели",
+    "url": "/tutorials/cpp/general/what_are_pointers",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "what_are_pointers"
+  },
+  {
+    "id": 1510,
+    "title": "Операции с указателями",
+    "url": "/tutorials/cpp/general/pointer_operations",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "pointer_operations"
+  },
+  {
+    "id": 1511,
+    "title": "Арифметика указателей",
+    "url": "/tutorials/cpp/general/pointer_arithmetic",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "pointer_arithmetic"
+  },
+  {
+    "id": 1512,
+    "title": "Константы и указатели",
+    "url": "/tutorials/cpp/general/constants_and_pointers",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "constants_and_pointers"
+  },
+  {
+    "id": 1513,
+    "title": "Указатели и массивы",
+    "url": "/tutorials/cpp/general/pointers_and_arrays",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "pointers_and_arrays"
+  },
+  {
+    "id": 1514,
+    "title": "Определение и объявление функций",
+    "url": "/tutorials/cpp/general/function_definition_declaration",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "function_definition_declaration"
+  },
+  {
+    "id": 1515,
+    "title": "Область видимости объектов",
+    "url": "/tutorials/cpp/general/object_scope",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "object_scope"
+  },
+  {
+    "id": 1516,
+    "title": "Параметры функции",
+    "url": "/tutorials/cpp/general/function_parameters",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "function_parameters"
+  },
+  {
+    "id": 1517,
+    "title": "Передача аргументов по значению и по ссылке",
+    "url": "/tutorials/cpp/general/pass_by_value_reference",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "pass_by_value_reference"
+  },
+  {
+    "id": 1518,
+    "title": "Константные параметры",
+    "url": "/tutorials/cpp/general/constant_parameters",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "constant_parameters"
+  },
+  {
+    "id": 1519,
+    "title": "Указатели в параметрах функции",
+    "url": "/tutorials/cpp/general/pointers_in_function_parameters",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "pointers_in_function_parameters"
+  },
+  {
+    "id": 1520,
+    "title": "Массивы в параметрах функции",
+    "url": "/tutorials/cpp/general/arrays_in_function_parameters",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "arrays_in_function_parameters"
+  },
+  {
+    "id": 1521,
+    "title": "Параметры функции main",
+    "url": "/tutorials/cpp/general/main_function_parameters",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "main_function_parameters"
+  },
+  {
+    "id": 1522,
+    "title": "Возвращение указателей и ссылок",
+    "url": "/tutorials/cpp/general/returning_pointers_references",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "returning_pointers_references"
+  },
+  {
+    "id": 1523,
+    "title": "Перегрузка функций",
+    "url": "/tutorials/cpp/general/function_overloading",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "function_overloading"
+  },
+  {
+    "id": 1524,
+    "title": "Рекурсивные функции",
+    "url": "/tutorials/cpp/general/recursive_functions",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "recursive_functions"
+  },
+  {
+    "id": 1525,
+    "title": "Указатели на функции",
+    "url": "/tutorials/cpp/general/function_pointers",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "function_pointers"
+  },
+  {
+    "id": 1526,
+    "title": "Указатели на функции как параметры",
+    "url": "/tutorials/cpp/general/function_pointers_as_parameters",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "function_pointers_as_parameters"
+  },
+  {
+    "id": 1527,
+    "title": "Разделение программы на файлы",
+    "url": "/tutorials/cpp/general/splitting_program_into_files",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "splitting_program_into_files"
+  },
+  {
+    "id": 1528,
+    "title": "Внешние объекты",
+    "url": "/tutorials/cpp/general/external_objects",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "external_objects"
+  },
+  {
+    "id": 1529,
+    "title": "Динамические массивы",
+    "url": "/tutorials/cpp/general/dynamic_arrays",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "dynamic_arrays"
+  },
+  {
+    "id": 1530,
+    "title": "unique_ptr<T>",
+    "url": "/tutorials/cpp/general/unique_ptr",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "unique_ptr"
+  },
+  {
+    "id": 1531,
+    "title": "shared_ptr<T>",
+    "url": "/tutorials/cpp/general/shared_ptr",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "shared_ptr"
+  },
+  {
+    "id": 1532,
+    "title": "Определение классов",
+    "url": "/tutorials/cpp/general/class_definition",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "class_definition"
+  },
+  {
+    "id": 1533,
+    "title": "Конструкторы и инициализация объектов",
+    "url": "/tutorials/cpp/general/constructors_object_initialization",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "constructors_object_initialization"
+  },
+  {
+    "id": 1534,
+    "title": "Управление доступом. Инкапсуляция",
+    "url": "/tutorials/cpp/general/access_control_encapsulation",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "access_control_encapsulation"
+  },
+  {
+    "id": 1535,
+    "title": "Конструктор копирования",
+    "url": "/tutorials/cpp/general/copy_constructor",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "copy_constructor"
+  },
+  {
+    "id": 1536,
+    "title": "Ключевое слово this",
+    "url": "/tutorials/cpp/general/this_keyword",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "this_keyword"
+  },
+  {
+    "id": 1537,
+    "title": "Дружественные функции и классы",
+    "url": "/tutorials/cpp/general/friend_functions_classes",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "friend_functions_classes"
+  },
+  {
+    "id": 1538,
+    "title": "Статические члены класса",
+    "url": "/tutorials/cpp/general/static_class_members",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "static_class_members"
+  },
+  {
+    "id": 1539,
+    "title": "Деструктор",
+    "url": "/tutorials/cpp/general/destructor",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "destructor"
+  },
+  {
+    "id": 1540,
+    "title": "Структуры",
+    "url": "/tutorials/cpp/general/structures",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "structures"
+  },
+  {
+    "id": 1541,
+    "title": "Перечисления",
+    "url": "/tutorials/cpp/general/enumerations",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "enumerations"
+  },
+  {
+    "id": 1542,
+    "title": "Наследование",
+    "url": "/tutorials/cpp/general/inheritance",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "inheritance"
+  },
+  {
+    "id": 1543,
+    "title": "Управление доступом в базовых и производных классах",
+    "url": "/tutorials/cpp/general/base_derived_class_access_control",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "base_derived_class_access_control"
+  },
+  {
+    "id": 1544,
+    "title": "Скрытие функционала базового класса",
+    "url": "/tutorials/cpp/general/hiding_base_class_functionality",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "hiding_base_class_functionality"
+  },
+  {
+    "id": 1545,
+    "title": "Множественное наследование",
+    "url": "/tutorials/cpp/general/multiple_inheritance",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "multiple_inheritance"
+  },
+  {
+    "id": 1546,
+    "title": "Виртуальные функции и их переопределение",
+    "url": "/tutorials/cpp/general/virtual_functions_overriding",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "virtual_functions_overriding"
+  },
+  {
+    "id": 1547,
+    "title": "Преобразование типов",
+    "url": "/tutorials/cpp/general/type_conversion",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "type_conversion"
+  },
+  {
+    "id": 1548,
+    "title": "Динамическое преобразование",
+    "url": "/tutorials/cpp/general/dynamic_casting",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "dynamic_casting"
+  },
+  {
+    "id": 1549,
+    "title": "Особенности динамического связывания",
+    "url": "/tutorials/cpp/general/dynamic_binding_features",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "dynamic_binding_features"
+  },
+  {
+    "id": 1550,
+    "title": "Чистые виртуальные функции и абстрактные классы",
+    "url": "/tutorials/cpp/general/pure_virtual_functions_abstract_classes",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "pure_virtual_functions_abstract_classes"
+  },
+  {
+    "id": 1551,
+    "title": "Перегрузка операторов",
+    "url": "/tutorials/cpp/general/operator_overloading",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "operator_overloading"
+  },
+  {
+    "id": 1552,
+    "title": "Операторы преобразования типов",
+    "url": "/tutorials/cpp/general/type_conversion_operators",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "type_conversion_operators"
+  },
+  {
+    "id": 1553,
+    "title": "Оператор индексирования",
+    "url": "/tutorials/cpp/general/indexing_operator",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "indexing_operator"
+  },
+  {
+    "id": 1554,
+    "title": "Переопределение оператора присваивания",
+    "url": "/tutorials/cpp/general/assignment_operator_overloading",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "assignment_operator_overloading"
+  },
+  {
+    "id": 1555,
+    "title": "Пространства имен",
+    "url": "/tutorials/cpp/general/namespaces",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "namespaces"
+  },
+  {
+    "id": 1556,
+    "title": "Обработка исключений",
+    "url": "/tutorials/cpp/general/exception_handling",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "exception_handling"
+  },
+  {
+    "id": 1557,
+    "title": "Вложенные try_catch",
+    "url": "/tutorials/cpp/general/nested_try_catch",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "nested_try_catch"
+  },
+  {
+    "id": 1558,
+    "title": "Тип exception",
+    "url": "/tutorials/cpp/general/exception_type",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "exception_type"
+  },
+  {
+    "id": 1559,
+    "title": "Типы исключений",
+    "url": "/tutorials/cpp/general/exception_types",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "exception_types"
+  },
+  {
+    "id": 1560,
+    "title": "Создание своих типов исключений",
+    "url": "/tutorials/cpp/general/custom_exceptions",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "custom_exceptions"
+  },
+  {
+    "id": 1561,
+    "title": "Шаблоны функций",
+    "url": "/tutorials/cpp/general/function_templates",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "function_templates"
+  },
+  {
+    "id": 1562,
+    "title": "Шаблон класса",
+    "url": "/tutorials/cpp/general/class_templates",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "class_templates"
+  },
+  {
+    "id": 1563,
+    "title": "std::vector<>",
+    "url": "/tutorials/cpp/general/std_vector",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "std_vector"
+  },
+  {
+    "id": 1564,
+    "title": "std::list<>",
+    "url": "/tutorials/cpp/general/std_list",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "std_list"
+  },
+  {
+    "id": 1565,
+    "title": "std::stack<>",
+    "url": "/tutorials/cpp/general/std_stack",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "std_stack"
+  },
+  {
+    "id": 1566,
+    "title": "std::queue<>",
+    "url": "/tutorials/cpp/general/std_queue",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "std_queue"
+  },
+  {
+    "id": 1567,
+    "title": "std::deque<>",
+    "url": "/tutorials/cpp/general/std_deque",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "std_deque"
+  },
+  {
+    "id": 1568,
+    "title": "std::set<> и std::unordered_set<>",
+    "url": "/tutorials/cpp/general/std_set_unordered_set",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "std_set_unordered_set"
+  },
+  {
+    "id": 1569,
+    "title": "std::map<> и std::unordered_map<>",
+    "url": "/tutorials/cpp/general/std_map_unordered_map",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "std_map_unordered_map"
+  },
+  {
+    "id": 1570,
+    "title": "Определение строк",
+    "url": "/tutorials/cpp/general/string_definition",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "string_definition"
+  },
+  {
+    "id": 1571,
+    "title": "Строки с поддержкой Unicode",
+    "url": "/tutorials/cpp/general/unicode_strings",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "unicode_strings"
+  },
+  {
+    "id": 1572,
+    "title": "Преобразование типов и строки",
+    "url": "/tutorials/cpp/general/type_conversion_strings",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "type_conversion_strings"
+  },
+  {
+    "id": 1573,
+    "title": "Сравнение строк",
+    "url": "/tutorials/cpp/general/string_comparison",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "string_comparison"
+  },
+  {
+    "id": 1574,
+    "title": "Получение подстроки и проверка начала и конца строки",
+    "url": "/tutorials/cpp/general/substring_check_start_end",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "substring_check_start_end"
+  },
+  {
+    "id": 1575,
+    "title": "Поиск подстроки",
+    "url": "/tutorials/cpp/general/substring_search",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "substring_search"
+  },
+  {
+    "id": 1576,
+    "title": "Изменение строки",
+    "url": "/tutorials/cpp/general/string_modification",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "string_modification"
+  },
+  {
+    "id": 1577,
+    "title": "Операции с символами",
+    "url": "/tutorials/cpp/general/character_operations",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "character_operations"
+  },
+  {
+    "id": 1578,
+    "title": "Программа подсчета слов",
+    "url": "/tutorials/cpp/general/word_count_program",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "word_count_program"
+  },
+  {
+    "id": 1579,
+    "title": "Регулярные выражения",
+    "url": "/tutorials/cpp/general/regular_expressions",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "regular_expressions"
+  },
+  {
+    "id": 1580,
+    "title": "Тип std::string_view",
+    "url": "/tutorials/cpp/general/std_string_view",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "std_string_view"
+  },
+  {
+    "id": 1581,
+    "title": "rvalue",
+    "url": "/tutorials/cpp/general/rvalue",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "rvalue"
+  },
+  {
+    "id": 1582,
+    "title": "Конструктор перемещения",
+    "url": "/tutorials/cpp/general/move_constructor",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "move_constructor"
+  },
+  {
+    "id": 1583,
+    "title": "Оператор присваивания с перемещением",
+    "url": "/tutorials/cpp/general/move_assignment_operator",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "move_assignment_operator"
+  },
+  {
+    "id": 1584,
+    "title": "Роль noexcept при перемещении",
+    "url": "/tutorials/cpp/general/noexcept_role_move",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "noexcept_role_move"
+  },
+  {
+    "id": 1585,
+    "title": "Объекты функций",
+    "url": "/tutorials/cpp/general/function_objects",
+    "chapter": 12,
+    "keywords": "",
+    "description": "",
+    "name": "function_objects"
+  },
+  {
+    "id": 1586,
+    "title": "Лямбда_выражения",
+    "url": "/tutorials/cpp/general/lambda_expressions",
+    "chapter": 12,
+    "keywords": "",
+    "description": "",
+    "name": "lambda_expressions"
+  },
+  {
+    "id": 1587,
+    "title": "Захват внешних значений в лямбда_выражениях",
+    "url": "/tutorials/cpp/general/lambda_capture",
+    "chapter": 12,
+    "keywords": "",
+    "description": "",
+    "name": "lambda_capture"
+  },
+  {
+    "id": 1588,
+    "title": "Шаблон std::function<>",
+    "url": "/tutorials/cpp/general/std_function_template",
+    "chapter": 12,
+    "keywords": "",
+    "description": "",
+    "name": "std_function_template"
+  },
+  {
+    "id": 1589,
+    "title": "Оператор requires",
+    "url": "/tutorials/cpp/general/requires_operator",
+    "chapter": 13,
+    "keywords": "",
+    "description": "",
+    "name": "requires_operator"
+  },
+  {
+    "id": 1590,
+    "title": "Концепты",
+    "url": "/tutorials/cpp/general/concepts",
+    "chapter": 13,
+    "keywords": "",
+    "description": "",
+    "name": "concepts"
+  },
+  {
+    "id": 1591,
+    "title": "Выражение requires",
+    "url": "/tutorials/cpp/general/requires_expression",
+    "chapter": 13,
+    "keywords": "",
+    "description": "",
+    "name": "requires_expression"
+  },
+  {
+    "id": 1592,
+    "title": "Ограничения типа для auto",
+    "url": "/tutorials/cpp/general/type_constraints_auto",
+    "chapter": 13,
+    "keywords": "",
+    "description": "",
+    "name": "type_constraints_auto"
+  },
+  {
+    "id": 1593,
+    "title": "Базовые типы для работы с потоками",
+    "url": "/tutorials/cpp/general/stream_basics",
+    "chapter": 14,
+    "keywords": "",
+    "description": "",
+    "name": "stream_basics"
+  },
+  {
+    "id": 1594,
+    "title": "Файловые потоки. Открытие и закрытие",
+    "url": "/tutorials/cpp/general/file_streams_open_close",
+    "chapter": 14,
+    "keywords": "",
+    "description": "",
+    "name": "file_streams_open_close"
+  },
+  {
+    "id": 1595,
+    "title": "Чтение и запись текстовых файлов",
+    "url": "/tutorials/cpp/general/text_file_read_write",
+    "chapter": 14,
+    "keywords": "",
+    "description": "",
+    "name": "text_file_read_write"
+  },
+  {
+    "id": 1596,
+    "title": "Переопределение операторов ввода и вывода",
+    "url": "/tutorials/cpp/general/overloading_input_output_operators",
+    "chapter": 14,
+    "keywords": "",
+    "description": "",
+    "name": "overloading_input_output_operators"
+  },
+  {
+    "id": 1597,
+    "title": "Математические константы и операции",
+    "url": "/tutorials/cpp/general/math_constants_operations",
+    "chapter": 15,
+    "keywords": "",
+    "description": "",
+    "name": "math_constants_operations"
+  },
+  {
+    "id": 1598,
+    "title": "Форматирование строк и функция format",
+    "url": "/tutorials/cpp/general/string_formatting_function",
+    "chapter": 15,
+    "keywords": "",
+    "description": "",
+    "name": "string_formatting_function"
+  },
+  {
+    "id": 1599,
+    "title": "std::optional<T>",
+    "url": "/tutorials/cpp/general/std_optional",
+    "chapter": 15,
+    "keywords": "",
+    "description": "",
+    "name": "std_optional"
+  }
+]

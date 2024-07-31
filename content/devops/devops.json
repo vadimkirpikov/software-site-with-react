@@ -1,0 +1,62 @@
+[
+  {
+    "id": 27,
+    "name": "git",
+    "title": "Git",
+    "preview": null,
+    "lang_id": 19,
+    "url": "/tutorials/devops/git/intro",
+    "description": "Мастерство Git: эффективно управляйте проектами.\n",
+    "keywords": null
+  },
+  {
+    "id": 28,
+    "name": "nginx",
+    "title": "NGINX",
+    "preview": null,
+    "lang_id": 19,
+    "url": "/tutorials/devops/nginx/intro",
+    "description": "Полное руководство по настройке высокопроизводительного веб-сервера Nginx.\n",
+    "keywords": null
+  },
+  {
+    "id": 29,
+    "name": "docker",
+    "title": "Docker",
+    "preview": null,
+    "lang_id": 19,
+    "url": "/tutorials/devops/docker/intro",
+    "description": "Ускорьте разработку с помощью Docker. \n",
+    "keywords": null
+  },
+  {
+    "id": 30,
+    "name": "nets",
+    "title": "Компьютерные сети",
+    "preview": null,
+    "lang_id": 19,
+    "url": "/tutorials/devops/nets/intro",
+    "description": "Погрузитесь в мир компьютерных сетей! \n",
+    "keywords": null
+  },
+  {
+    "id": 31,
+    "name": "kubernetes",
+    "title": "Kubernetes",
+    "preview": null,
+    "lang_id": 19,
+    "url": "/tutorials/devops/kubernetes/intro",
+    "description": "Масштабируемая оркестрация контейнеров для разработчиков и операторов. \n",
+    "keywords": null
+  },
+  {
+    "id": 32,
+    "name": "linux",
+    "title": "Linux",
+    "preview": null,
+    "lang_id": 19,
+    "url": "/tutorials/devops/linux/intro",
+    "description": "Полное руководство по использованию Linux для начинающих и профессионалов. \n",
+    "keywords": null
+  }
+]

@@ -1,0 +1,299 @@
+[
+  {
+    "id": 667,
+    "title": "Что такое система контроля версий Git",
+    "url": "/tutorials/devops/git/intro",
+    "chapter": 1,
+    "keywords": "ияние, ветка, отслеживание изменений, история изменений, репозиторий, система контроля версий, metanit, метаданные, статьи,  централизованный контроль версий, реверсия,  инструменты разработчика, история версий, обучение, управление версиями, коммит, habr, Что такое система контроля версий Git,  распределенный контроль версий. \n,  командная разработка, Git, обучающие статьи по программированию, откат, хабр, progvibe.ru,  версионирование, прогвайб, управление файлами, командная работа, журнал изменений, ветвление, разрешение конфликтов, разработка программного обеспечения, управление проектами, метанит, как научиться программировать, версия, progvibe, фиксация изменений,  разработка ПО, слияние веток, контроль изменений, состояние, программирование, управление изменениями, конфликт слияния,  версионный контроль",
+    "description": "",
+    "name": "intro"
+  },
+  {
+    "id": 668,
+    "title": "Установка Git",
+    "url": "/tutorials/devops/git/installing-git",
+    "chapter": 1,
+    "keywords": "ияние, установка, версии, Установка Git, установка на Linux, установка на Windows, репозиторий, удаленный репозиторий, metanit, настройки Git, советы, инструкции. \n, статьи, Linux, клонирование, документация, консоль, обучение, учебник, управление версиями, ключи доступа, терминал, коммит, конфликты, habr, GitHub, продвинутые команды, команды Git, SSH-ключи, Git, контроль версий, конфигурация Git, GitLab, обучающие статьи по программированию, Windows, откат, хабр, локальный репозиторий, команда, базовые команды, Git Bash, безопасность, progvibe.ru, примеры, прогвайб, руководство, история, ветвление, загрузка, метанит, macOS, Bitbucket, как научиться программировать, progvibe, программирование, скачивание, установка на macOS",
+    "description": "",
+    "name": "installing-git"
+  },
+  {
+    "id": 669,
+    "title": "Настройка Git",
+    "url": "/tutorials/devops/git/configuring-git",
+    "chapter": 1,
+    "keywords": "тановка,  stash, репозиторий, metanit,  branch,  GUI,  терминал, Настройка Git, статьи,  Bitbucket,  revert,  разработка, обучение,  ошибки, pull, коммит, habr, изменения,  checkout,  документация,  backup,  conflict, Git,  reset, обучающие статьи по программированию,  управление версиями,  инструменты, конфигурация, команда, хабр, clone, progvibe.ru, прогвайб,  remote,  решение проблем. \n, история, merge, ветвление,  best practices, метанит,  push,  командная работа,  workflow, как научиться программировать, progvibe, отслеживание,  консоль,  GitHub, программирование,  совместный доступ,  безопасность,  GitLab",
+    "description": "",
+    "name": "configuring-git"
+  },
+  {
+    "id": 670,
+    "title": "Настройка пользовательских параметров Git",
+    "url": "/tutorials/devops/git/git-user-configuration",
+    "chapter": 1,
+    "keywords": "я пользователя, цветовая схема, metanit, настройки, глобальные параметры, советы, статьи, alias, удобство, форматирование, документация, обучение, diff, habr, Git, конфиденциальность, обучающие статьи по программированию, эффективность, справка, конфигурация, игнорирование файлов, хабр, progvibe.ru, безопасность, прогвайб, редактор, примеры, производительность, командная работа, история, ветвление, merge, электронная почта, оптимизация, метанит, автодополнение, как научиться программировать, progvibe, коммиты, пользовательские параметры, рекомендации. \n, программирование, локальные параметры, персонализация, практика, Настройка пользовательских параметров Git",
+    "description": "",
+    "name": "git-user-configuration"
+  },
+  {
+    "id": 671,
+    "title": "Настройка SSH-ключа для работы с удалёнными репозиториями",
+    "url": "/tutorials/devops/git/ssh-setup-for-git",
+    "chapter": 1,
+    "keywords": "позиторий, id_rsa.pub, metanit, SSH-сервер, статьи, хостинг, подключение, SSH-агент, Настройка SSH-ключа для работы с удалёнными репозиториями, генерация ключа, ~/.ssh, SSH-клиенты для Mac, SSH-клиент, пара ключей, подключение без пароля, аутентификация, обучение, habr, управление ключами, SSH-клиенты для Windows, безопасность соединения, GitHub, публичный ключ, OpenSSH, приватный ключ, командная строка, SSH-клиенты для Linux, Git, PuTTY, обучающие статьи по программированию, ключ, хабр, конфигурация, progvibe.ru, прогвайб, Git Bash, безопасность, авторизация ключа, авторизация, метанит, файл конфигурации, SSH-клиенты, id_rsa, Bitbucket, как научиться программировать, progvibe, программирование, удаленный доступ, добавление ключа, SSH, репозиторий Git, Git для Windows. \n",
+    "description": "",
+    "name": "ssh-setup-for-git"
+  },
+  {
+    "id": 672,
+    "title": "Создание первого репозитория в Git",
+    "url": "/tutorials/devops/git/creating-first-repository",
+    "chapter": 2,
+    "keywords": "ияние, ветка, git init, изменение, история изменений, репозиторий, создание, удаленный репозиторий, metanit, папка, HEAD, статьи, клонирование, добавление, рабочий каталог, консоль, обучение, статус, pull, коммит, терминал, habr, Создание первого репозитория в Git, GitHub, master, Git, контроль версий, сообщение коммита, GitLab, обучающие статьи по программированию, хабр, локальный репозиторий, команда, .git, progvibe.ru, прогвайб, директория, origin, ветвление, командная строка \n, push, метанит, main, как научиться программировать, версия, отслеживание, файл, progvibe, удаление, программирование, remote, инициализация",
+    "description": "",
+    "name": "creating-first-repository"
+  },
+  {
+    "id": 673,
+    "title": "Конфигурация репозитория Git",
+    "url": "/tutorials/devops/git/configuring-repository",
+    "chapter": 2,
+    "keywords": "тка, централизованный, конфликт, репозиторий, metanit, log, инструменты, best practices, статьи, Конфигурация репозитория Git, status, workflow, fetch, checkout, управление версиями, команды, обучение, pull, stage, децентрализованный, reset, изменения, GUI, habr, GitHub, master, управление, Git, контроль версий, add, revert, распределенный. \n, commit, GitLab, обучающие статьи по программированию, хабр, конфигурация, .git, version control, progvibe.ru, прогвайб, директория, origin, merge, push, release, метанит, Bitbucket, как научиться программировать, progvibe, branch, файл, collaboration, tag, программирование, remote, history, CLI, инициализация, resolving",
+    "description": "",
+    "name": "configuring-repository"
+  },
+  {
+    "id": 674,
+    "title": "Инициализация Git в существующем каталоге",
+    "url": "/tutorials/devops/git/initializing-existing-directory",
+    "chapter": 2,
+    "keywords": "t init, История, Версии, Проект, Слияние, Команды терминала, Директория,  Merge, metanit, Настройка Git, статьи, Программа, Контроль версий, Команды Git, Коммит, обучение,  Remote, Существующий, Локальный репозиторий,  Fetch, Инициализация Git в существующем каталоге, Репозиторий, habr,  Удаленный репозиторий, Файлы, GitHub,  Clone,  Commit, Репозиторий Git, История изменений, Git,  Push, GitLab,  Revert. \n, обучающие статьи по программированию, Отслеживание, хабр,  Pull, .git, progvibe.ru, прогвайб,  Branch, Версионный контроль, Инициализация, метанит,  Reset, Bitbucket, как научиться программировать, progvibe, Управление файлами, программирование, Каталог, Изменения, Ветка",
+    "description": "",
+    "name": "initializing-existing-directory"
+  },
+  {
+    "id": 675,
+    "title": "Основные команды Git",
+    "url": "/tutorials/devops/git/git-basic-commands",
+    "chapter": 2,
+    "keywords": "ияние, ветка, репозиторий, создание, metanit, log, HEAD, staging area, статьи, обновление, status, перенос, rebase, клонирование, добавление, fetch, checkout, обучение, команды, pull, index, diff, коммит, конфликты, reset, изменения, habr, перемещение, сброс, master, Git, revert, cherry-pick, обучающие статьи по программированию, stash, откат, хабр, progvibe.ru, прогвайб, Основные команды Git, working directory, история, merge, origin, push, метанит, main, как научиться программировать, версия, отслеживание, branch, progvibe, tag, удаление, interactive rebase. \n, программирование, remote, commit message",
+    "description": "",
+    "name": "git-basic-commands"
+  },
+  {
+    "id": 676,
+    "title": "Клонирование репозитория",
+    "url": "/tutorials/devops/git/cloning-repository",
+    "chapter": 2,
+    "keywords": "тка,  резервное копирование, репозиторий, metanit, папки,  DevOps. \n,  конфликты, статьи, удаленный сервер, файлы, клонирование,  разработка, обучение,  автоматизация, pull,  интеграция, habr, изменения,  сотрудничество,  откат, локальная копия, GitHub,  рабочая копия, Git,  слияние, обучающие статьи по программированию,  управление версиями, хабр, конфигурация,  версионирование, progvibe.ru, прогвайб,  восстановление,  разрешение конфликтов, URL репозитория,  синхронизация, история коммитов, метанит,  push,  командная работа, Bitbucket, как научиться программировать, progvibe, коммиты, Клонирование репозитория, программирование,  безопасность, команда clone,  отслеживание изменений",
+    "description": "",
+    "name": "cloning-repository"
+  },
+  {
+    "id": 677,
+    "title": "Работа с файлами в Git",
+    "url": "/tutorials/devops/git/file-management-in-git",
+    "chapter": 2,
+    "keywords": "ияние, ветка, конфликт, репозиторий,  stash,  branch,  GUI,  commit,  удаление, metanit, Работа с файлами в Git, статьи, игнорирование,  переименование,  Bitbucket,  revert,  fetch,  команда. \n,  изменение, обучение, коммит,  инструмент, habr,  fork,  checkout,  pull, Git,  merge,  reset,  clone, обучающие статьи по программированию,  состояние, хабр, progvibe.ru, прогвайб,  remote, история, метанит,  push,  stage, как научиться программировать, версия, отслеживание, файл,  GitLab,  консоль,  GitHub, progvibe, программирование,  upstream,  добавление,  перемещение",
+    "description": "",
+    "name": "file-management-in-git"
+  },
+  {
+    "id": 678,
+    "title": "Игнорирование файлов в Git",
+    "url": "/tutorials/devops/git/ignoring-files-in-git",
+    "chapter": 2,
+    "keywords": "естирование, версий,  локальные,  сгенерированные, metanit, папки,  логи, файлов,  секреты,  репозиторий \n, статьи, игнорирование, файлы,  команды,  конфигурационные,  отладка,  разработка, исключение, обучение,  билд,  компиляции,  ресурсы, Игнорирование файлов в Git, habr,  проекты, игнорировать,  глобальные, контроль, Git,  бинарные,  пароль,  производство, обучающие статьи по программированию,  зашифрованные, хабр, progvibe.ru, прогвайб, .gitignore, метанит,  cache, как научиться программировать, progvibe, отслеживание,  выходные, программирование,  идентификатор,  файлы,  временные",
+    "description": "",
+    "name": "ignoring-files-in-git"
+  },
+  {
+    "id": 679,
+    "title": "Введение в ветвление в Git",
+    "url": "/tutorials/devops/git/branching-in-git",
+    "chapter": 3,
+    "keywords": "тка, отслеживание изменений, ветка master, Введение в ветвление в Git, репозиторий, metanit, merge conflict, Git для начинающих, best practices, статьи, графическое представление ветвления, работа над функцией, rebase, workflow, руководство по Git, обучение, workflow для ветвления, управление версиями, сотрудничество, коммит, habr, ветка feature, пул-реквест, создание ветки, Git, контроль версий, основы Git, примеры кода, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, ветка develop, исправление ошибок, ветка hotfix, ветвление, история коммитов, изолированная работа, практическое руководство, метанит, как научиться программировать, progvibe, Git flow, слияние веток, Git branching model, стратегии ветвления. \n, программирование, параллельная разработка, ветвление в Git",
+    "description": "",
+    "name": "branching-in-git"
+  },
+  {
+    "id": 680,
+    "title": "Создание и удаление веток",
+    "url": "/tutorials/devops/git/creating-deleting-branches",
+    "chapter": 3,
+    "keywords": "ияние, ветка, git cherry-pick, Feature Branch Workflow, конфликт, удаленная ветка, metanit, HEAD, best practices, статьи, rebase, git tag, обучение, checkout, управление версиями, контроль версий. \n, git stash, pull, upstream, git reset, habr, Создание и удаление веток, feature, создание ветки, master, удаление ветки, develop, обучающие статьи по программированию, git workflow, локальная ветка, GitFlow, хабр, progvibe.ru, прогвайб, bugfix, разрешение конфликтов, командная работа, origin, merge, ветвление, push, история коммитов, hot fix, метанит, main, стратегия ветвления, как научиться программировать, progvibe, отслеживание, git revert, git branch, программирование, git, Trunk Based Development",
+    "description": "",
+    "name": "creating-deleting-branches"
+  },
+  {
+    "id": 681,
+    "title": "Переключение между ветками",
+    "url": "/tutorials/devops/git/switching-between-branches",
+    "chapter": 3,
+    "keywords": "ияние, ветка,  сохранение, конфликты слияния, история изменений, репозиторий, metanit,  GUI,  терминал, статьи, workflow, обучение, checkout,  интеграция, коммит, reset,  инструмент, habr, feature,  отмена, master, git flow, контроль версий, develop, hotfix, revert, cherry-pick, обучающие статьи по программированию, stash, откат, хабр,  Bitbucket. \n, progvibe.ru, прогвайб,  восстановление, разрешение конфликтов, командная работа, merge, ветвление, метанит,  IDE, версия, branch,  консоль, как научиться программировать, progvibe,  GitHub, программирование, git, переключение, разработка, Переключение между ветками,  GitLab",
+    "description": "",
+    "name": "switching-between-branches"
+  },
+  {
+    "id": 682,
+    "title": "Слияние изменений веток",
+    "url": "/tutorials/devops/git/merging-branches",
+    "chapter": 3,
+    "keywords": "ияние, ветка,  откат изменений, конфликт, репозиторий, metanit, разрешение,  hotfix-ветка, статьи, фича-ветка, интеграция, workflow, обучение, управление версиями, коммит, habr, изменения, базовая ветка, Git, обучающие статьи по программированию, хабр, progvibe.ru, команда,  версионирование, прогвайб, история, ветвление, merge, метанит,  командная работа, Слияние изменений веток, как научиться программировать, progvibe,  конфликт слияния,  разработка ПО,  стратегия, pull request, программирование, разработка,  история изменений \n,  отслеживание изменений,  release-ветка, мастер-ветка",
+    "description": "",
+    "name": "merging-branches"
+  },
+  {
+    "id": 683,
+    "title": "Разрешение конфликтов слияния",
+    "url": "/tutorials/devops/git/resolving-merge-conflicts",
+    "chapter": 3,
+    "keywords": "ияние,  неэффективность, изменение, конфликт, metanit, страх, разрешение,  проблемы, статьи, интеграция, неуверенность,  этапы,  разные ценности, обучение, сопротивление,  техники,  решения, habr, стратегия,  примеры. \n,  успех,  разногласия, управление, обучающие статьи по программированию,  инструменты, хабр, команда,  шаги, progvibe.ru,  недоверие, прогвайб, Разрешение конфликтов слияния, коммуникация,  практика, планирование, метанит, лидерство, как научиться программировать, progvibe, поглощение,  разные стили работы,  непонимание, программирование, культура,  методы, стресс",
+    "description": "",
+    "name": "resolving-merge-conflicts"
+  },
+  {
+    "id": 684,
+    "title": "Добавление удалённого репозитория",
+    "url": "/tutorials/devops/git/adding-remote",
+    "chapter": 4,
+    "keywords": "тка, Добавление удалённого репозитория, имя пользователя, разрешения, репозиторий, удаленный репозиторий, metanit, токен, статьи, клонирование, добавление, консоль, fetch, аутентификация, обучение, pull, права доступа. \n, терминал, habr, GitHub, Git, контроль версий, GitLab, commit, обучающие статьи по программированию, HTTPS, хабр, progvibe.ru, команда, прогвайб, история, merge, origin, ветвление, push, пароль, метанит, Bitbucket, как научиться программировать, версия, progvibe, программирование, remote, SSH, URL",
+    "description": "",
+    "name": "adding-remote"
+  },
+  {
+    "id": 685,
+    "title": "Отправка изменений в удалённый репозиторий",
+    "url": "/tutorials/devops/git/pushing-to-remote",
+    "chapter": 4,
+    "keywords": "правка изменений в удалённый репозиторий, совместная работа, рекомендации, советы, best practices, статьи, автоматизация, обучение, терминал, журнал, rollback, обучающие статьи по программированию, ключ, прогвайб, безопасность, origin, merge, push, Bitbucket, remote, ветка, репозиторий, удаленный, разрешение, интеграция, deployment, pull, GitHub, инструкция, синхронизация, master, контроль, Git, ошибка, progvibe.ru, команда, авторизация, производительность. \n, код, версия, progvibe,  пример, metanit, разработчики, файлы, коммит, habr, изменения, эффективность, HTTPS, откат, хабр, конфигурация, руководство, метанит, отслеживание, CI/CD, шаблон, решение, отладка, конфликт, настройки, процесс, workflow,  оптимизация, fetch, доставка, GUI, локальный, проект, troubleshooting, GitLab, пароль, история, как научиться программировать, программирование, SSH",
+    "description": "",
+    "name": "pushing-to-remote"
+  },
+  {
+    "id": 686,
+    "title": "Получение изменений из удалённого репозитория",
+    "url": "/tutorials/devops/git/pulling-from-remote",
+    "chapter": 4,
+    "keywords": "тория изменений, репозиторий, удаленный репозиторий,  branch,  GUI,  commit,  терминал, metanit, статьи,  git log,  git fetch,  git pull,  Bitbucket,  git status,  git merge, fetch, обучение, автор коммита, pull, конфликты,  origin, изменения, получение изменений,  git diff, habr,  checkout, дата коммита, Git, обучающие статьи по программированию,  GitLab. \n, хабр, локальный репозиторий, progvibe.ru, прогвайб, ветки, разрешение конфликтов,  remote, ветвление, merge, метанит, как научиться программировать, progvibe, коммиты,  консоль,  GitHub, программирование,  master, Получение изменений из удалённого репозитория,  upstream",
+    "description": "",
+    "name": "pulling-from-remote"
+  },
+  {
+    "id": 687,
+    "title": "Управление ветками на удалённом репозитории",
+    "url": "/tutorials/devops/git/managing-remote-branches",
+    "chapter": 4,
+    "keywords": "тка, переключение ветки, совместная работа, репозиторий, удаленный репозиторий, metanit, отслеживание ветки, HEAD, статьи, rebase, Git Flow, fetch, checkout, обучение, Управление ветками на удалённом репозитории, pull, upstream, habr, GitHub, слияние ветки, команда разработчиков, создание ветки, master, Git, удаление ветки, контроль версий, commit, GitLab, обучающие статьи по программированию, хабр, локальный репозиторий, команда, progvibe.ru, прогвайб, origin, merge, управление проектами \n, push, метанит, Bitbucket, как научиться программировать, progvibe, branch, программирование, remote, конфликт слияния",
+    "description": "",
+    "name": "managing-remote-branches"
+  },
+  {
+    "id": 688,
+    "title": "Просмотр истории изменений",
+    "url": "/tutorials/devops/git/viewing-history",
+    "chapter": 5,
+    "keywords": "слеживание изменений, версионирование, version control software, история изменений, сравнение версий, репозиторий, ревизия, система контроля версий, metanit, статьи, rollback \n, аудиторский след, SVN, версия документа, история версий, изменения текста, обучение, управление версиями, diff, история редактирования, управление документами, изменения, habr, контроль версий, Git, восстановление версий, просмотр изменений, commit, изменения кода, отмена изменений, версия файла, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, collaborative editing, журнал изменений, журнал действий, метанит, как научиться программировать, версия, отслеживание, progvibe, Просмотр истории изменений, программирование",
+    "description": "",
+    "name": "viewing-history"
+  },
+  {
+    "id": 689,
+    "title": "Откат изменений в Git",
+    "url": "/tutorials/devops/git/reverting-changes",
+    "chapter": 5,
+    "keywords": "тка, revert-commit, reset-mixed, programmer, конфликт, metanit, undo, HEAD, потеря данных, статьи, отмена, rebase, графический интерфейс, консоль, fetch, checkout, управление версиями, обучение, reset-soft, pull, коммит, reset, изменения, GUI, habr, GitHub, git status, master, ошибка, Git, software development \n, TortoiseGit, revert, rollback, cherry-pick, git log, stash, GitLab, откат, хабр, обучающие статьи по программированию, команда, progvibe.ru, прогвайб, git reflog, история, merge, push, git blame, история коммитов, GitKraken, предыдущая версия, метанит, восстановление, Bitbucket, как научиться программировать, progvibe, branch, reset-hard, tag, git diff, remote, developer, программирование, Sourcetree, Откат изменений в Git, версия control",
+    "description": "",
+    "name": "reverting-changes"
+  },
+  {
+    "id": 690,
+    "title": "Изменение истории коммитов",
+    "url": "/tutorials/devops/git/amending-commits",
+    "chapter": 5,
+    "keywords": "менение, git rebase, metanit, переписывание, Изменение истории коммитов, git pull \n, best practices, статьи, workflow, обучение, управление версиями, git reset, reset, изменения, habr, Git, revert, cherry-pick, git log, обучающие статьи по программированию, хабр, reorder, команда, progvibe.ru, прогвайб, исправление, interactive rebase, git reflog, история, merge, история коммитов, метанит, ошибки, код, git push, коммиты, branch, как научиться программировать, git revert, progvibe, squash, amend, программирование, разработка, git fetch, commit message",
+    "description": "",
+    "name": "amending-commits"
+  },
+  {
+    "id": 691,
+    "title": "Интерактивная перепись истории коммитов",
+    "url": "/tutorials/devops/git/interactive-rebase",
+    "chapter": 5,
+    "keywords": "тка, изменение, репозиторий, ревизия,  GUI, metanit,  commit,  rebase, статьи, перенос,  revert,  взаимодействие, обучение, Интерактивная перепись истории коммитов, коммит,  cherry-pick,  инструмент, изменения, habr,  squash,  отмена,  наглядность. \n, Git,  merge,  модификация, timeline, визуализация, обучающие статьи по программированию,  пользователь, хабр, progvibe.ru,  внесение, прогвайб, исправление,  интерфейс,  refactoring,  функционал, метанит,  рефакторинг,  использование, как научиться программировать, версия, progvibe,  удобство, интерактивная, удаление, программирование, История коммитов, график",
+    "description": "",
+    "name": "interactive-rebase"
+  },
+  {
+    "id": 692,
+    "title": "Клонирование и внесение изменений в проект",
+    "url": "/tutorials/devops/git/cloning-contributing",
+    "chapter": 6,
+    "keywords": "тслеживание, ветка,  тестирование, репозиторий, metanit,  мерж,  копирование, статьи,  deploy,  стратегии,  разработка, обучение,  версия,  интеграция, коммит, habr, изменения,  сотрудничество,  откат, GitHub, проект,  управление, Git,  команда, Клонирование и внесение изменений в проект,  изменения,  review, обучающие статьи по программированию,  история,  инструменты, хабр,  версионирование, progvibe.ru,  конфликт,  создание, прогвайб, Клонирование, метанит, как научиться программировать, progvibe,  практики. \n,  процесс, программирование,  методы,  pull request",
+    "description": "",
+    "name": "cloning-contributing"
+  },
+  {
+    "id": 693,
+    "title": "Совместная работа в Git",
+    "url": "/tutorials/devops/git/collaborating-in-git",
+    "chapter": 6,
+    "keywords": "ияние, отслеживание изменений, ветвление Git Flow, совместная работа,  stash, репозиторий, metanit,  branch,  commit, статьи, рекурсивное слияние, распределенный Git, централизованный Git,  revert, workflow,  fetch, обучение,  status, управление версиями, сотрудничество, коммит, конфликты,  origin, habr,  fork, pull-запрос,  checkout,  pull, синхронизация, Git,  merge,  reset,  clone, GitLab, обучающие статьи по программированию, Cherry-pick, Совместная работа в Git, хабр, progvibe.ru, команда, прогвайб,  remote, разрешение конфликтов, командная работа, ветвление, история коммитов, метанит, ревью кода,  push,  log,  diff, Bitbucket, как научиться программировать, fast-forward, progvibe,  add,  GitHub,  stash \n, программирование, разработка,  upstream",
+    "description": "",
+    "name": "collaborating-in-git"
+  },
+  {
+    "id": 694,
+    "title": "Решение типичных задач в Git",
+    "url": "/tutorials/devops/git/common-git-tasks",
+    "chapter": 6,
+    "keywords": "ияние, история изменений, репозиторий, metanit, Решение типичных задач в Git, типичные задачи, статьи, rebase, workflow, команда git, обучение, checkout, pull, коммит, конфликты, reset, habr, feature, master, Git, develop, hotfix, revert, контроль версий, cherry-pick, обучающие статьи по программированию,  базовые операции, stash, откат, хабр, progvibe.ru, команда, исправление ошибок, прогвайб, руководство, origin, merge, ветвление, push, метанит, продвинутые операции, примеры. \n, как научиться программировать, версия, branch, progvibe, удаление, программирование, remote",
+    "description": "",
+    "name": "common-git-tasks"
+  },
+  {
+    "id": 695,
+    "title": "Использование тегов в Git",
+    "url": "/tutorials/devops/git/tagging-in-git",
+    "chapter": 7,
+    "keywords": "тка, версионирование, lightweight, репозиторий, metanit, статьи,  development, обучение, checkout, signed, метка,  versioning, изменения, delete,  verification, habr,  tag, annotate, хеш, теги, Использование тегов в Git, list, управление, master, Git, контроль версий, hotfix, commit, обучающие статьи по программированию, идентификатор,  release, стабильность, хабр, progvibe.ru, команда, прогвайб, релиз, история, отметка, origin, create, push, show, метанит,  production, как научиться программировать, версия, отслеживание, branch, фиксация, progvibe, состояние, программирование,  release notes.\n,  semantic versioning",
+    "description": "",
+    "name": "tagging-in-git"
+  },
+  {
+    "id": 696,
+    "title": "Инструменты для анализа проектов в Git",
+    "url": "/tutorials/devops/git/project-analysis-tools",
+    "chapter": 7,
+    "keywords": "ияние, мониторинг, инструменты анализа данных, metanit, отчеты, проблемы, статьи, дефекты, анализ кода, репозитории, инструменты командной работы, обучение, статистика, habr, изменения, DevOps, Agile, Big Data, Git, проекты, обучающие статьи по программированию, визуализация, метрики, риски, хабр, progvibe.ru, прогвайб, безопасность, производительность, история, ветвление, управление проектами, анализ данных, соответствие, метанит, ошибки, Machine Learning. \n, как научиться программировать, качество, коммиты, progvibe, Инструменты для анализа проектов в Git, программирование, инструменты автоматизации, CI/CD, графики, интеграции, инструменты анализа",
+    "description": "",
+    "name": "project-analysis-tools"
+  },
+  {
+    "id": 697,
+    "title": "Git hooks",
+    "url": "/tutorials/devops/git/git-hooks",
+    "chapter": 7,
+    "keywords": "e-receive, скрипты, репозиторий, metanit, pre-commit, статьи, интеграция, настройка, workflow, автоматизация, update, lint, Git hooks, обучение, тестирование, хуки, post-receive, валидация, habr, верификация, ревью,  документация, Git, контроль версий, обучающие статьи по программированию, post-commit, хабр, конфигурация, команда, триггер, progvibe.ru, безопасность, прогвайб, ветки, best practices\n, метанит,  использование, webhook, проверки, как научиться программировать, progvibe, коммиты, pre-push, событие, программирование, post-merge, CI/CD, deploy, разработка,  примеры,  решение проблем",
+    "description": "",
+    "name": "git-hooks"
+  },
+  {
+    "id": 698,
+    "title": "Подмодули Git",
+    "url": "/tutorials/devops/git/git-submodules",
+    "chapter": 7,
+    "keywords": "льтернативы,  Git submodule,  git submodule init, Внешний репозиторий, Версии, Проект,  Подмодули Git vs.  Подкаталоги,  git submodule deinit, metanit,  Преимущества, Модули, Управление версиями,  Примеры использования, статьи,  git submodule foreach,  git submodule add, Внутренний репозиторий,  Внедрение, обучение, Учебник, Репозиторий, habr,  git submodule status, Разработка,  Подмодули Git vs.  Внешние зависимости,  git submodule  commit,  Подмодули Git vs.  Подпроекты, Git, Командная работа,  git submodule sync,  git submodule  checkout, Подмодули, обучающие статьи по программированию, Использование,  git submodule  branch, Сотрудничество,  git submodule  pull, хабр, progvibe.ru, прогвайб,  git submodule  merge, Руководство, Примеры,  git submodule  push, метанит, как научиться программировать, progvibe, Код, Документация,  Интеграция,  git submodule update, программирование, Подмодули Git, Недостатки, Программное обеспечение, Ветка",
+    "description": "",
+    "name": "git-submodules"
+  },
+  {
+    "id": 699,
+    "title": "Основные проблемы и их решения в Git",
+    "url": "/tutorials/devops/git/common-issues-solutions",
+    "chapter": 8,
+    "keywords": "оллективное программирование, репозиторий, удаленный,  branch, metanit, проблемы, потеря данных, статьи,  Bitbucket, rebase, Основные проблемы и их решения в Git,  эффективность. \n,  разработка, обучение, управление версиями, конфликты, reset,  origin, habr,  подход,  checkout, локальный,  pull, Git, revert, решения, пулл-реквест, cherry-pick, обучающие статьи по программированию, stash, откат,  инструменты, хабр, progvibe.ru, прогвайб,  remote, история, merge, ветвление,  улучшение, push, метанит,  командная работа, ошибки, как научиться программировать, progvibe, коммиты,  GitLab,  GitHub, программирование, слияния,  upstream",
+    "description": "",
+    "name": "common-issues-solutions"
+  }
+]

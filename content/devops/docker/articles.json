@@ -1,0 +1,299 @@
+[
+  {
+    "id": 701,
+    "title": "Что такое Docker и зачем он нужен",
+    "url": "/tutorials/devops/docker/intro",
+    "chapter": 1,
+    "keywords": "ерационные системы, репозиторий, серверы, metanit, фреймворки, статьи, развертывание, Kubernetes, изоляция, Docker, автоматизация, приложения,  отладка, облачные вычисления, обучение,  ошибки, тестирование, Dockerfile, habr, оркестрация, независимость, DevOps,  документация. \n, Что такое Docker и зачем он нужен,  управление, языки программирования, контейнер, ресурсы, контейнеризация, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб,  сценарии, переносимость, безопасность, производительность, масштабирование, виртуализация, среда разработки, метанит,  установка, микросервисы, как научиться программировать, Docker Hub, progvibe, образ, программирование, CI/CD,  конфигурация, Swarm",
+    "description": "",
+    "name": "intro"
+  },
+  {
+    "id": 702,
+    "title": "Основные преимущества Docker",
+    "url": "/tutorials/devops/docker/advantages-of-docker",
+    "chapter": 1,
+    "keywords": "tanit, статьи, снижение затрат, образы, развертывание, Kubernetes, изоляция, Docker, автоматизация, репозитории, скорость, среда производства, обучение, управление версиями, Docker Swarm, IaC \n, среда тестирования, кластеры, habr, оркестрация, инфраструктура как код, DevOps, Основные преимущества Docker, масштабируемость, обучающие статьи по программированию, контейнеризация, эффективность, минимизация ошибок, непрерывная интеграция, хабр, управление зависимостями, progvibe.ru, прогвайб, безопасность, согласованность, оптимизация ресурсов, среду разработки, метанит, как научиться программировать, кросс-платформенность, непрерывная доставка, Docker Hub, progvibe, программирование, Docker Compose, CI/CD, микросервисная архитектура, совместимость, виртуальные машины, портативность, автоматизированное тестирование, контейнеры, преимущества",
+    "description": "",
+    "name": "advantages-of-docker"
+  },
+  {
+    "id": 703,
+    "title": "Установка Docker",
+    "url": "/tutorials/devops/docker/installing-docker",
+    "chapter": 1,
+    "keywords": "омпозиция, установка,  тестирование,  утилиты,  изоляция, metanit,  контейнерная оркестрация. \n, статьи,  Docker Compose, Docker, Linux,  отладка,  разработка, обучение,  сетевые настройки, habr,  виртуализация,  Dockerfile, обучающие статьи по программированию, Windows,  деплоймент,  образы,  CLI, хабр, progvibe.ru, прогвайб, Установка Docker,  Docker Hub, метанит, macOS, Docker Engine, как научиться программировать, progvibe,  CI/CD,  обновление,  Kubernetes,  безопасность,  развёртывание, программирование,  контейнеры,  конфигурация,  репозиторий, Docker Desktop",
+    "description": "",
+    "name": "installing-docker"
+  },
+  {
+    "id": 704,
+    "title": "Настройка Docker",
+    "url": "/tutorials/devops/docker/configuring-docker",
+    "chapter": 1,
+    "keywords": "тановка, AWS, сеть, мониторинг, отладка, metanit, Настройка Docker, статьи, настройка, развертывание, Kubernetes, обновление, cloud, Docker, автоматизация, обучение, тестирование, порты, Dockerfile, язык программирования, инфраструктура, habr, DevOps, окружение, переменная, аргумент, управление, контейнер, обучающие статьи по программированию, контейнеризация, хабр, progvibe.ru, команда, прогвайб, тома, безопасность, директория, производительность, масштабирование, оптимизация, Azure, приложение, виртуальная машина, метанит, скрипт, как научиться программировать, progvibe, Docker Hub, файл, GCP. \n, образ, удаление, сервер, программирование, архитектура, Docker Compose, CI/CD, виртуализация",
+    "description": "",
+    "name": "configuring-docker"
+  },
+  {
+    "id": 705,
+    "title": "Docker Hub",
+    "url": "/tutorials/devops/docker/docker-hub",
+    "chapter": 1,
+    "keywords": "естирование,  модульность,  микросервисы, репозиторий, metanit,  развертывание,  контейнерная  платформа \n,  автоматизация  тестирования,  контейнеризация, статьи,  отладка,  разработка, обучение, управление версиями, Dockerfile,  автоматизация,  масштабирование,  интеграция, habr,  сотрудничество,  документация, публичный репозиторий,  управление зависимостями, обучающие статьи по программированию,  разработка программного обеспечения, образы Docker,  деплоймент,  образы, хабр, progvibe.ru,  переносимость, прогвайб, частный репозиторий, метанит, как научиться программировать, progvibe, Docker Hub, автоматическая сборка, программирование, CI/CD,  безопасность, контейнеры",
+    "description": "",
+    "name": "docker-hub"
+  },
+  {
+    "id": 706,
+    "title": "Контейнеры и образы Docker",
+    "url": "/tutorials/devops/docker/containers-and-images",
+    "chapter": 2,
+    "keywords": "астройка, команда push,  микросервисы, metanit,  развертывание, Контейнеры и образы Docker,  контейнерный образ, статьи, команда pull, изоляция, Docker,  отладка,  разработка,  ресурсы. \n, обучение, Dockerfile,  автоматизация, habr, команда build,  управление ресурсами, оркестрация, окружение,  контейнерная платформа,  сетевая модель, масштабируемость, обучающие статьи по программированию, контейнеризация, хабр, progvibe.ru, прогвайб, Контейнер,  docker-compose, команда run,  контейнерный реестр, метанит,  установка, как научиться программировать, progvibe, Docker Hub,  CI/CD, образ,  Kubernetes, программирование,  DevOps, зависимости,  безопасность, портативность, виртуализация",
+    "description": "",
+    "name": "containers-and-images"
+  },
+  {
+    "id": 707,
+    "title": "Создание и запуск контейнеров",
+    "url": "/tutorials/devops/docker/creating-running-containers",
+    "chapter": 2,
+    "keywords": "ть, репозиторий, ресурсоемкость, metanit, статьи, порт,  логирование. \n, Kubernetes, изоляция,  мониторинг, Docker, переменные окружения,  отладка, обучение, Dockerfile,  автоматизация, habr, оркестрация, Swarm,  откат, связывание томов, запуск, контейнер,  управление зависимостями, обучающие статьи по программированию, контейнеризация, сопоставление портов, хабр, progvibe.ru, команда, прогвайб, безопасность, Создание и запуск контейнеров, докер-образ, производительность, масштабирование, метанит, сеть моста, как научиться программировать, progvibe, Docker Hub, образ, программирование, Docker Compose, CI/CD, разработка, виртуализация",
+    "description": "",
+    "name": "creating-running-containers"
+  },
+  {
+    "id": 708,
+    "title": "Основные команды Docker",
+    "url": "/tutorials/devops/docker/docker-basic-commands",
+    "chapter": 2,
+    "keywords": "новные команды Docker, остановка, metanit, run,  info,  commit, статьи, rm, Docker,  help, обучение, команды, Dockerfile, pull,  start, habr,  version,  tag \n,  kill,  attach, запуск,  top,  restart, контейнер, volume,  port, обучающие статьи по программированию, ps,  compose, хабр, progvibe.ru, прогвайб,  build, push, stop, exec,  search, метанит, как научиться программировать, progvibe, образ, images, network, удаление,  logs,  inspect, программирование",
+    "description": "",
+    "name": "docker-basic-commands"
+  },
+  {
+    "id": 709,
+    "title": "Работа с Dockerfile",
+    "url": "/tutorials/devops/docker/working-with-dockerfile",
+    "chapter": 2,
+    "keywords": "орка, CMD, репозиторий, metanit, WORKDIR, VOLUME, EXPOSE, best practices, статьи, развертывание, Docker, автоматизация, ADD, многоуровневая сборка,  разработка,  непрерывное развертывание. \n, обучение, Dockerfile, Работа с Dockerfile, habr, оркестрация, тег, инструкция, контейнер,  управление зависимостями, обучающие статьи по программированию, COPY, хабр, progvibe.ru, прогвайб, безопасность, масштабирование, оптимизация, FROM, метанит,  непрерывная интеграция, RUN, ENV, версия, Docker Hub, как научиться программировать, progvibe, образ, программирование, Docker Compose, BUILD, CI/CD, ENTRYPOINT, ARG",
+    "description": "",
+    "name": "working-with-dockerfile"
+  },
+  {
+    "id": 710,
+    "title": "Сети и связность в Docker",
+    "url": "/tutorials/devops/docker/networking-in-docker",
+    "chapter": 2,
+    "keywords": "cker swarm, сетевые политики, metanit, NAT, overlay сетевой режим, инструменты, best practices, маршрутизация, host сетевой режим, подключение, отказоустойчивость, статьи, изоляция, Docker, мостовой сетевой режим, discovery, service discovery, документация, обучение, команды, пользовательские сети, порты, firewalls, troubleshooting. \n, связность, habr, docker-compose, оркестрация, DNS, обучающие статьи по программированию, сети, bridge, хабр, конфигурация, progvibe.ru, прогвайб, Сети и связность в Docker, безопасность, сеть по умолчанию, метанит, виртуальные сети, none сетевой режим, как научиться программировать, progvibe, балансировка нагрузки, программирование, проброс портов, контейнеры, macvlan сетевой режим",
+    "description": "",
+    "name": "networking-in-docker"
+  },
+  {
+    "id": 711,
+    "title": "Хранение данных в Docker",
+    "url": "/tutorials/devops/docker/data-storage-in-docker",
+    "chapter": 2,
+    "keywords": "usterFS, Ceph, metanit, рекомендации, best practices, сетевые хранилища, отказоустойчивость, статьи, Хранение данных в Docker, Kubernetes, хранилище, практические советы. \n, доступность, Docker, обучение, Docker Swarm, Dockerfile, хранение данных, habr, docker-compose, persistent volumes, обучающие статьи по программированию, контейнеризация, сценарии, bind mounts, persistent storage, конфигурация, хабр, тома, безопасность, конфигурационные файлы, примеры, progvibe.ru, масштабирование, производительность, оптимизация, метанит, восстановление, как научиться программировать, progvibe, хранение состояния, volumes, прогвайб, NFS, программирование, бэкапы, базы данных, данные приложения",
+    "description": "",
+    "name": "data-storage-in-docker"
+  },
+  {
+    "id": 712,
+    "title": "Управление данными и Docker Compose",
+    "url": "/tutorials/devops/docker/superchaper",
+    "chapter": 2,
+    "keywords": "ниторинг, metanit, деплоймент, статьи, MySQL, образы, отказоустойчивость, развертывание, сервисы, Redis, MongoDB, Docker, автоматизация, обучение, управление версиями, тестирование, миграции, Управление данными и Docker Compose, habr, оркестрация, оптимизация. \n, конфигурации, журнал, обучающие статьи по программированию, контейнеризация, логгирование, стабильность, хабр, progvibe.ru, прогвайб, NoSQL, безопасность, SQL, масштабирование, Управление данными, база данных, производительность, метанит, как научиться программировать, progvibe, программирование, Docker Compose, PostgreSQL, CI/CD",
+    "description": "",
+    "name": "superchaper"
+  },
+  {
+    "id": 713,
+    "title": "Управление данными в Docker",
+    "url": "/tutorials/devops/docker/data-management-in-docker",
+    "chapter": 2,
+    "keywords": "ata consistency,  data governance,  data compliance,  data services,  persistent volumes,  data recovery,  data privacy, metanit,  data backup,  data orchestration, статьи, управление данными,  data persistence, Docker,  data synchronization,  data automation \n,  data sharing, обучение,  data access, Управление данными в Docker, хранение данных, habr,  data management,  data pipelines,  data analytics,  bind mounts,  volumes,  Dockerfile, обучающие статьи по программированию, хабр, progvibe.ru,  database integration, прогвайб,  data visualization,  data migration, метанит, как научиться программировать, progvibe,  data containers, программирование,  Docker volumes,  data security,  data integrity",
+    "description": "",
+    "name": "data-management-in-docker"
+  },
+  {
+    "id": 714,
+    "title": "Docker Compose",
+    "url": "/tutorials/devops/docker/docker-compose",
+    "chapter": 2,
+    "keywords": ", остановка, metanit, multi-container, best practices, статьи, multi-stage builds, перезапуск, обновление, сервисы, Docker, приложения, development, secrets, service discovery, обучение, команды, build, down, pull, healthchecks, security, load balancing, restart, habr, оркестрация, automated scaling, logs, DevOps, examples, запуск, high availability, scale, troubleshooting, dependency management, обучающие статьи по программированию, контейнеризация, сети, YAML, хабр, конфигурация, resources \n, progvibe.ru, прогвайб, automated deployments, масштабирование, tutorials, push, метанит, networking modes, production, микросервисы, многоконтейнерные приложения, как научиться программировать, progvibe, volumes, performance, программирование, deploy, Docker Compose, CI/CD, environment variables",
+    "description": "",
+    "name": "docker-compose"
+  },
+  {
+    "id": 715,
+    "title": "Установка и использование Docker Compose",
+    "url": "/tutorials/devops/docker/installing-using-docker-compose",
+    "chapter": 2,
+    "keywords": "тановка, версии, docker-compose restart, отладка, остановка, сети Docker, metanit, docker-compose up, статьи, образы, развертывание, сервисы, Docker, документация, обучение, docker-compose run, команды, тестирование, habr, официальные образы, оркестрация, docker-compose build, docker-compose logs, DevOps, обучающие статьи по программированию, сети, YAML, хабр, progvibe.ru, прогвайб, CI/CD \n, безопасность, масштабирование, производительность, перезагрузка, оптимизация, метанит, файл Compose, docker-compose down, как научиться программировать, многоконтейнерные приложения, progvibe, использование, пользовательские образы, Установка и использование Docker Compose, удаление, docker-compose exec, программирование, объемы Docker, Docker Compose, зависимости, объемы, контейнеры",
+    "description": "",
+    "name": "installing-using-docker-compose"
+  },
+  {
+    "id": 716,
+    "title": "Файл docker-compose.yml",
+    "url": "/tutorials/devops/docker/docker-compose-yml",
+    "chapter": 2,
+    "keywords": ", сеть, networks, healthcheck, image, metanit, статьи, развертывание, переменные окружения, приложения, secrets, restart_policy, ports, документация, обучение, Файл docker-compose.yml, команды, build, down, restart, habr, оркестрация, logs, start, version, environment, управление, scale, обучающие статьи по программированию, ps, конфигурация, хабр, progvibe.ru, прогвайб, примеры, stop, exec, метанит, как научиться программировать, сервис, многоконтейнерные приложения, файл, progvibe, yml, volumes, программирование, Docker Compose, зависимости, лучшие практики \n, объемы, контейнеры",
+    "description": "",
+    "name": "docker-compose-yml"
+  },
+  {
+    "id": 717,
+    "title": "Управление множеством контейнеров с Docker Compose",
+    "url": "/tutorials/devops/docker/managing-containers-docker-compose",
+    "chapter": 2,
+    "keywords": "естирование,  Деплоймент, Запуск,  Параметры,  Архитектура, metanit,  Микросервисы \n, статьи, Состав, Docker,  Версии, обучение, Масштабирование, habr, Объемы,  Среда, Образы,  Файл, Множество, Контейнеры,  Разработка, Управление,  Производство,  Многоконтейнерные приложения, обучающие статьи по программированию, Остановка, хабр, Сервисы, progvibe.ru, прогвайб,  Сеть, Конфигурация, метанит,  Автоматизация, как научиться программировать, progvibe, Управление множеством контейнеров с Docker Compose,  Переменные, программирование, Docker Compose,  YAML,  Сценарии",
+    "description": "",
+    "name": "managing-containers-docker-compose"
+  },
+  {
+    "id": 718,
+    "title": "Мультистадийные сборки в Docker",
+    "url": "/tutorials/devops/docker/multi-stage-builds",
+    "chapter": 3,
+    "keywords": "кросервисы \n, metanit, best practices, статьи, multi-stage builds, Мультистадийные сборки в Docker, изоляция, Docker, автоматизация, обучение, Dockerfile, кэширование, зависимые этапы, habr, DevOps, оптимизация времени сборки, зависимые инструкции, гибкость, промежуточные артефакты, облачные технологии, мультистадийные сборки, масштабируемость, обучающие статьи по программированию, контейнеризация, COPY, контекст сборки, промежуточные образы, stages, управление зависимостями, хабр, progvibe.ru, прогвайб, безопасность, производительность, переиспользование, финальный образ, оптимизация, FROM, оптимизация ресурсов, чистые образы, метанит, снижение размера, RUN, как научиться программировать, progvibe, Docker Hub, разделение задач, программирование, CI/CD, слои Docker, размер образа",
+    "description": "",
+    "name": "multi-stage-builds"
+  },
+  {
+    "id": 719,
+    "title": "Управление контейнерами с помощью Docker API",
+    "url": "/tutorials/devops/docker/managing-containers-docker-api",
+    "chapter": 3,
+    "keywords": "ocker Networking,  Деплоймент,  Контейнеры, API,  Клиент-серверная архитектура, metanit,  Docker Logs,  Виртуализация,  Swarm, статьи,  Docker Monitoring,  Оркестрация,  Docker Events. \n, Docker, обучение,  Образы Docker,  Docker Volumes, habr, Управление контейнерами с помощью Docker API, Docker API,  Изоляция,  Docker Security,  Dockerfile, обучающие статьи по программированию,  Docker Engine, хабр, progvibe.ru, прогвайб,  RESTful API,  Docker Hub, метанит,  Docker Stats,  Автоматизация, как научиться программировать, progvibe,  Docker CLI,  CI/CD,  Kubernetes, Управление контейнерами, программирование, Docker Compose,  Контейнеризация",
+    "description": "",
+    "name": "managing-containers-docker-api"
+  },
+  {
+    "id": 720,
+    "title": "Docker Swarm",
+    "url": "/tutorials/devops/docker/docker-swarm",
+    "chapter": 3,
+    "keywords": "лако, мониторинг, API, Compose, статьи,  применимость, развертывание, ручное управление,  мониторинг,  интеграция. \n, автоматизация, обучение, задачи, политика, обучающие статьи по программированию, метрики, прогвайб, безопасность, управление жизненным циклом, надежность, глобальные службы,  развертывание, управление состоянием, маршрутизация, служба обнаружения сервисов,  разработка, Docker Swarm, сеть overlay, управление кластером,  автоматизация, progvibe.ru, масштабирование, производительность, оптимизация, планирование, progvibe, откаты,  безопасность,  эффективность, анализ,  распределение, metanit, аудит, отказоустойчивость, сервисы, доступность, Docker, оркестратор, автоматизация обновления,  масштабирование, habr, масштабируемость, сети, эффективность, хабр, конфигурация, метанит, балансировка нагрузки, управление ресурсами, CI/CD, контейнеры,  производительность, кластер,  гибкость, Kubernetes,  оптимизация, стек,  отказоустойчивость, оркестрация, DevOps, обновления,  управление, автоматизация развертывания, узлы, Docker Engine, микросервисы,  доставка, как научиться программировать, программирование, CLI, журналы, менеджер, контроль доступа",
+    "description": "",
+    "name": "docker-swarm"
+  },
+  {
+    "id": 721,
+    "title": "Введение в Kubernetes и его отличия от Docker",
+    "url": "/tutorials/devops/docker/introduction-to-kubernetes",
+    "chapter": 3,
+    "keywords": "ниторинг, API, кластер, metanit, деплоймент, управление состоянием, статьи, отказоустойчивость, развертывание, Kubernetes, Docker, контроллеры, Azure Kubernetes Service, обучение, Docker Swarm, управление версиями, сетевые модели, habr, недостатки. \n, оркестрация, инфраструктура как код, DevOps, контейнерные приложения, поды, Введение в Kubernetes и его отличия от Docker, облачные технологии, kubectl, концепции, обучающие статьи по программированию, контейнеризация, хабр, progvibe.ru, прогвайб, безопасность, узлы, Amazon ECS, масштабирование, метанит, микросервисы, как научиться программировать, progvibe, Google Kubernetes Engine, архитектура, управление ресурсами, CI/CD, программирование, службы, виртуализация, преимущества, yaml",
+    "description": "",
+    "name": "introduction-to-kubernetes"
+  },
+  {
+    "id": 722,
+    "title": "Интеграция Docker с CI/CD системами",
+    "url": "/tutorials/devops/docker/docker-integration-ci-cd",
+    "chapter": 4,
+    "keywords": "I, репозиторий, metanit, CircleCI, статьи, отказоустойчивость, интеграция, развертывание, Kubernetes, артефакты, Docker, автоматизация, функциональное тестирование, обучение, конвейер непрерывной поставки, Dockerfile, habr, оркестрация, DevOps, интеграционные тесты, Интеграция Docker с CI/CD системами, автоматическое обновление, Travis CI, контроль версий, обучающие статьи по программированию, контейнеризация, сценарии, образы Docker, хабр, конфигурация, progvibe.ru, прогвайб, безопасность, масштабирование, метанит, webhook, как научиться программировать, progvibe, плагины, программирование, CI/CD, GitLab CI, Docker Compose, end-to-end тестирование. \n, Jenkins, автоматизированное тестирование",
+    "description": "",
+    "name": "docker-integration-ci-cd"
+  },
+  {
+    "id": 723,
+    "title": "Безопасность Docker",
+    "url": "/tutorials/devops/docker/docker-security",
+    "chapter": 4,
+    "keywords": "ниторинг, безопасность для разработчиков, безопасность в Kubernetes. \n, безопасность образа, шифрование, metanit, рекомендации, политики безопасности, статьи, образы, Docker, безопасность сети, аутентификация, обучение, habr, защита, защита от отказа в обслуживании, доступ к реестру, DevOps, Безопасность Docker, безопасность в облаке, проверка образов, управление рисками, уязвимости, лучшие практики, сканирование уязвимостей, лучшие инструменты, обучающие статьи по программированию, контейнеризация, атаки, хабр, progvibe.ru, прогвайб, угрозы, управление доступом, безопасность, сетевая изоляция, аудирование, авторизация, метанит, защита от утечки данных, как научиться программировать, progvibe, безопасность реестра, программирование, безопасность для операций, контейнеры, контроль доступа",
+    "description": "",
+    "name": "docker-security"
+  },
+  {
+    "id": 724,
+    "title": "Управление доступом и контроль прав в Docker",
+    "url": "/tutorials/devops/docker/access-control-docker",
+    "chapter": 4,
+    "keywords": "фрование, аудит, metanit,  управление  рисками, пароли,  плагины, статьи, образы, контроль прав, Docker,  безопасные  практики, политики, обучение, пользователей,  интеграция, habr, RBAC,  LDAP,  авторизация,  GDPR, обучающие статьи по программированию, сети,  Azure Active Directory,  امن \n,  Active Directory,  compliance, управление доступом, безопасность,  аутентификация, хабр,  совместимость, progvibe.ru, прогвайб, ключи,  безопасные  конфигурации, ACL,  SSO, метанит,  токены,  IAM, как научиться программировать, progvibe, группы, роли, программирование, сертификаты, журналы, хранилище, контейнеры, Управление доступом и контроль прав в Docker",
+    "description": "",
+    "name": "access-control-docker"
+  },
+  {
+    "id": 725,
+    "title": "Docker для разработчиков",
+    "url": "/tutorials/devops/docker/docker-for-developers",
+    "chapter": 5,
+    "keywords": "золяция,  обработка, metanit, Docker для разработчиков,  развертывание, статьи, образы, Kubernetes, Docker,  платформа как сервис, обучение, Dockerfile,  ресурсы, habr,  виртуализация, оркестрация,  объем, докеры,  контейнерная платформа,  управление зависимостями,  производство, контейнеризация,  управление версиями, обучающие статьи по программированию,  образы, хабр, progvibe.ru,  переносимость,  память, прогвайб,  масштабируемость,  обработка ошибок. \n, метанит,  среда разработки, как научиться программировать, progvibe, Docker Hub,  зависимости,  CI/CD, программирование,  DevOps, Docker Compose,  контейнерные сети,  безопасность, контейнеры",
+    "description": "",
+    "name": "docker-for-developers"
+  },
+  {
+    "id": 726,
+    "title": "Тестирование приложений в Docker",
+    "url": "/tutorials/devops/docker/testing-applications-docker",
+    "chapter": 5,
+    "keywords": "иски,  изоляция, metanit,  проблемы,  контейнеризация, статьи, интеграция, нагрузочное тестирование, Docker, автоматизация, приложения, функциональное тестирование, обучение, тестирование,  рекомендации. \n,  ресурсы, тестирование безопасности, habr,  планирование,  виртуализация, обучающие статьи по программированию,  деплоймент,  инструменты,  повторяемость, хабр, progvibe.ru,  end-to-end тесты, прогвайб,  практика,  unit-тесты,  преимущества,  среда, метанит,  платформа, как научиться программировать, progvibe,  зависимости,  Kubernetes,  стратегия, программирование, тестирование производительности, CI/CD,  инфраструктура,  конфигурация, Тестирование приложений в Docker, контейнеры",
+    "description": "",
+    "name": "testing-applications-docker"
+  },
+  {
+    "id": 727,
+    "title": "Отладка приложений в Docker",
+    "url": "/tutorials/devops/docker/debugging-applications-docker",
+    "chapter": 5,
+    "keywords": "тслеживание,  производительность,  точка останова, отладка, metanit, инструменты, Отладка приложений в Docker,  стек вызовов, статьи,  Azure DevOps \n, LLDB,  GitHub Actions, Docker, обучение,  ошибки,  Visual Studio Code,  ресурсы,  инспектирование,  система CI/CD, habr,  компиляция,  модульное тестирование, GDB, контейнер,  интеграционное тестирование, обучающие статьи по программированию, хабр, progvibe.ru,  Jenkins, прогвайб, приложение,  логирование, метанит,  IDE,  VS Code,  диагностика, как научиться программировать, progvibe, среда,  переменные,  remote debugging, программирование,  конфигурация,  профилирование",
+    "description": "",
+    "name": "debugging-applications-docker"
+  },
+  {
+    "id": 728,
+    "title": "Оптимизация работы с Docker",
+    "url": "/tutorials/devops/docker/optimizing-docker-workflow",
+    "chapter": 6,
+    "keywords": "тимизация безопасности, сборка, сеть, мониторинг, metanit, Оптимизация работы с Docker, статьи, использование ресурсов, образы, оптимизация хранилища, Kubernetes, оптимизация сборки, Docker, автоматизация, обучение, кэширование, habr, оптимизация управления, оркестрация, оптимизация запуска, управление, лучшие практики, советы \n, ресурсы, обучающие статьи по программированию,  оптимизация масштабирования, контейнеры, хабр, progvibe.ru, прогвайб, безопасность, примеры, оптимизация сети, масштабирование, производительность, оптимизация, планирование, оптимизация ресурсов, метанит, как научиться программировать, progvibe, оптимизация мониторинга, программирование,  рекомендации, хранилище, Swarm",
+    "description": "",
+    "name": "optimizing-docker-workflow"
+  },
+  {
+    "id": 729,
+    "title": "Масштабирование приложений в Docker",
+    "url": "/tutorials/devops/docker/scaling-applications-docker",
+    "chapter": 6,
+    "keywords": "ниторинг, metanit, статьи, отказоустойчивость, развертывание, обновление, Kubernetes,  Docker Compose, доступность, Docker, автоматизация, обучение, сетевые модели, кластеры, habr, оркестрация, горизонтальное масштабирование, вертикальное масштабирование, DevOps,  Dockerfile, ресурсы, контейнеризация, обучающие статьи по программированию,  образы, хабр, progvibe.ru, прогвайб, безопасность,  контейнерные реестры, производительность, масштабирование, Масштабирование приложений в Docker, метанит, микросервисы, как научиться программировать, балансировка нагрузки, логирование, progvibe, хранилище данных,  облачные сервисы. \n, архитектура, CI/CD,  инфраструктура,  конфигурация,  среды, программирование, Swarm",
+    "description": "",
+    "name": "scaling-applications-docker"
+  },
+  {
+    "id": 730,
+    "title": "Управление ресурсами Docker",
+    "url": "/tutorials/devops/docker/managing-resources-docker",
+    "chapter": 6,
+    "keywords": "дежность, оптимизация производительности, сеть, планировщик, Управление ресурсами Docker, ресурсы контейнера, metanit, планирование ресурсов, статьи, снижение затрат, доступность, Docker, управление затратами, обучение, Docker Swarm, habr, оптимизация использования ресурсов, квоты, orchestration, лимиты, масштабируемость, обучающие статьи по программированию, CPU, хабр, progvibe.ru, прогвайб, безопасность, память, производительность, мониторинг ресурсов, управление конфигурацией. \n, изоляция ресурсов, оптимизация ресурсов, метанит, мониторинг производительности, как научиться программировать, ограничение ресурсов, progvibe, контроль потребления ресурсов, программирование, управление ресурсами, Docker Compose, планирование развертывания, хранилище",
+    "description": "",
+    "name": "managing-resources-docker"
+  },
+  {
+    "id": 731,
+    "title": "Мониторинг и логирование в Docker",
+    "url": "/tutorials/devops/docker/monitoring-logging-docker",
+    "chapter": 7,
+    "keywords": "yslog, анализ, мониторинг,  Logstash, отладка, metanit, агрегация, инструменты,  масштабирование. \n,  Docker Swarm, статьи,  Docker Compose, доступность, Docker, приложения, события, обучение, Elasticsearch,  измерение,  журналирование,  ресурсы, Grafana, habr, Мониторинг и логирование в Docker, централизация,  расширяемость,  управление, Fluentd,  Dockerfile, обучающие статьи по программированию, визуализация, метрики, хабр, progvibe.ru, прогвайб, безопасность, производительность, метанит, как научиться программировать, progvibe, логирование,  Kubernetes, Prometheus, оповещения, программирование,  конфигурация, журналы, контейнеры, системы",
+    "description": "",
+    "name": "monitoring-logging-docker"
+  },
+  {
+    "id": 732,
+    "title": "Управление версиями и релизами в Docker",
+    "url": "/tutorials/devops/docker/versioning-releases-docker",
+    "chapter": 7,
+    "keywords": "ниторинг, metanit, инструменты, best practices, статьи, развертывание, Kubernetes, обновление, Docker Registry, Docker, автоматизация, управление релизами, обучение, управление версиями, Docker Swarm, команды, Dockerfile, habr, оркестрация, DevOps, тегирование, Git, rollback, обучающие статьи по программированию, сценарии, хабр, управление зависимостями, конфигурация, progvibe.ru, релиз, безопасность, прогвайб, примеры,  \n, масштабирование, журнал изменений, ветвление, метанит, как научиться программировать, версия, Docker Hub, Docker Image, progvibe, программирование, Docker Compose, CI/CD, Управление версиями и релизами в Docker",
+    "description": "",
+    "name": "versioning-releases-docker"
+  },
+  {
+    "id": 733,
+    "title": "Управление жизненным циклом контейнеров",
+    "url": "/tutorials/devops/docker/container-lifecycle-management",
+    "chapter": 7,
+    "keywords": "рсии, мониторинг, отчетность, репозиторий, аудит, metanit, метаданные, статьи, образы, развертывание, обновление, импорт, Kubernetes, доступность, Docker, автоматизация, Управление жизненным циклом, обучение, Управление жизненным циклом контейнеров, жизненный цикл приложения, habr, оркестрация, DevOps, DevSecOps, политика, теги, обучающие статьи по программированию, метрики, откат, хабр, progvibe.ru, прогвайб, экспорт, управление доступом, безопасность, масштабирование, производительность, оптимизация, метанит, устойчивость \n, как научиться программировать, progvibe, программирование, управление ресурсами, CI/CD, контейнеры",
+    "description": "",
+    "name": "container-lifecycle-management"
+  }
+]

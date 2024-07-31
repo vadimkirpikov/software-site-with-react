@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1400,
+    "title": "Почему Hext.js: преимущества и основные особенности",
+    "url": "/tutorials/javascript/next/intro",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "intro"
+  },
+  {
+    "id": 1401,
+    "title": "Установка Hext.js",
+    "url": "/tutorials/javascript/next/installation",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "installation"
+  },
+  {
+    "id": 1402,
+    "title": "Конфигурация файла настроек",
+    "url": "/tutorials/javascript/next/configuration",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "configuration"
+  },
+  {
+    "id": 1403,
+    "title": "Настройка базы данных",
+    "url": "/tutorials/javascript/next/database_setup",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "database_setup"
+  },
+  {
+    "id": 1404,
+    "title": "Установка сервера разработки",
+    "url": "/tutorials/javascript/next/dev_server",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "dev_server"
+  },
+  {
+    "id": 1405,
+    "title": "Обзор папок и файлов проекта",
+    "url": "/tutorials/javascript/next/project_structure",
+    "chapter": 1,
+    "keywords": "",
+    "description": "",
+    "name": "project_structure"
+  },
+  {
+    "id": 1406,
+    "title": "Обзор маршрутов в Hext.js",
+    "url": "/tutorials/javascript/next/routes_overview",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "routes_overview"
+  },
+  {
+    "id": 1407,
+    "title": "Определение маршрутов в файле routes.js",
+    "url": "/tutorials/javascript/next/routes_file",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "routes_file"
+  },
+  {
+    "id": 1408,
+    "title": "Маршруты для API",
+    "url": "/tutorials/javascript/next/api_routes",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "api_routes"
+  },
+  {
+    "id": 1409,
+    "title": "Маршрутизация с параметрами",
+    "url": "/tutorials/javascript/next/route_parameters",
+    "chapter": 2,
+    "keywords": "",
+    "description": "",
+    "name": "route_parameters"
+  },
+  {
+    "id": 1410,
+    "title": "Создание контроллеров",
+    "url": "/tutorials/javascript/next/creating_controllers",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "creating_controllers"
+  },
+  {
+    "id": 1411,
+    "title": "Работа с методами контроллеров",
+    "url": "/tutorials/javascript/next/controller_methods",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "controller_methods"
+  },
+  {
+    "id": 1412,
+    "title": "Использование ресурсов контроллеров ResourceControllersResource ControllersResourceControllers",
+    "url": "/tutorials/javascript/next/resource_controllers",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "resource_controllers"
+  },
+  {
+    "id": 1413,
+    "title": "Внедрение зависимостей DependencyInjectionDependency InjectionDependencyInjection",
+    "url": "/tutorials/javascript/next/dependency_injection",
+    "chapter": 3,
+    "keywords": "",
+    "description": "",
+    "name": "dependency_injection"
+  },
+  {
+    "id": 1414,
+    "title": "Обзор моделей и ORM",
+    "url": "/tutorials/javascript/next/orm_overview",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "orm_overview"
+  },
+  {
+    "id": 1415,
+    "title": "Создание моделей",
+    "url": "/tutorials/javascript/next/creating_models",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "creating_models"
+  },
+  {
+    "id": 1416,
+    "title": "Определение связей между моделями",
+    "url": "/tutorials/javascript/next/model_relationships",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "model_relationships"
+  },
+  {
+    "id": 1417,
+    "title": "Основные операции CRUD Create,Read,Update,DeleteCreate, Read, Update, DeleteCreate,Read,Update,Delete",
+    "url": "/tutorials/javascript/next/crud_operations",
+    "chapter": 4,
+    "keywords": "",
+    "description": "",
+    "name": "crud_operations"
+  },
+  {
+    "id": 1418,
+    "title": "Создание и выполнение миграций",
+    "url": "/tutorials/javascript/next/migrations",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "migrations"
+  },
+  {
+    "id": 1419,
+    "title": "Откат и редактирование миграций",
+    "url": "/tutorials/javascript/next/rollback_migrations",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "rollback_migrations"
+  },
+  {
+    "id": 1420,
+    "title": "Работа с индексами и внешними ключами",
+    "url": "/tutorials/javascript/next/indexes_foreign_keys",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "indexes_foreign_keys"
+  },
+  {
+    "id": 1421,
+    "title": "Основы запросов с использованием ORM",
+    "url": "/tutorials/javascript/next/orm_queries",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "orm_queries"
+  },
+  {
+    "id": 1422,
+    "title": "Запросы с использованием Query Builder",
+    "url": "/tutorials/javascript/next/query_builder",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "query_builder"
+  },
+  {
+    "id": 1423,
+    "title": "Продвинутые запросы и фильтрация данных",
+    "url": "/tutorials/javascript/next/advanced_queries",
+    "chapter": 5,
+    "keywords": "",
+    "description": "",
+    "name": "advanced_queries"
+  },
+  {
+    "id": 1424,
+    "title": "Создание сидеров",
+    "url": "/tutorials/javascript/next/seeders",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "seeders"
+  },
+  {
+    "id": 1425,
+    "title": "Использование фабрик данных для генерации тестовых данных",
+    "url": "/tutorials/javascript/next/data_factories",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "data_factories"
+  },
+  {
+    "id": 1426,
+    "title": "Наполнение базы данных сидерами",
+    "url": "/tutorials/javascript/next/database_seeding",
+    "chapter": 6,
+    "keywords": "",
+    "description": "",
+    "name": "database_seeding"
+  },
+  {
+    "id": 1427,
+    "title": "Основы использования шаблонов",
+    "url": "/tutorials/javascript/next/template_basics",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "template_basics"
+  },
+  {
+    "id": 1428,
+    "title": "Шаблоны и секции",
+    "url": "/tutorials/javascript/next/templates_sections",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "templates_sections"
+  },
+  {
+    "id": 1429,
+    "title": "Компоненты и слоты",
+    "url": "/tutorials/javascript/next/components_slots",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "components_slots"
+  },
+  {
+    "id": 1430,
+    "title": "Включение и наследование шаблонов",
+    "url": "/tutorials/javascript/next/template_inheritance",
+    "chapter": 7,
+    "keywords": "",
+    "description": "",
+    "name": "template_inheritance"
+  },
+  {
+    "id": 1431,
+    "title": "Создание форм и их обработка на стороне сервера",
+    "url": "/tutorials/javascript/next/forms_handling",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "forms_handling"
+  },
+  {
+    "id": 1432,
+    "title": "Валидация данных",
+    "url": "/tutorials/javascript/next/data_validation",
+    "chapter": 8,
+    "keywords": "",
+    "description": "",
+    "name": "data_validation"
+  },
+  {
+    "id": 1433,
+    "title": "Основы создания RESTful API",
+    "url": "/tutorials/javascript/next/api_basics",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "api_basics"
+  },
+  {
+    "id": 1434,
+    "title": "Формирование ответов API JSONJSONJSON",
+    "url": "/tutorials/javascript/next/api_responses",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "api_responses"
+  },
+  {
+    "id": 1435,
+    "title": "Обработка запросов API",
+    "url": "/tutorials/javascript/next/api_requests",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "api_requests"
+  },
+  {
+    "id": 1436,
+    "title": "Аутентификация API",
+    "url": "/tutorials/javascript/next/api_authentication",
+    "chapter": 9,
+    "keywords": "",
+    "description": "",
+    "name": "api_authentication"
+  },
+  {
+    "id": 1437,
+    "title": "Встроенная аутентификация Hext.js",
+    "url": "/tutorials/javascript/next/auth_basics",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "auth_basics"
+  },
+  {
+    "id": 1438,
+    "title": "Регистрация, вход и выход",
+    "url": "/tutorials/javascript/next/auth_process",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "auth_process"
+  },
+  {
+    "id": 1439,
+    "title": "Система ролей и прав доступа",
+    "url": "/tutorials/javascript/next/roles_permissions",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "roles_permissions"
+  },
+  {
+    "id": 1440,
+    "title": "Защита от CSRF",
+    "url": "/tutorials/javascript/next/csrf_protection",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "csrf_protection"
+  },
+  {
+    "id": 1441,
+    "title": "Защита от XSS",
+    "url": "/tutorials/javascript/next/xss_protection",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "xss_protection"
+  },
+  {
+    "id": 1442,
+    "title": "Управление сессиями и cookies",
+    "url": "/tutorials/javascript/next/session_cookies",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "session_cookies"
+  },
+  {
+    "id": 1443,
+    "title": "Шифрование данных",
+    "url": "/tutorials/javascript/next/data_encryption",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "data_encryption"
+  },
+  {
+    "id": 1444,
+    "title": "Загрузка файлов",
+    "url": "/tutorials/javascript/next/file_upload",
+    "chapter": 12,
+    "keywords": "",
+    "description": "",
+    "name": "file_upload"
+  },
+  {
+    "id": 1445,
+    "title": "Хранение файлов",
+    "url": "/tutorials/javascript/next/file_storage",
+    "chapter": 12,
+    "keywords": "",
+    "description": "",
+    "name": "file_storage"
+  },
+  {
+    "id": 1446,
+    "title": "Создание миниатюр изображений",
+    "url": "/tutorials/javascript/next/image_thumbnails",
+    "chapter": 12,
+    "keywords": "",
+    "description": "",
+    "name": "image_thumbnails"
+  },
+  {
+    "id": 1447,
+    "title": "Создание и запуск очередей",
+    "url": "/tutorials/javascript/next/job_queues",
+    "chapter": 13,
+    "keywords": "",
+    "description": "",
+    "name": "job_queues"
+  },
+  {
+    "id": 1448,
+    "title": "Настройка драйверов очередей",
+    "url": "/tutorials/javascript/next/queue_drivers",
+    "chapter": 13,
+    "keywords": "",
+    "description": "",
+    "name": "queue_drivers"
+  },
+  {
+    "id": 1449,
+    "title": "Запланированные задачи SchedulerSchedulerScheduler",
+    "url": "/tutorials/javascript/next/scheduled_tasks",
+    "chapter": 13,
+    "keywords": "",
+    "description": "",
+    "name": "scheduled_tasks"
+  },
+  {
+    "id": 1450,
+    "title": "Основы тестирования в Hext.js",
+    "url": "/tutorials/javascript/next/testing_basics",
+    "chapter": 14,
+    "keywords": "",
+    "description": "",
+    "name": "testing_basics"
+  },
+  {
+    "id": 1451,
+    "title": "Модульное тестирование",
+    "url": "/tutorials/javascript/next/unit_testing",
+    "chapter": 14,
+    "keywords": "",
+    "description": "",
+    "name": "unit_testing"
+  },
+  {
+    "id": 1452,
+    "title": "Тестирование HTTP-запросов",
+    "url": "/tutorials/javascript/next/http_testing",
+    "chapter": 14,
+    "keywords": "",
+    "description": "",
+    "name": "http_testing"
+  },
+  {
+    "id": 1453,
+    "title": "Использование фабрик и сидеров в тестах",
+    "url": "/tutorials/javascript/next/factories_seeders_testing",
+    "chapter": 14,
+    "keywords": "",
+    "description": "",
+    "name": "factories_seeders_testing"
+  },
+  {
+    "id": 1454,
+    "title": "Подготовка приложения к развертыванию",
+    "url": "/tutorials/javascript/next/deployment_prep",
+    "chapter": 15,
+    "keywords": "",
+    "description": "",
+    "name": "deployment_prep"
+  },
+  {
+    "id": 1455,
+    "title": "Развертывание на различных платформах",
+    "url": "/tutorials/javascript/next/deployment_platforms",
+    "chapter": 15,
+    "keywords": "",
+    "description": "",
+    "name": "deployment_platforms"
+  },
+  {
+    "id": 1456,
+    "title": "Оптимизация производительности",
+    "url": "/tutorials/javascript/next/performance_optimization",
+    "chapter": 15,
+    "keywords": "",
+    "description": "",
+    "name": "performance_optimization"
+  },
+  {
+    "id": 1457,
+    "title": "Установка и использование пакетов",
+    "url": "/tutorials/javascript/next/package_usage",
+    "chapter": 16,
+    "keywords": "",
+    "description": "",
+    "name": "package_usage"
+  },
+  {
+    "id": 1458,
+    "title": "Создание собственных пакетов",
+    "url": "/tutorials/javascript/next/package_creation",
+    "chapter": 16,
+    "keywords": "",
+    "description": "",
+    "name": "package_creation"
+  },
+  {
+    "id": 1459,
+    "title": "Публикация пакетов",
+    "url": "/tutorials/javascript/next/package_publication",
+    "chapter": 16,
+    "keywords": "",
+    "description": "",
+    "name": "package_publication"
+  }
+]

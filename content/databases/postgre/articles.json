@@ -1,0 +1,407 @@
+[
+  {
+    "id": 894,
+    "title": "Что такое PostgreSQL и зачем он нужен",
+    "url": "/tutorials/databases/postgre/intro",
+    "chapter": 1,
+    "keywords": "дежность, Что такое PostgreSQL и зачем он нужен, аналитика данных, СУБД, большие данные, metanit, data warehouse, объектно-реляционная база данных, статьи, MySQL, сообщество, MongoDB, приложения, документация, обучение, репликация, хранение данных, сравнение, habr, транзакции, масштабируемость, обучающие статьи по программированию, недостатки, веб-разработка, хабр, Oracle, progvibe.ru, целостность данных, NoSQL, безопасность, прогвайб, open source, SQL, производительность, выбор СУБД \n, резервное копирование, метанит, реляционная база данных, восстановление, SQL Server, как научиться программировать, ACID, progvibe, бесплатное ПО, программирование, PostgreSQL, поддержка, преимущества",
+    "description": "",
+    "name": "intro"
+  },
+  {
+    "id": 895,
+    "title": "Основные преимущества PostgreSQL",
+    "url": "/tutorials/databases/postgre/advantages-of-postgresql",
+    "chapter": 1,
+    "keywords": "дежность, MVCC, отчетность, metanit, восстановление данных, статьи, отказоустойчивость, типы данных, машинное обучение. \n, изоляция, высокая доступность, обучение, аналитика, репликация, habr, пользовательские функции, открытый код, транзакции, оптимизация запросов, контроль версий, масштабируемость, XML, обучающие статьи по программированию, расширяемость, BI, хабр, долговечность, целостность данных, управление доступом, безопасность, progvibe.ru, SQL, консистентность, производительность, многоверсионная консистентность, геопространственные данные, Основные преимущества PostgreSQL, планировщик запросов, резервное копирование, реляционная база данных, искусственный интеллект, бизнес-аналитика, метанит, как научиться программировать, JSON, ACID-свойства, progvibe, прогвайб, программирование, PostgreSQL, машинная обработка данных",
+    "description": "",
+    "name": "advantages-of-postgresql"
+  },
+  {
+    "id": 896,
+    "title": "История PostgreSQL",
+    "url": "/tutorials/databases/postgre/history-of-postgresql",
+    "chapter": 1,
+    "keywords": "дежность, Berkeley, мобильные приложения, СУБД, функции, metanit, веб-приложения, статьи, сообщество, разработчики, коммерческая поддержка, Ingres, свободное программное обеспечение, документация, обучение, аналитика, репликация, ANSI SQL, habr, система управления базами данных, открытый код, транзакции, объект-реляционная, масштабируемость, обучающие статьи по программированию, предприятия, стабильность, хабр, progvibe.ru, прогвайб, SQL, производительность, история, популярность, резервное копирование, метанит, реляционная база данных, PGDG, восстановление, как научиться программировать, ACID, progvibe, 1980-е, Калифорния, университет, История PostgreSQL, PostgreSQL Global Development Group, программирование, PostgreSQL, расширения, наука о данных. \n, дистрибутивы, стандарт",
+    "description": "",
+    "name": "history-of-postgresql"
+  },
+  {
+    "id": 897,
+    "title": "Установка PostgreSQL на различных операционных системах",
+    "url": "/tutorials/databases/postgre/installing-postgresql",
+    "chapter": 2,
+    "keywords": "тановка, pgAdmin, systemctl, service, добавление данных, репозиторий, metanit, операционная система, конфигурационный файл, подключение к базе данных, статьи, yum, сообщество, Linux, DDL, документация, обучение, psql, форум, терминал, habr, распаковка, brew, создание базы данных, командная строка, права доступа, пакетный менеджер, postgresql.conf, клиент, архив, Windows, учетная запись, обучающие статьи по программированию, справка, хабр, progvibe.ru, прогвайб, запуск сервиса, безопасность, SQL, пароль, создание таблицы, резервное копирование, метанит, Установка PostgreSQL на различных операционных системах, macOS, восстановление, как научиться программировать, progvibe, apt-get, программирование, PostgreSQL, скачивание, pg_hba.conf, DML, поддержка. \n",
+    "description": "",
+    "name": "installing-postgresql"
+  },
+  {
+    "id": 898,
+    "title": "Настройка PostgreSQL после установки",
+    "url": "/tutorials/databases/postgre/configuring-postgresql",
+    "chapter": 2,
+    "keywords": "раметры, установка, права, мониторинг, pgAdmin, документация. \n, Настройка PostgreSQL после установки, пользователи, metanit, инструменты, пароли, статьи, расширения, индексы, аутентификация, схемы, psql, репликация, обучение, habr, Настройка, доступ, командная строка, модули, журнал, администрирование, postgresql.conf, обучающие статьи по программированию, хабр, конфигурация, progvibe.ru, прогвайб, безопасность, производительность, база данных, оптимизация, кластеризация, метанит, таблицы, восстановление, как научиться программировать, progvibe, столбцы, роли, программирование, PostgreSQL, pg_hba.conf, бэкапы, базы данных",
+    "description": "",
+    "name": "configuring-postgresql"
+  },
+  {
+    "id": 899,
+    "title": "Создание базы данных и пользователей в PostgreSQL",
+    "url": "/tutorials/databases/postgre/creating-database-users",
+    "chapter": 2,
+    "keywords": "Admin,  изоляция, metanit, привилегии, статьи, подключение,  целостность. \n, DDL, консоль, CREATE DATABASE, аутентификация, psql, обучение, команды SQL,  согласованность, хранение данных,  колонки, habr, CREATE USER, создание базы данных,  схема, командная строка,  управление данными, клиент, обучающие статьи по программированию, хабр, progvibe.ru,  транзакции, прогвайб, управление доступом,  модель данных, SQL, база данных, авторизация, метанит, Создание базы данных и пользователей в PostgreSQL,  таблицы, как научиться программировать, progvibe, роли, сервер, создание пользователей, программирование, PostgreSQL, DML,  отношения,  безопасность, GRANT,  индексы, REVOKE",
+    "description": "",
+    "name": "creating-database-users"
+  },
+  {
+    "id": 900,
+    "title": "Настройка параметров сервера PostgreSQL",
+    "url": "/tutorials/databases/postgre/configuring-server-parameters",
+    "chapter": 2,
+    "keywords": "раметры,  psql \n, metanit, Настройка параметров сервера PostgreSQL, max_connections, checkpoint_segments, restore, статьи, настройка,  мониторинг,  многопоточность,  pgAdmin, консоль, port, обучение,  concurrent,  журналирование,  масштабирование, терминал,  cluster, habr, work_mem,  авторизация,  backup, progvibe.ru, effective_cache_size, wal_buffers, postgresql.conf, обучающие статьи по программированию, блокировка,  инструменты, конфигурация, команда,  транзакции, WAL, хабр,  аутентификация, редактор,  shared_buffers, производительность, synchronous_commit, оптимизация, метанит,  репликация, как научиться программировать, maintenance_work_mem, progvibe, файл, журнал транзакций, прогвайб, сервер,  replication, программирование, PostgreSQL,  безопасность, listen_addresses",
+    "description": "",
+    "name": "configuring-server-parameters"
+  },
+  {
+    "id": 901,
+    "title": "Консоль psql и управление базами данных",
+    "url": "/tutorials/databases/postgre/psql-console-management",
+    "chapter": 3,
+    "keywords": "hell,  PostgreSQL shell, пользователи, metanit, столбец, restore, статьи, подключение,  режим, обновление,  мониторинг,  отладка, вставка, консоль, обучение, psql, команды, Консоль psql и управление базами данных, habr, запрос,  помощь,  backup, строка, управление, транзакции, права доступа, журнал, клиент, обучающие статьи по программированию, ключ, индекс, откат,  CLI, хабр, progvibe.ru, безопасность, прогвайб, SQL,  интерфейс командной строки, база данных,  интерпретатор, таблица, метанит, ограничения, как научиться программировать, progvibe, выборка,  документация \n, роли, удаление, сервер, программирование, PostgreSQL,  конфигурация",
+    "description": "",
+    "name": "psql-console-management"
+  },
+  {
+    "id": 902,
+    "title": "Создание и удаление баз данных в PostgreSQL",
+    "url": "/tutorials/databases/postgre/creating-dropping-databases",
+    "chapter": 3,
+    "keywords": "раметры,  резервное копирование, кодировка,  утилиты, metanit, создание, DROP DATABASE,  каталог данных, статьи,  pg_restore \n,  pgAdmin, CREATE DATABASE, обучение, команды,  версия,  характерная настройка,  права доступа, habr,  управление,  хранилище,  пароль, обучающие статьи по программированию,  состояние,  пользователь,  инструменты, хабр, progvibe.ru, прогвайб,  восстановление, SQL,  администрирование, владелец, база данных, метанит, как научиться программировать, progvibe, удаление, имя, программирование, PostgreSQL,  psql,  безопасность, Создание и удаление баз данных в PostgreSQL,  pg_dump",
+    "description": "",
+    "name": "creating-dropping-databases"
+  },
+  {
+    "id": 903,
+    "title": "Создание и удаление таблиц в PostgreSQL",
+    "url": "/tutorials/databases/postgre/creating-dropping-tables",
+    "chapter": 3,
+    "keywords": "аление таблиц, metanit, MODIFY COLUMN, статьи, управление данными, типы данных, CREATE TABLE, создание таблиц, RENAME COLUMN, ADD COLUMN, DDL, индексы, обучение, схема базы данных, моделирование данных, команды SQL, TRUNCATE TABLE, DROP COLUMN, habr, внешний ключ, реляционные базы данных, администрирование баз данных. \n, примеры кода, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, SQL, DROP TABLE, метанит, практическое руководство, ограничения, как научиться программировать, progvibe, столбцы, Создание и удаление таблиц в PostgreSQL, первичный ключ, программирование, PostgreSQL, ALTER TABLE, синтаксис SQL, базы данных",
+    "description": "",
+    "name": "creating-dropping-tables"
+  },
+  {
+    "id": 904,
+    "title": "Основные операторы SQL в PostgreSQL",
+    "url": "/tutorials/databases/postgre/basic-sql-operators",
+    "chapter": 3,
+    "keywords": "VING, INDEX, metanit, FULL JOIN, JOIN, GROUP BY, выборка данных, статьи, CREATE TABLE, WHERE, INNER JOIN, обучение, ROLLBACK, COMMIT, RIGHT JOIN, UNION, TRIGGER, SEQUENCE \n, DELETE, INSERT, EXCEPT, VIEW, habr, INTERSECT, FUNCTION, UPDATE, операторы, PRIMARY KEY, DEFAULT, обучающие статьи по программированию, хабр, ORDER BY, progvibe.ru, прогвайб, CHECK, SQL, FOREIGN KEY, OFFSET, DROP TABLE, метанит, UNIQUE, как научиться программировать, progvibe, Основные операторы SQL в PostgreSQL, LIMIT, программирование, PostgreSQL, ALTER TABLE, NOT NULL, TRANSACTION, LEFT JOIN",
+    "description": "",
+    "name": "basic-sql-operators"
+  },
+  {
+    "id": 905,
+    "title": "Типы данных в PostgreSQL",
+    "url": "/tutorials/databases/postgre/data-types",
+    "chapter": 3,
+    "keywords": "pe coercion, real, metanit, array, bigint, char, box, статьи, типы данных, date, data type storage, bytea, inet, circle, polygon, json, character varying, data type validation, data type best practices. \n, обучение, uuid, composite, habr, range, varchar, timestamp, decimal, jsonb, varbit, type casting, enum, domain, integer, line, обучающие статьи по программированию, double precision, Типы данных в PostgreSQL, хабр, data type conversion, text, geography, data type operations, data type functions, progvibe.ru, bit, cidr, timestamp with time zone, data type comparison, geometry, user-defined types, метанит, data type performance, time, data type selection, smallint, point, path, как научиться программировать, progvibe, macaddr, прогвайб, программирование, PostgreSQL, data type constraints, money, numeric, interval, boolean",
+    "description": "",
+    "name": "data-types"
+  },
+  {
+    "id": 906,
+    "title": "SELECT statement в PostgreSQL",
+    "url": "/tutorials/databases/postgre/select-statement",
+    "chapter": 4,
+    "keywords": "gregate functions, query planning, metanit, WITH clause, статьи, NULL values, FROM clause, BETWEEN operator, wildcard character, query, HAVING clause, обучение, COUNT, performance optimization, DISTINCT, transaction isolation levels, habr, subquery, GROUP BY clause, aliases, CASE statement, column, SELECT, indexing, AVG, MAX, IN operator, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, statement, JOIN clause, correlated subquery, SUM, метанит, WHERE clause, data retrieval, как научиться программировать, progvibe, LIMIT clause, ORDER BY clause, table, SELECT statement в PostgreSQL, программирование, PostgreSQL, MIN, LIKE operator, OFFSET clause",
+    "description": "",
+    "name": "select-statement"
+  },
+  {
+    "id": 907,
+    "title": "Условные операторы (WHERE, AND, OR, NOT) в PostgreSQL",
+    "url": "/tutorials/databases/postgre/conditional-operators",
+    "chapter": 4,
+    "keywords": "ловные операторы, сложные запросы, metanit, операторы сравнения, выборка данных, статьи, логические операторы, OR, фильтрация данных, NOT, WHERE, индексы, равенство, SQL-запрос, документация, безопасность. \n,  SQL-инъекции, обучение, объединение условий, синтаксис, habr, неравенство, меньше, оптимизация запросов, Условные операторы (WHERE, AND, OR, NOT) в PostgreSQL, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, SQL, больше, исключение условий, производительность, AND, база данных, примеры, руководство, метанит, реляционная база данных, как научиться программировать, progvibe, программирование, PostgreSQL, практика",
+    "description": "",
+    "name": "conditional-operators"
+  },
+  {
+    "id": 908,
+    "title": "Сортировка данных (ORDER BY) в PostgreSQL",
+    "url": "/tutorials/databases/postgre/sorting-data",
+    "chapter": 4,
+    "keywords": "офилирование, Столбец, metanit, Эффективность, Настройка. \n, Данные, статьи, Реализации, Параметры, Выборка, обучение, Упорядочение, Скорость, Запрос, Индексы, habr, Варианты, ASC, NULLS, обучающие статьи по программированию, Использование, хабр, ORDER BY, progvibe.ru, прогвайб, Сортировка данных (ORDER BY) в PostgreSQL, SQL, LAST, DESC, Примеры, Ключ сортировки, Оптимизация, метанит, Таблица, как научиться программировать, FIRST, progvibe, Документация, программирование, PostgreSQL, Ограничения, Сортировка, Синтаксис, Детализация",
+    "description": "",
+    "name": "sorting-data"
+  },
+  {
+    "id": 909,
+    "title": "Функции агрегации (SUM, AVG, COUNT, MIN, MAX) в PostgreSQL",
+    "url": "/tutorials/databases/postgre/aggregate-functions",
+    "chapter": 4,
+    "keywords": "ксимальное значение, количество, отчетность, фильтрация,  реляционные базы данных \n, агрегатные функции, MIN, metanit, Функции агрегации (SUM, AVG, COUNT, MIN, MAX) в PostgreSQL, столбец, статьи, суммирование, группировка, агрегация данных,  язык запросов,  разработка, обучение, COUNT, статистика, habr, строка, AVG, MAX, среднее значение, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, SQL, база данных, таблица, анализ данных, SUM, метанит, реляционная база данных, бизнес-аналитика,  SQL-запросы, как научиться программировать, progvibe, запросы, выборка, программирование, PostgreSQL, сортировка, минимальное значение",
+    "description": "",
+    "name": "aggregate-functions"
+  },
+  {
+    "id": 910,
+    "title": "Группировка данных (GROUP BY) в PostgreSQL",
+    "url": "/tutorials/databases/postgre/grouping-data",
+    "chapter": 4,
+    "keywords": "атегория, группировка данных, HAVING, агрегатные функции, MIN, metanit, столбец, GROUP BY, статьи,  sql, группировка,  минимум, обучение, COUNT,  подсчет,  query,  максимум, habr,  пошаговое руководство,  результаты,  основы,  сумма,  запросы,  время,  дата, AVG, MAX,  таблица,  среднее, обучающие статьи по программированию,  критерии, хабр, ORDER BY, progvibe.ru, прогвайб,  примеры кода \n, SUM, метанит,  использование,  агрегированные данные, как научиться программировать, progvibe,  фильтрация,  количество, Группировка данных (GROUP BY) в PostgreSQL, программирование, PostgreSQL,  примеры, сортировка",
+    "description": "",
+    "name": "grouping-data"
+  },
+  {
+    "id": 911,
+    "title": "Фильтрация групп (HAVING) в PostgreSQL",
+    "url": "/tutorials/databases/postgre/having-clause",
+    "chapter": 4,
+    "keywords": "VING, сравнения, анализ, фильтрация групп, фильтрация, сортировка, IN, агрегатные функции, metanit, Фильтрация групп (HAVING) в PostgreSQL, столбец, GROUP BY, NOT IN, статьи, группировка, отчетность \n, равенство, обучение, COUNT, логический, агрегирование, статистика, DISTINCT, habr, запрос, неравенство, меньше, данные, AVG, MAX, обучающие статьи по программированию, результат, хабр, ORDER BY, progvibe.ru, прогвайб, SQL, больше, таблица, LIKE, SUM, метанит, как научиться программировать, progvibe, выборка, функция, группы, условие, программирование, оператор, PostgreSQL, BETWEEN, MIN",
+    "description": "",
+    "name": "having-clause"
+  },
+  {
+    "id": 912,
+    "title": "Операторы LIKE и IN в PostgreSQL",
+    "url": "/tutorials/databases/postgre/like-in-operators",
+    "chapter": 4,
+    "keywords": "SE WHEN, IN, metanit, рекомендации, статьи, шаблоны, регулярные выражения, индексы, обучение, поиск, синтаксис, строки, Операторы LIKE и IN в PostgreSQL, сравнение, habr, %, LIKE vs IN, условия, операторы, данные, подстановочные символы, лучшие практики, советы \n, обучающие статьи по программированию, эффективность, сопоставление, хабр, progvibe.ru, прогвайб, выбор, SQL, примеры, база данных, оптимизация, LIKE, метанит, _, ограничения, ошибки, как научиться программировать, progvibe, выборка, использование, альтернативы, программирование, PostgreSQL",
+    "description": "",
+    "name": "like-in-operators"
+  },
+  {
+    "id": 913,
+    "title": "Типы соединений (INNER JOIN, LEFT JOIN, RIGHT JOIN) в PostgreSQL",
+    "url": "/tutorials/databases/postgre/join-types",
+    "chapter": 5,
+    "keywords": "ализ, отчетность, фильтрация, metanit, OUTER JOIN, JOIN, статьи, работа с данными, INNER JOIN, преимущества, обучение, RIGHT JOIN, синтаксис, строки, habr, внешний ключ, данные, условия, реляционные базы данных, объединение, обучающие статьи по программированию, результат, недостатки, хабр, progvibe.ru, прогвайб, SQL, примеры, отношения, производительность, ключи, оптимизация, база данных, Типы соединений (INNER JOIN, LEFT JOIN, RIGHT JOIN) в PostgreSQL, метанит, таблицы, как научиться программировать, progvibe, запросы, выборка, использование, столбцы, визуализация \n, первичный ключ, программирование, PostgreSQL, практика, описание, LEFT JOIN, связи",
+    "description": "",
+    "name": "join-types"
+  },
+  {
+    "id": 914,
+    "title": "Подзапросы (Subqueries) в PostgreSQL",
+    "url": "/tutorials/databases/postgre/subqueries",
+    "chapter": 5,
+    "keywords": ", агрегатные функции, metanit, операторы сравнения, JOIN, выборка данных, статьи, nested queries,  использование подзапросов в SELECT, ANY, WHERE, использование подзапросов, обучение, COUNT, подзапросы, UNION, EXCEPT, habr, Subqueries,  вложенные запросы, независимые подзапросы, вложенные запросы, ALL, correlated subqueries, INTERSECT, оптимизация запросов,  коррелированные подзапросы, Подзапросы (Subqueries) в PostgreSQL, SELECT, реляционные базы данных, MAX, AVG, обучающие статьи по программированию, недостатки, хабр, progvibe.ru, прогвайб, SQL, примеры, производительность,  использование подзапросов в WHERE, FROM, SUM,  использование подзапросов в FROM. \n, метанит, практические применения, как научиться программировать, progvibe, альтернативы, программирование, PostgreSQL, структура запросов, MIN, EXISTS, базы данных, преимущества",
+    "description": "",
+    "name": "subqueries"
+  },
+  {
+    "id": 915,
+    "title": "Соединение таблиц по нескольким столбцам в PostgreSQL",
+    "url": "/tutorials/databases/postgre/multi-column-joins",
+    "chapter": 5,
+    "keywords": "авнение столбцов, фильтрация, metanit, FULL JOIN, JOIN, объединение данных, выборка данных, статьи, составной ключ, INNER JOIN, соединение таблиц, совпадение, обучение, NATURAL JOIN, RIGHT JOIN, primary key, habr, CROSS JOIN, оптимизация запросов, Соединение таблиц по нескольким столбцам в PostgreSQL, корреляция данных, обучающие статьи по программированию, ON, ключ соединения, хабр, progvibe.ru, прогвайб, foreign key, SQL, производительность, отношения, ключи, база данных, JOIN тип, анализ данных, метанит, WHERE clause, реляционная база данных, как научиться программировать, множественные ключи, progvibe, JOIN condition, USING, программирование, PostgreSQL, несколько столбцов,  индексы\n, LEFT JOIN, связи",
+    "description": "",
+    "name": "multi-column-joins"
+  },
+  {
+    "id": 916,
+    "title": "Самосоединение таблицы (Self-join) в PostgreSQL",
+    "url": "/tutorials/databases/postgre/self-join",
+    "chapter": 5,
+    "keywords": "ловия соединения, ключевой столбец, metanit, дочерняя таблица, упражнения. \n, родительская таблица, JOIN, объединение данных, выборка данных, статьи, рекурсия, дерево, Самосоединение таблицы (Self-join) в PostgreSQL, обучение, учебник, таблица с самой собой, запросы на выборку, habr, отношения \"многие ко многим\", самосоединение таблицы, самосоединение, иерархические данные, рекурсивные запросы, оптимизация запросов, самосвязанные данные, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, SQL, примеры, производительность, руководство, алиасы, метанит, как научиться программировать, progvibe, отношения \"один ко многим\", программирование, PostgreSQL, практика, отношения \"один к одному\", повторяющиеся записи, связи",
+    "description": "",
+    "name": "self-join"
+  },
+  {
+    "id": 917,
+    "title": "Вставка данных (INSERT INTO) в PostgreSQL",
+    "url": "/tutorials/databases/postgre/insert-statement",
+    "chapter": 6,
+    "keywords": "OPY, metanit, столбец,  функция, статьи, вставка данных,  дубликаты,  CURRENT_TIMESTAMP, обучение, ROLLBACK, COMMIT, IDENTITY,  ошибки, синтаксис, последовательность, habr, VALUES,  NOW(),  триггер,  время,  stored procedure,  импорт,  исключения, значение,  дата, PRIMARY KEY, Вставка данных (INSERT INTO) в PostgreSQL, DEFAULT, обучающие статьи по программированию, INSERT INTO,  экспорт \n, хабр, progvibe.ru, прогвайб,  конфликт, SQL, ключевое слово, CONSTRAINT, FOREIGN KEY, автогенерация, таблица, NULL, метанит,  timestamp, UNIQUE, как научиться программировать, progvibe, SERIAL, программирование, PostgreSQL,  batch insert, TRANSACTION",
+    "description": "",
+    "name": "insert-statement"
+  },
+  {
+    "id": 918,
+    "title": "Обновление данных (UPDATE) в PostgreSQL",
+    "url": "/tutorials/databases/postgre/update-statement",
+    "chapter": 6,
+    "keywords": "HERE CURRENT OF,  блокировка,  serializable,  изоляция, metanit, столбец, JOIN, статьи, обновление,  многопоточность, WHERE,  SET, обучение,  согласованность,  read committed,  UPDATE ... RETURNING, habr,  isolation level, транзакция,  concurrent update, строка,  атомарность, UPDATE,  ACID. \n, обучающие статьи по программированию, индекс, хабр, progvibe.ru, прогвайб,  конфликт,  transaction isolation,  snapshot isolation, SQL, оптимизация, база данных, FROM,  MVCC, метанит, запись,  долговечность, как научиться программировать, progvibe, Обновление данных (UPDATE) в PostgreSQL, программирование, PostgreSQL,  performance,  параллелизм",
+    "description": "",
+    "name": "update-statement"
+  },
+  {
+    "id": 919,
+    "title": "Удаление данных (DELETE) в PostgreSQL",
+    "url": "/tutorials/databases/postgre/delete-statement",
+    "chapter": 6,
+    "keywords": "tanit, VACUUM, предупреждения, документация PostgreSQL \n, статьи, WHERE, индексы, консоль, документация, обучение, psql, команды, Удаление данных (DELETE) в PostgreSQL, синтаксис, удаление данных, строки, DELETE, триггеры, habr, каскадное удаление, внешний ключ, ANALYZE, транзакции, права доступа, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, безопасность, SQL, примеры, производительность, оптимизация, таблица, метанит, запись, ограничения, ошибки, восстановление, как научиться программировать, progvibe, столбцы, условие, откаты, первичный ключ, программирование, PostgreSQL, бэкапы",
+    "description": "",
+    "name": "delete-statement"
+  },
+  {
+    "id": 920,
+    "title": "Транзакции (BEGIN TRANSACTION, COMMIT, ROLLBACK) в PostgreSQL",
+    "url": "/tutorials/databases/postgre/transactions",
+    "chapter": 6,
+    "keywords": "тимизация производительности, изоляционные уровни, metanit, REPEATABLE READ, статьи, изоляция, DDL, атомарность, обучение, ROLLBACK, COMMIT, habr, SERIALIZABLE, исключения SQL, транзакции, лучшие практики, SNAPSHOT, транзакционный журнал, конкурентный доступ, обучающие статьи по программированию, блокировка, откат, хабр, справка. \n, долговечность, progvibe.ru, WAL, прогвайб, SQL, примеры, руководство, Транзакции (BEGIN TRANSACTION, COMMIT, ROLLBACK) в PostgreSQL, согласованность, управление ошибками, метанит, восстановление, ошибки, исключения, как научиться программировать, ACID, progvibe, параллелизм, BEGIN TRANSACTION, управление транзакциями, программирование, PostgreSQL, DML, READ COMMITTED",
+    "description": "",
+    "name": "transactions"
+  },
+  {
+    "id": 921,
+    "title": "Индексы в PostgreSQL",
+    "url": "/tutorials/databases/postgre/indexes-in-postgresql",
+    "chapter": 7,
+    "keywords": "стродействие, Обновление индексов, GIN индекс, Операторы, Индексные выражения, B-дерево, Планировщик запросов, Кластерный индекс, metanit, VACUUM, PostgreSQL 13, PostgreSQL 14, статьи, БД, Создание индексов, Поиск, AUTOVACUUM, Параметры, PostgreSQL 15, обучение, Схемы, Масштабирование, Индексы, habr, Настройка, PostgreSQL 9.4. \n, ANALYZE, Сортировка, PostgreSQL 11, обучающие статьи по программированию, Удаление индексов, PostgreSQL 9.5, Производительность, хабр, progvibe.ru, PostgreSQL 9.6, прогвайб, Уникальность, SQL, Индексы в PostgreSQL, Hash индекс, Таблицы, Столбцы, Оптимизация, PostgreSQL 10, метанит, Базы данных, как научиться программировать, progvibe, EXPLAIN, BRIN индекс, программирование, Некластерный индекс, Функции, PostgreSQL, Запросы, GiST индекс, PostgreSQL 12",
+    "description": "",
+    "name": "indexes-in-postgresql"
+  },
+  {
+    "id": 922,
+    "title": "Использование индексов для оптимизации запросов в PostgreSQL",
+    "url": "/tutorials/databases/postgre/using-indexes",
+    "chapter": 7,
+    "keywords": "ератор ORDER BY, pgAdmin, B-дерево, metanit, преимущества индексов, рекомендации, выборка данных, best practices, статьи, создание индексов, индексы, соединение таблиц, обучение, HASH, оператор WHERE, влияние индексов на запись данных, habr, pg_stat_user_tables, pg_statio_user_tables, последовательное сканирование, стоимость запроса, недостатки индексов, анализ производительности, удаление индексов, GIN, оператор GROUP BY, обучающие статьи по программированию, оптимизация запросов с помощью индексов, хабр, progvibe.ru, прогвайб, примеры, условия фильтрации, производительность, GIST, оптимизация, планировщик запросов, метанит, анализ использования индексов, Использование индексов для оптимизации запросов в PostgreSQL, как научиться программировать, progvibe, запросы, EXPLAIN, программирование, оптимизатор запросов, PostgreSQL, выбор типа индекса, использование индексов в реальных сценариях. \n, индексное сканирование, план запроса",
+    "description": "",
+    "name": "using-indexes"
+  },
+  {
+    "id": 923,
+    "title": "Оптимизация запросов SQL в PostgreSQL",
+    "url": "/tutorials/databases/postgre/sql-query-optimization",
+    "chapter": 7,
+    "keywords": "тимизация производительности, быстродействие, B-дерево, функции, metanit, статьи, Оптимизация запросов SQL в PostgreSQL, vacuum, индексы, обучение, реляционные базы данных. \n, подзапросы, join, агрегирование, представления, EXPLAIN ANALYZE, habr, стоимость запроса, оптимизация запросов, условия, операторы, GIN, обучающие статьи по программированию, хабр, progvibe.ru, статистики, прогвайб, SQL, производительность, GIST, профилирование, предикат, планировщик запросов, анализатор запросов, analyze, таблицы, метанит, как научиться программировать, progvibe, столбцы, EXPLAIN, программирование, PostgreSQL, materialized views, сортировка, базы данных",
+    "description": "",
+    "name": "sql-query-optimization"
+  },
+  {
+    "id": 924,
+    "title": "Создание и вызов функций в PostgreSQL",
+    "url": "/tutorials/databases/postgre/creating-calling-functions",
+    "chapter": 8,
+    "keywords": "раметры, вызов, абстракция, хранимые процедуры, Создание и вызов функций в PostgreSQL, metanit, создание, PL/pgSQL, выходные данные, статьи, возвращаемое значение, документация, обучение, учебник, язык программирования, триггеры, habr, императивный стиль, детерминированные функции, примеры кода, обучающие статьи по программированию, декларативный стиль, хабр, progvibe.ru, прогвайб, управление доступом, безопасность, SQL, производительность, руководство, оптимизация, входные данные, процедуры, процедурный язык, повторное использование, метанит, рефакторинг, модульность, как научиться программировать, функция, progvibe, практическое руководство \n, программирование, PostgreSQL, недетерминированные функции",
+    "description": "",
+    "name": "creating-calling-functions"
+  },
+  {
+    "id": 925,
+    "title": "Создание и вызов хранимых процедур в PostgreSQL",
+    "url": "/tutorials/databases/postgre/creating-calling-procedures",
+    "chapter": 8,
+    "keywords": "раметры, вызов, хранимые процедуры, отладка, управление правами, RETURNS, IN, создание, PL/pgSQL, функции, metanit, REFCURSOR, best practices, статьи, возвращаемые значения, рекурсия, Создание и вызов хранимых процедур в PostgreSQL, документация, пример кода, многопоточность. \n, обучение, debug, тестирование, CREATE PROCEDURE, синтаксис, триггеры, habr, инструкции, CALL, LANGUAGE, потоки, транзакции, лучшие практики, масштабируемость, курсоры, обучающие статьи по программированию, блокировка, хабр, progvibe.ru, прогвайб, безопасность, SQL, примеры, производительность, оптимизация, обработка ошибок, повторное использование, авторизация, OUT, метанит, исключения, ошибки, рефакторинг, модульность, как научиться программировать, параллелизм, progvibe, программирование, PostgreSQL, переменные, INOUT, triggers",
+    "description": "",
+    "name": "creating-calling-procedures"
+  },
+  {
+    "id": 926,
+    "title": "Параметры функций и процедур в PostgreSQL",
+    "url": "/tutorials/databases/postgre/function-procedure-parameters",
+    "chapter": 8,
+    "keywords": "раметры, побочные эффекты, документация. \n, функции, metanit, PL/pgSQL, рекурсивные функции, управление данными, типы данных, статьи, функции с возвращаемым значением, функции без возвращаемого значения, обучение, вывод данных, синтаксис, habr, входные параметры, процедуры с возвращаемым значением, передача значений, обучающие статьи по программированию, процедуры без возвращаемого значения, хабр, модификация данных, progvibe.ru, прогвайб, аггрегатные функции, безопасность, примеры, декларация параметров, SQL, производительность, оптимизация, ввод данных, процедуры, метанит, как научиться программировать, progvibe, использование, Параметры функций и процедур в PostgreSQL, выходные параметры, программирование, архитектура, PostgreSQL, переменные, функции окон",
+    "description": "",
+    "name": "function-procedure-parameters"
+  },
+  {
+    "id": 927,
+    "title": "Рекурсия в функциях PostgreSQL",
+    "url": "/tutorials/databases/postgre/recursion-in-postgresql",
+    "chapter": 8,
+    "keywords": "убина, листовой узел, функции, путь, metanit, дочерние узлы, рекурсивные функции, статьи, рекурсия, графы, обучение, бесконечная рекурсия, родительский узел, инфиксный обход, оптимизация рекурсии, habr, WITH RECURSIVE, циклы, остановка рекурсии, иерархические данные, древовидные структуры, потомки, обучающие статьи по программированию, CTE, хабр, progvibe.ru, прогвайб, постфиксный обход, обход дерева, узлы, примеры, производительность, Рекурсия в функциях PostgreSQL, практическое применение. \n, предки, циклические запросы, метанит, корневой узел, префиксный обход, как научиться программировать, progvibe, использование, условия выхода, LIMIT, уровень, программирование, PostgreSQL, обход графа, связи",
+    "description": "",
+    "name": "recursion-in-postgresql"
+  },
+  {
+    "id": 928,
+    "title": "Управление доступом к данным (GRANT, REVOKE) в PostgreSQL",
+    "url": "/tutorials/databases/postgre/grant-revoke",
+    "chapter": 9,
+    "keywords": "литик, пользователи, функции, разрешения, metanit, привилегии, статьи, управление данными, ALTER, целостность, объекты, схемы, аутентификация, обучение, контроль доступа, DROP, DELETE, INSERT, представления, доступность. \n, habr, управление доступом к данным, Управление доступом к данным (GRANT, REVOKE) в PostgreSQL, UPDATE, конфиденциальность, администрирование, SELECT, обучающие статьи по программированию, хабр, progvibe.ru, прогвайб, безопасность, безопасность данных, процедуры, авторизация, метанит, ограничения, таблицы, как научиться программировать, progvibe, столбцы, роли, программирование, PostgreSQL, GRANT, REVOKE, базы данных, CREATE",
+    "description": "",
+    "name": "grant-revoke"
+  },
+  {
+    "id": 929,
+    "title": "Роли и привилегии в PostgreSQL",
+    "url": "/tutorials/databases/postgre/roles-privileges",
+    "chapter": 9,
+    "keywords": "министратор, OWNED BY, политика безопасности, metanit, WITH GRANT OPTION, разрешение, столбец, статьи, ALTER, настройка, руководство. \n, процедура, привилегия, документация, схема, объект, PUBLIC, аутентификация, обучение, контроль доступа, DROP, habr, лучшая практика, доступ, управление, Роли и привилегии в PostgreSQL, обучающие статьи по программированию, Роль, хабр, progvibe.ru, пользователь, прогвайб, безопасность, база данных, таблица, авторизация, метанит, как научиться программировать, progvibe, функция, SUPERUSER, программирование, PostgreSQL, группа,  конфигурация, GRANT, REVOKE, CREATE",
+    "description": "",
+    "name": "roles-privileges"
+  },
+  {
+    "id": 930,
+    "title": "Защита от SQL-инъекций в PostgreSQL",
+    "url": "/tutorials/databases/postgre/sql-injection-prevention",
+    "chapter": 9,
+    "keywords": "звимость, хранимые процедуры, фильтрация,  безопасность приложений,  SQL injection prevention, metanit, веб-приложения,  безопасные функции,  аудит, статьи, параметризация,  мониторинг, обучение,  управление рисками, валидация, habr, защита, предотвращение, SQL-инъекции, Prepared Statements,  политики безопасности, обучающие статьи по программированию, биндинг,  web application security. \n, хабр, blacklist,  database security, progvibe.ru, прогвайб, безопасность,  функции безопасности, SQL, база данных, escape-последовательности,  application security,  проверка типов данных, метанит, Защита от SQL-инъекций в PostgreSQL,  PostgreSQL security, как научиться программировать, progvibe, запросы,  регулярные выражения, whitelist, программирование,  input sanitization, PostgreSQL, подготовка,  DevSecOps,  разработка безопасных приложений",
+    "description": "",
+    "name": "sql-injection-prevention"
+  },
+  {
+    "id": 931,
+    "title": "JSON в PostgreSQL",
+    "url": "/tutorials/databases/postgre/json-in-postgresql",
+    "chapter": 10,
+    "keywords": "налитика \n,  NoSQL, фильтрация,  API, metanit, статьи,  сравнение, структура,  поиск, JSON в PostgreSQL, объекты, обучение, формат, данных, habr,  преобразование, JSONB, доступ, парсинг,  приложения,  функции, GIN, обучающие статьи по программированию,  веб-разработка, хабр, progvibe.ru, прогвайб, вложенность, производительность,  операторы, оптимизация, ключи, метанит, индексация, хранение, JSON, запросы, как научиться программировать, progvibe, программирование,  размер, PostgreSQL, значения,  агрегация, массивы",
+    "description": "",
+    "name": "json-in-postgresql"
+  },
+  {
+    "id": 932,
+    "title": "XML в PostgreSQL",
+    "url": "/tutorials/databases/postgre/xml-in-postgresql",
+    "chapter": 10,
+    "keywords": "нкции, metanit,  архитектура,  аудит, статьи, обновление,  поиск,  отладка, документация, вставка,  разработка, обучение, хранение данных, валидация, habr, инструкции,  расширяемость,  управление, парсинг,  моделирование данных, транзакции, XML, обучающие статьи по программированию, XPath, хабр, XQuery, progvibe.ru, прогвайб, безопасность,  индексация, примеры,  модель угроз \n, производительность,  практика, оптимизация, XML в PostgreSQL,  масштабируемость, журналы, метанит, как научиться программировать, progvibe, запросы, выборка,  поддержка, удаление, программирование,  решение проблем, PostgreSQL,  безопасность, расширения, контроль доступа",
+    "description": "",
+    "name": "xml-in-postgresql"
+  },
+  {
+    "id": 933,
+    "title": "Работа с массивами в PostgreSQL",
+    "url": "/tutorials/databases/postgre/arrays-in-postgresql",
+    "chapter": 10,
+    "keywords": "ресечение массивов, индекс элемента, агрегатные функции, функции массивов, metanit, статьи, операции над элементами, обновление массивов, элементы массива, документация, обучение, выборка из массивов, создание массивов, habr, сортировка массивов, разность массивов, операторы, длина массива, фильтрация элементов, примеры кода, обучающие статьи по программированию, индексация массивов, хабр, объединение массивов, вложенные массивы, справка. \n, progvibe.ru, прогвайб, SQL, примеры, операции сравнения, производительность, оптимизация, Работа с массивами в PostgreSQL, работа с массивами, поиск элемента, многомерные массивы, практическое применение, метанит, сравнение массивов, размер массива, как научиться программировать, запросы, progvibe, программирование, PostgreSQL, удаление элементов, позиция элемента, массивы",
+    "description": "",
+    "name": "arrays-in-postgresql"
+  },
+  {
+    "id": 934,
+    "title": "Оконные функции (Window functions) в PostgreSQL",
+    "url": "/tutorials/databases/postgre/window-functions",
+    "chapter": 10,
+    "keywords": "UME_DIST,  NTILE, metanit, статьи, DENSE_RANK,  RANK, Оконные функции,  Предыдущие значения, Окна, ROWS, FIRST_VALUE,  SQL, обучение,  ROW_NUMBER, Оконные функции (Window functions) в PostgreSQL,  Анализ временных рядов,  NTH_VALUE,  Статистический анализ, RANGE, habr,  Группировка, Window functions,  PARTITION BY, обучающие статьи по программированию,  Управление данными. \n, хабр, ORDER BY, progvibe.ru,  LAG, прогвайб, PERCENT_RANK, LAST_VALUE,  Запросы, метанит,  FRAME_CLAUSE,  Базы данных, как научиться программировать, progvibe,  Сводные данные,  Агрегатные функции,  Сортировка, программирование, PostgreSQL,  Следующие значения,  Промежуточные значения, LEAD",
+    "description": "",
+    "name": "window-functions"
+  },
+  {
+    "id": 935,
+    "title": "Временные таблицы в PostgreSQL",
+    "url": "/tutorials/databases/postgre/temporary-tables",
+    "chapter": 10,
+    "keywords": "",
+    "description": "",
+    "name": "temporary-tables"
+  },
+  {
+    "id": 936,
+    "title": "Установка и использование расширений в PostgreSQL",
+    "url": "/tutorials/databases/postgre/installing-using-extensions",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "installing-using-extensions"
+  },
+  {
+    "id": 937,
+    "title": "Популярные расширения PostgreSQL",
+    "url": "/tutorials/databases/postgre/popular-extensions",
+    "chapter": 11,
+    "keywords": "",
+    "description": "",
+    "name": "popular-extensions"
+  },
+  {
+    "id": 938,
+    "title": "Основные проблемы и их решения в PostgreSQL",
+    "url": "/tutorials/databases/postgre/common-issues-solutions",
+    "chapter": 12,
+    "keywords": "",
+    "description": "",
+    "name": "common-issues-solutions"
+  }
+]

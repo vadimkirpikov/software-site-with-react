@@ -1,0 +1,22 @@
+[
+  {
+    "id": 49,
+    "name": "general",
+    "title": "C#",
+    "preview": null,
+    "lang_id": 25,
+    "url": "/tutorials/csharp/general/intro",
+    "description": "Учитесь создавать мощные приложения с C#\n",
+    "keywords": null
+  },
+  {
+    "id": 50,
+    "name": "asp-net-core",
+    "title": "ASP .NET Core",
+    "preview": null,
+    "lang_id": 25,
+    "url": "/tutorials/csharp/asp-net-core/intro",
+    "description": "Узнайте, как создавать веб-приложения с ASP.NET Core.\n",
+    "keywords": null
+  }
+]

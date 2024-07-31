@@ -1,4 +1,42 @@
 [
-  {"url": "/python/general/intro", "title": "Python", "description": "Общее руководство Python"},
-  {"url": "/python/django/intro", "title": "Django", "description": "Общее руководство Django"}
+  {
+    "id": 36,
+    "name": "general",
+    "title": "Python",
+    "preview": null,
+    "lang_id": 21,
+    "url": "/tutorials/python/general/intro",
+    "description": "Изучите Python для создания программ и автоматизации задач. \n",
+    "keywords": null
+  },
+  {
+    "id": 37,
+    "name": "django",
+    "title": "Django",
+    "preview": null,
+    "lang_id": 21,
+    "url": "/tutorials/python/django/intro",
+    "description": "Создавайте веб-приложения с Django: легко и быстро.\n",
+    "keywords": null
+  },
+  {
+    "id": 38,
+    "name": "flask",
+    "title": "Flask",
+    "preview": null,
+    "lang_id": 21,
+    "url": "/tutorials/python/flask/intro",
+    "description": "Создайте веб-приложения на Python с Flask. \n",
+    "keywords": null
+  },
+  {
+    "id": 39,
+    "name": "fastapi",
+    "title": "FastAPI",
+    "preview": null,
+    "lang_id": 21,
+    "url": "/tutorials/python/fastapi/intro",
+    "description": "Создавайте высокопроизводительные API с помощью FastAPI.\n",
+    "keywords": null
+  }
 ]
