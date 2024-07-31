@@ -60,14 +60,15 @@ def login_view(request):
 ```
 
 **Пример шаблона `login.html`**:
-
+{% raw %}
 ```html
 <form method="post">
-    <input type="hidden" name="csrfmiddlewaretoken" value="{{ csrf_token }}">
+    {% csrf_token %}
     {{ form.as_p }}
     <button type="submit">Войти</button>
 </form>
 ```
+{% endraw %}
 
 ### Выход из системы
 
