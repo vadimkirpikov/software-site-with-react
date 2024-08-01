@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/software-site-with-react/static/css/main.c86aee66.css",
-    "main.js": "/software-site-with-react/static/js/main.e104aa3b.js",
-    "static/media/sun-8780.svg": "/software-site-with-react/static/media/sun-8780.17a28d7bf9f3306928af8da7c90cb301.svg",
-    "static/media/dark-mode-6682.svg": "/software-site-with-react/static/media/dark-mode-6682.58fcced808ace81e6affd14af89b6232.svg",
-    "index.html": "/software-site-with-react/index.html",
-    "main.c86aee66.css.map": "/software-site-with-react/static/css/main.c86aee66.css.map",
-    "main.e104aa3b.js.map": "/software-site-with-react/static/js/main.e104aa3b.js.map"
+    "main.css": "/static/css/main.c86aee66.css",
+    "main.js": "/static/js/main.afa520e4.js",
+    "static/media/sun-8780.svg": "/static/media/sun-8780.17a28d7bf9f3306928af8da7c90cb301.svg",
+    "static/media/dark-mode-6682.svg": "/static/media/dark-mode-6682.58fcced808ace81e6affd14af89b6232.svg",
+    "index.html": "/index.html",
+    "main.c86aee66.css.map": "/static/css/main.c86aee66.css.map",
+    "main.afa520e4.js.map": "/static/js/main.afa520e4.js.map"
   },
   "entrypoints": [
     "static/css/main.c86aee66.css",
-    "static/js/main.e104aa3b.js"
+    "static/js/main.afa520e4.js"
   ]
 }
