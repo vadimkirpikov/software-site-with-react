@@ -68,7 +68,7 @@ Route::post('/logout', function () {
 });
 ```
 
-```blade
+```html
 <form method="POST" action="/logout">
     @csrf
     <button type="submit">Выйти</button>

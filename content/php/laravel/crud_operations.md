@@ -69,7 +69,7 @@
 
    Создайте файл `resources/views/products/create.blade.php` и добавьте HTML-форму:
 
-   ```blade
+   ```html
    <h1>Добавить новый продукт</h1>
    <form method="POST" action="{{ route('products.store') }}">
        @csrf
@@ -158,7 +158,7 @@
 
    Создайте файл `resources/views/products/index.blade.php` и выведите список продуктов:
 
-   ```blade
+   ```html
    <h1>Список продуктов</h1>
    <ul>
        @foreach ($products as $product)
@@ -190,7 +190,7 @@
 
    Создайте файл `resources/views/products/edit.blade.php` и добавьте форму:
 
-   ```blade
+   ```html
    <h1>Редактировать продукт</h1>
    <form method="POST" action="{{ route('products.update', $product) }}">
        @csrf
@@ -237,7 +237,7 @@
 
 1. **Добавление кнопки удаления в `index.blade.php`:**
 
-   ```blade
+   ```html
    <form method="POST" action="{{ route('products.destroy', $product) }}">
        @csrf
        @method('DELETE')

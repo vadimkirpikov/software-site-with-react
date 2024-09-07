@@ -89,7 +89,7 @@ class AuthController extends Controller
 
 Если валидация не пройдена, Laravel автоматически перенаправит пользователя обратно на предыдущую страницу и передаст ошибки валидации. Отобразить эти ошибки можно с помощью  `$errors` объекта в шаблоне Blade:
 
-```blade
+```html
 @if ($errors->any())
     <div class="alert alert-danger">
         <ul>

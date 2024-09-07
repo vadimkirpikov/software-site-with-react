@@ -8,7 +8,7 @@
 
 **Пример файла .env:**
 
-```dotenv
+```
 APP_NAME=Laravel
 APP_ENV=local
 APP_KEY=base64:YiitO7A/tS/n2FUSPykP724rF6w2vSObTZ16v2n=

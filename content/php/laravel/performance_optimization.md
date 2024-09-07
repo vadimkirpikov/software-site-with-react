@@ -45,7 +45,7 @@ $users = Cache::remember('users', 60, function () {
 
 Laravel позволяет кэшировать целые фрагменты представлений с помощью директив Blade:
 
-```blade
+```html
 @cache('latest_posts', 60)
     // Дорогостоящий код для отображения последних постов
 @endcache

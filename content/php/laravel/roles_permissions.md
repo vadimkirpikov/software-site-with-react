@@ -144,7 +144,7 @@
 
    Библиотека Spatie Laravel Permissions предоставляет удобные директивы Blade для проверки ролей и прав прямо в шаблонах:
 
-   ```blade
+   ```html
    @role('admin')
        <a href="/admin">Панель администратора</a>
    @endrole

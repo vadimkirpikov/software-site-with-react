@@ -64,7 +64,7 @@
   },
   {
     "id": 1698,
-    "title": "Основные операции CRUD Create,Read,Update,DeleteCreate, Read, Update, DeleteCreate,Read,Update,Delete",
+    "title": "Основные операции CRUD Create, Read, Update, Delete",
     "url": "/tutorials/java/hibernate/crud_operations",
     "chapter": 2,
     "keywords": "",
@@ -100,7 +100,7 @@
   },
   {
     "id": 1702,
-    "title": "Основы HQL HibernateQueryLanguageHibernate Query LanguageHibernateQueryLanguage",
+    "title": "Основы HQL Hibernate Query Language",
     "url": "/tutorials/java/hibernate/hql_basics",
     "chapter": 3,
     "keywords": "",
@@ -181,7 +181,7 @@
   },
   {
     "id": 1711,
-    "title": "Связи между сущностями One−to−One,One−to−Many,Many−to−One,Many−to−ManyOne-to-One, One-to-Many, Many-to-One, Many-to-ManyOne−to−One,One−to−Many,Many−to−One,Many−to−Many",
+    "title": "Связи между сущностями One−to−One, One−to−Many, Many−to−One, Many−to−Many",
     "url": "/tutorials/java/hibernate/entity_relationships",
     "chapter": 5,
     "keywords": "",

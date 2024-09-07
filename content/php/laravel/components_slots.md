@@ -40,7 +40,7 @@ class Alert extends Component
 
 Шаблон компонента содержит HTML-код, который будет отображаться при его использовании:
 
-```blade
+```html
 <div {{ $attributes->merge(['class' => 'alert']) }}>
     {{ $slot }}
 </div>
@@ -52,7 +52,7 @@ class Alert extends Component
 
 Использовать компонент можно в любом Blade-шаблоне:
 
-```blade
+```html
 <x-alert>
     Сообщение об ошибке!
 </x-alert>
@@ -70,7 +70,7 @@ class Alert extends Component
 
 Для передачи данных в компонент можно использовать атрибуты:
 
-```blade
+```html
 <x-alert type="error">
     Сообщение об ошибке!
 </x-alert>
@@ -98,7 +98,7 @@ class Alert extends Component
 
 Теперь значение атрибута `type` доступно в шаблоне компонента:
 
-```blade
+```html
 <div {{ $attributes->merge(['class' => 'alert alert-' . $type]) }}>
     {{ $slot }}
 </div>
@@ -139,7 +139,7 @@ class Alert extends Component
 
 Для определения именованных слотов необходимо использовать директиву `@slot` в шаблоне компонента:
 
-```blade
+```html
 <div {{ $attributes->merge(['class' => 'alert alert-' . $type]) }}>
     @if ($title)
         <h4 class="alert-heading">{{ $title }}</h4>
@@ -153,7 +153,7 @@ class Alert extends Component
 
 Для передачи данных в именованный слот используется атрибут `name`:
 
-```blade
+```html
 <x-alert type="warning">
     <x-slot name="title">
         Внимание!

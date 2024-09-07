@@ -36,7 +36,7 @@ composer require intervention/image
 
 Предложим, у нас есть форма загрузки изображения:
 
-```blade
+```html
 <form method="POST" action="/images" enctype="multipart/form-data">
     @csrf
     <input type="file" name="image">
@@ -87,7 +87,7 @@ php artisan storage:link
 
 Теперь мы можем отобразить миниатюру на странице:
 
-```blade
+```html
 <img src="{{ asset('storage/thumbnails/' . $imagePath) }}" alt=""> 
 ```
 

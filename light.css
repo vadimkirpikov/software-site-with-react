@@ -1,108 +1,80 @@
 @import "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github.css";
 :root {
-    --bg-color: white;
-    --main-color: #0d1117;
+    --bg-light-color: white;
+    --main-light-color: #0d1117;
 }
 body {
-    background-color: white;
-    color: #0d1117;
+    background-color: var(--bg-light-color);
+    color: var(--main-light-color);
 }
 header{
-    border-bottom: 2px solid #0d1117;
-    color:#0d1117;
-    background-color: white;
+    border-bottom: 2px solid var(--main-light-color);
+    color:var(--main-light-color);
+    background-color: var(--bg-light-color);
 }
-code::-webkit-scrollbar-track {
+code::-webkit-scrollbar-track,
+.vertical-menu-content::-webkit-scrollbar-track{
     background: transparent;
 }
 
-code::-webkit-scrollbar-thumb {
-    background-color: #0d1117;
+code::-webkit-scrollbar-thumb,
+.vertical-menu-content::-webkit-scrollbar-thumb{
+    background-color: var(--main-light-color);
 }
-
+code::-webkit-scrollbar-thumb:hover,
+.vertical-menu-content::-webkit-scrollbar-thumb:hover{
+    background-color: #555555;
+}
 .menu-button {
-    background-color: white;
+    background-color: var(--bg-light-color);
 }
 .menu-button span {
-    background-color: #0d1117;
+    background-color: var(--main-light-color);
 }
 .vertical-menu-content{
-    background-color:white;
-    border-color: #0d1117;
+    background-color:var(--bg-light-color);
+    border-color: var(--main-light-color);
 }
 .item{
     background-color: #555555;
-    color: white;
+    color: var(--bg-light-color);
 }
-.item:hover {
-    background-color: lightblue;
+.item:hover, .selected {
+    background-color: lightgreen;
+    color: var(--main-light-color);
 }
-table{
-    border: 2px solid #0d1117;
+table, pre{
+    border: 2px solid var(--main-light-color);
 }
 td, th{
-    border: 3px solid #0d1117;
+    border: 3px solid var(--main-light-color);
 }
 code {
-    color: #0d1117;
-}
-.selected {
-    background-color: lightblue;
-    color: black;
+    color: var(--main-light-color);
 }
 .copy-button {
-    background-color: #0d1117;
-    color: white;
+    background-color: var(--main-light-color);
+    color: var(--bg-light-color);
     border: none;
-}
-pre {
-    border:2px solid #0d1117;
-}
-.theme-switcher {
-
-}
-.tutorial {
-    background-color: lightblue;
 }
 a {
     color: darkslateblue;
 }
 .card {
-    background-color: #e6f7ff; /* Светло-голубой фон карточки */
-    color: #333; /* Темный текст */
-    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1); /* Тень */
+    background-color: lightgreen;
+    color: #333;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
 }
-
 .card:hover {
-    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Более сильная тень */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
-
-.card-title {
-    color: #003366; /* Темно-синий цвет заголовка */
-}
-
 .card-description {
-    color: #666; /* Серый цвет описания */
-}
-
-.card-button {
-    background-color: #007BFF;
-    color: #fff;
-}
-
-.card-button:hover {
-    background-color: #0056b3;
+    color: black;
 }
 .navigation-panel a, .sub-navigation-panel a {
-    background-color: #0d1117;
-    color: white;
+    background-color: var(--main-light-color);
+    color: var(--bg-light-color);
 }
-header a {
-    color: #0d1117;
-}
-#hero {
-    color: #0d1117;
-}
-footer {
-    color: #0d1117;
+header a, #hero, footer {
+    color: var(--main-light-color);
 }
