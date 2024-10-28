@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+## About the Site
+---
+Welcome to our programming website, dedicated to modern web technologies and development! We offer a variety of resources and guides for developers of all levels, from beginners to seasoned professionals.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Main page of the site
+![image.png](https://i.postimg.cc/tTLJCFJ2/image.png)
 
-## Available Scripts
+### Example
+![image1.png](https://i.postimg.cc/25ySQ0B0/image.png)
 
-In the project directory, you can run:
+### Example with using dark theme
+![image2.png](https://i.postimg.cc/bNwWN4XV/image.png)
 
-### `npm start`
+### What We Use:
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **ASP.NET Core 7 MVC**: At the core of our site is the powerful and flexible framework from Microsoft. ASP.NET Core 7 MVC allows us to create high-performance, scalable web applications using the Model-View-Controller pattern, which separates application logic, user interface, and data processing, making development and maintenance easier.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Docker**: To ensure portability and ease of deployment, our site uses containerization via Docker. Containers allow us to isolate the application and its dependencies, providing a consistent and predictable environment for development and operations. This also simplifies the CI/CD process, enabling us to quickly update and deploy our site.
 
-### `npm test`
+- **Nginx**: We use the Nginx web server for reverse proxying and load balancing. It provides fast and reliable request handling, static file serving, and load distribution, significantly enhancing the performance and resilience of our site.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### What You'll Find on Our Site:
+---
 
-### `npm run build`
+- **Tutorials and Articles**: Step-by-step guides and in-depth articles on various aspects of web development, including ASP.NET Core, Docker, Nginx, and many other technologies.
+  
+- **Code Examples**: Ready-to-use code examples and projects that you can leverage in your own development.
+  
+- **Tools and Resources**: Recommendations for the best tools and resources for developers to help you become more productive.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Why Choose Us:
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Cutting-edge Technologies**: We use the latest technologies and continuously update our knowledge to provide you with the most current information.
+  
+- **Quality Content**: Our materials are carefully reviewed and updated to meet high-quality standards.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Join our community and explore the world of programming with modern technologies!
+.
