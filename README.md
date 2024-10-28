@@ -14,11 +14,8 @@ Welcome to our programming website, dedicated to modern web technologies and dev
 ### What We Use:
 ---
 
-- **ASP.NET Core 7 MVC**: At the core of our site is the powerful and flexible framework from Microsoft. ASP.NET Core 7 MVC allows us to create high-performance, scalable web applications using the Model-View-Controller pattern, which separates application logic, user interface, and data processing, making development and maintenance easier.
+- **React**: At the core of our site is the powerful and flexible framework React!
 
-- **Docker**: To ensure portability and ease of deployment, our site uses containerization via Docker. Containers allow us to isolate the application and its dependencies, providing a consistent and predictable environment for development and operations. This also simplifies the CI/CD process, enabling us to quickly update and deploy our site.
-
-- **Nginx**: We use the Nginx web server for reverse proxying and load balancing. It provides fast and reliable request handling, static file serving, and load distribution, significantly enhancing the performance and resilience of our site.
 
 ### What You'll Find on Our Site:
 ---
